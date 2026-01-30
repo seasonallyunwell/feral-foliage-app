@@ -26,9 +26,15 @@
             width: 100%;
         }
         h1 {
-            color: #9d00ff; /* Deep purple */
+            color: #4CAF50; /* Green */
             text-align: center;
             margin-bottom: 20px;
+        }
+        h2 {
+            color: #8BC34A; /* Lighter Green */
+            text-align: center;
+            margin-top: 30px;
+            margin-bottom: 15px;
         }
         label {
             display: block;
@@ -43,10 +49,10 @@
             border-radius: 5px;
             background-color: #3a3a3a;
             color: #e0e0e0;
-            box-sizing: border-box; /* Include padding in width */
+            box-sizing: border-box;
         }
         button {
-            background-color: #9d00ff;
+            background-color: #4CAF50; /* Green */
             color: white;
             padding: 12px 20px;
             border: none;
@@ -57,9 +63,16 @@
             transition: background-color 0.3s ease;
         }
         button:hover {
-            background-color: #b000ff;
+            background-color: #66BB6A;
         }
-        #result {
+        .calculator-section {
+            margin-bottom: 40px;
+            padding: 20px;
+            border: 1px solid #333;
+            border-radius: 8px;
+            background-color: #2a2a2a;
+        }
+        #resultLight, #resultWater {
             margin-top: 25px;
             padding: 15px;
             border-radius: 8px;
@@ -75,44 +88,89 @@
             text-align: center;
         }
         a {
-            color: #9d00ff;
+            color: #4CAF50;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
+        }
+        .nav-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .nav-buttons button {
+            width: auto;
+            padding: 8px 15px;
+            font-size: 0.9em;
+            background-color: #555;
+        }
+        .nav-buttons button.active {
+            background-color: #4CAF50;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>The Unhinged Plant Parent Calculator</h1>
-        <p>Because your plants deserve the truth, not just vibes.</p>
+        <p style="text-align: center;">Because your plants deserve the truth, not just vibes. 🌱</p>
 
-        <h2>🌿 Light Me Up (Or Don't)</h2>
-        <label for="plantType">What kind of plant is this?</label>
-        <select id="plantType">
-            <option value="low">Low Light Lover (e.g., ZZ Plant, Snake Plant)</option>
-            <option value="medium">Medium Light Enthusiast (e.g., Pothos, Philodendron)</option>
-            <option value="bright">Bright Light Obsessed (e.g., Succulents, Fiddle Leaf Fig)</option>
-        </select>
-
-        <label for="windowDirection">Which direction does the nearest window face?</label>
-        <select id="windowDirection">
-            <option value="north">North (Gentle, indirect)</option>
-            <option value="east">East (Morning sun, then bright indirect)</option>
-            <option value="west">West (Harsh afternoon sun)</option>
-            <option value="south">South (Brightest all day, direct sun)</option>
-            <option value="none">No Window (You're brave)</option>
-        </select>
-
-        <label for="distance">How far is the plant from the window (in feet)?</label>
-        <input type="number" id="distance" value="3" min="0" step="0.5">
-
-        <button onclick="calculateLight()">Tell Me The Truth, Plant!</button>
-
-        <div id="result">
-            Your plant's fate awaits...
+        <div class="nav-buttons">
+            <button id="navLight" onclick="showCalculator('light')" class="active">Light</button>
+            <button id="navWater" onclick="showCalculator('water')">Water</button>
         </div>
+
+        <div id="lightCalculator" class="calculator-section">
+            <h2>🌿 Light Me Up (Or Don't)</h2>
+            <label for="plantTypeLight">What kind of plant is this?</label>
+            <select id="plantTypeLight">
+                <option value="low">Low Light Lover (e.g., ZZ Plant, Snake Plant)</option>
+                <option value="medium">Medium Light Enthusiast (e.g., Pothos, Philodendron)</option>
+                <option value="bright">Bright Light Obsessed (e.g., Succulents, Fiddle Leaf Fig)</option>
+            </select>
+
+            <label for="windowDirection">Which direction does the nearest window face?</label>
+            <select id="windowDirection">
+                <option value="north">North (Gentle, indirect)</option>
+                <option value="east">East (Morning sun, then bright indirect)</option>
+                <option value="west">West (Harsh afternoon sun)</option>
+                <option value="south">South (Brightest all day, direct sun)</option>
+                <option value="none">No Window (You're brave)</option>
+            </select>
+
+            <label for="distance">How far is the plant from the window (in feet)?</label>
+            <input type="number" id="distance" value="3" min="0" step="0.5">
+
+            <button onclick="calculateLight()">Tell Me The Truth, Plant!</button>
+
+            <div id="resultLight">
+                Your plant's fate awaits...
+            </div>
+        </div>
+
+        <div id="waterCalculator" class="calculator-section" style="display: none;">
+            <h2>💦 Oh God, Is It Thirsty?</h2>
+            <label for="plantTypeWater">What kind of plant is this?</label>
+            <select id="plantTypeWater">
+                <option value="succulent">Thirsty (e.g., Succulents, Cacti)</option>
+                <option value="tropical">Moderately Thirsty (e.g., Pothos, Monstera)</option>
+                <option value="temperate">Very Thirsty (e.g., Ferns, Peace Lily)</option>
+            </select>
+
+            <label for="potSize">Pot Size (in inches diameter):</label>
+            <input type="number" id="potSize" value="6" min="2" step="1">
+
+            <label for="lastWatered">Days since last watered:</label>
+            <input type="number" id="lastWatered" value="7" min="0" step="1">
+
+            <button onclick="calculateWatering()">Tell Me The Truth, Plant!</button>
+
+            <div id="resultWater">
+                Your plant's hydration status awaits...
+            </div>
+        </div>
+
     </div>
 
     <div class="footer">
@@ -120,8 +178,18 @@
     </div>
 
     <script>
+        function showCalculator(calculatorId) {
+            document.getElementById('lightCalculator').style.display = 'none';
+            document.getElementById('waterCalculator').style.display = 'none';
+            document.getElementById(`navLight`).classList.remove('active');
+            document.getElementById(`navWater`).classList.remove('active');
+
+            document.getElementById(`${calculatorId}Calculator`).style.display = 'block';
+            document.getElementById(`nav${calculatorId.charAt(0).toUpperCase() + calculatorId.slice(1)}`).classList.add('active');
+        }
+
         function calculateLight() {
-            const plantType = document.getElementById('plantType').value;
+            const plantType = document.getElementById('plantTypeLight').value;
             const windowDirection = document.getElementById('windowDirection').value;
             const distance = parseFloat(document.getElementById('distance').value);
             let resultText = '';
@@ -143,7 +211,6 @@
                 else if (distance <= 3) lightScore += 1;
                 else lightScore -= 1;
             } else {
-                // If no window, distance doesn't matter, but lightScore is 0
                 lightScore = 0;
             }
             
@@ -172,7 +239,41 @@
             }
 
 
-            document.getElementById('result').innerHTML = resultText;
+            document.getElementById('resultLight').innerHTML = resultText;
+        }
+
+        function calculateWatering() {
+            const plantType = document.getElementById('plantTypeWater').value;
+            const potSize = parseFloat(document.getElementById('potSize').value);
+            const lastWatered = parseInt(document.getElementById('lastWatered').value);
+            let resultText = '';
+
+            let drynessScore = lastWatered; // More days = drier
+
+            // Adjust for plant type
+            switch (plantType) {
+                case 'succulent': drynessScore -= 3; break; // Succulents like it dry
+                case 'tropical': drynessScore += 1; break; // Tropicals like more water
+                case 'temperate': drynessScore += 3; break; // Temperate like it even more
+            }
+
+            // Adjust for pot size (smaller pots dry faster)
+            if (potSize <= 4) drynessScore += 2;
+            else if (potSize <= 8) drynessScore += 1;
+            else drynessScore -= 1;
+
+            // Determine verdict
+            if (drynessScore >= 7) {
+                resultText = "Water it NOW! Your plant is staging a dramatic faint. It's practically dust.";
+            } else if (drynessScore >= 4) {
+                resultText = "It's probably thirsty. Give it a good drink, but don't drown it, you monster.";
+            } else if (drynessScore >= 0) {
+                resultText = "Still moist. Resist the urge! You're going to drown it with love (and water).";
+            } else {
+                resultText = "Whoa there, over-waterer! Back away from the watering can. Give that plant some space to dry out.";
+            }
+
+            document.getElementById('resultWater').innerHTML = resultText;
         }
     </script>
 </body>
