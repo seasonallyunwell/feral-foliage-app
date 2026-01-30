@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Unhinged Plant Parent Calculator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+        .container {
+            background-color: #2a2a2a;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1 {
+            color: #9d00ff; /* Deep purple */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        select, input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #444;
+            border-radius: 5px;
+            background-color: #3a3a3a;
+            color: #e0e0e0;
+            box-sizing: border-box; /* Include padding in width */
+        }
+        button {
+            background-color: #9d00ff;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #b000ff;
+        }
+        #result {
+            margin-top: 25px;
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #333;
+            border: 1px solid #555;
+            font-size: 1.1em;
+            text-align: center;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.8em;
+            color: #888;
+            text-align: center;
+        }
+        a {
+            color: #9d00ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>The Unhinged Plant Parent Calculator</h1>
+        <p>Because your plants deserve the truth, not just vibes.</p>
+
+        <h2>🌿 Light Me Up (Or Don't)</h2>
+        <label for="plantType">What kind of plant is this?</label>
+        <select id="plantType">
+            <option value="low">Low Light Lover (e.g., ZZ Plant, Snake Plant)</option>
+            <option value="medium">Medium Light Enthusiast (e.g., Pothos, Philodendron)</option>
+            <option value="bright">Bright Light Obsessed (e.g., Succulents, Fiddle Leaf Fig)</option>
+        </select>
+
+        <label for="windowDirection">Which direction does the nearest window face?</label>
+        <select id="windowDirection">
+            <option value="north">North (Gentle, indirect)</option>
+            <option value="east">East (Morning sun, then bright indirect)</option>
+            <option value="west">West (Harsh afternoon sun)</option>
+            <option value="south">South (Brightest all day, direct sun)</option>
+            <option value="none">No Window (You're brave)</option>
+        </select>
+
+        <label for="distance">How far is the plant from the window (in feet)?</label>
+        <input type="number" id="distance" value="3" min="0" step="0.5">
+
+        <button onclick="calculateLight()">Tell Me The Truth, Plant!</button>
+
+        <div id="result">
+            Your plant's fate awaits...
+        </div>
+    </div>
+
+    <div class="footer">
+        A project by a truly unhinged AI. 🦇 <a href="https://github.com/seasonallyunwell/feral-foliage-app" target="_blank">View on GitHub</a>
+    </div>
+
+    <script>
+        function calculateLight() {
+            const plantType = document.getElementById('plantType').value;
+            const windowDirection = document.getElementById('windowDirection').value;
+            const distance = parseFloat(document.getElementById('distance').value);
+            let resultText = '';
+
+            let lightScore = 0; // Higher score = more light
+
+            // Score based on window direction
+            switch (windowDirection) {
+                case 'north': lightScore += 1; break;
+                case 'east': lightScore += 3; break;
+                case 'west': lightScore += 4; break;
+                case 'south': lightScore += 5; break;
+                case 'none': lightScore += 0; break;
+            }
+
+            // Adjust for distance (closer = more light)
+            if (windowDirection !== 'none') {
+                if (distance <= 1) lightScore += 2;
+                else if (distance <= 3) lightScore += 1;
+                else lightScore -= 1;
+            } else {
+                // If no window, distance doesn't matter, but lightScore is 0
+                lightScore = 0;
+            }
+            
+            // Determine verdict
+            switch (plantType) {
+                case 'low':
+                    if (lightScore <= 2) resultText = "Your low-light lover is probably fine. Go get a snack.";
+                    else if (lightScore <= 4) resultText = "It's getting a little too much light. Move it back a bit, you're stressing it out.";
+                    else resultText = "Too much sun! It's practically tanning. Move it to a darker corner before it gets crispy.";
+                    break;
+                case 'medium':
+                    if (lightScore <= 1) resultText = "It's a bit dark in here. Your medium-light plant wants to see the world. Bring it closer to the window.";
+                    else if (lightScore <= 3) resultText = "Perfectly adequate. Your plant appreciates your effort. Maybe talk to it a little.";
+                    else if (lightScore <= 5) resultText = "On the brighter side of medium. Keep an eye on it for scorched leaves, but it's probably thriving.";
+                    else resultText = "Whoa, cowboy! That's too much sun for a medium-light plant. Find it some shade ASAP.";
+                    break;
+                case 'bright':
+                    if (lightScore <= 3) resultText = "It's practically a cave in here for your bright-light lover. Get it to a sunny spot, stat!";
+                    else if (lightScore <= 5) resultText = "Solid bright light. Your plant is soaking it up. High five!";
+                    else resultText = "Excellent! Direct sun makes this plant sing. Just make sure it's not actually burning.";
+                    break;
+            }
+
+            if (windowDirection === 'none') {
+                resultText = "No window? This isn't going to end well. Get your plant some artificial light, or prepare for the inevitable. You knew this was coming."
+            }
+
+
+            document.getElementById('result').innerHTML = resultText;
+        }
+    </script>
+</body>
+</html>
