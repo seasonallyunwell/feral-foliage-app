@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Repotting Roulette • Feral Foliage</title>
+  <meta name="description" content="Figure out what pot size you need and what soil mix to use. Interactive calculator for repotting houseplants.">
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#0f1110;color:#e7e7e7;margin:0;padding:24px;line-height:1.6}
+    a{color:#7ee081;text-decoration:none} a:hover{text-decoration:underline}
+    .wrap{max-width:880px;margin:0 auto}
+    .meta{color:#a7a7a7;font-size:13px;margin-bottom:14px}
+    .card{background:#171a18;border:1px solid #2a2f2c;border-radius:12px;padding:20px;margin:16px 0}
+    h1{margin:0 0 8px 0;color:#7ee081}
+    h2{margin:28px 0 12px 0;color:#7ee081;border-bottom:1px solid #2a2f2c;padding-bottom:8px}
+    h3{margin:20px 0 8px 0;color:#e7e7e7}
+    p,li{color:#d7d7d7}
+    .callout{background:#101311;border:1px solid #2a2f2c;border-radius:10px;padding:14px;margin:14px 0;color:#d7d7d7}
+    label{display:block;margin-bottom:6px;font-weight:500;color:#c7c7c7}
+    select,input[type="number"]{width:100%;padding:10px;margin-bottom:16px;border:1px solid #3a3f3c;border-radius:6px;background:#252a27;color:#e7e7e7;box-sizing:border-box}
+    .calc-btn{background:#2d5a30;color:#fff;padding:12px 20px;border:none;border-radius:6px;cursor:pointer;font-size:1em;width:100%}
+    .calc-btn:hover{background:#3a7a3e}
+    .result{margin-top:16px;padding:16px;border-radius:8px;background:#101311;border:1px solid #2a2f2c}
+    .result h3{margin:0 0 12px 0;color:#7ee081}
+    .result-section{margin:12px 0;padding:12px;background:#171a18;border-radius:8px}
+    .result-section h4{margin:0 0 8px 0;color:#e7e7e7;font-size:1em}
+    .product-link{display:inline-block;background:#1a2a1c;border:1px solid #2a3f2c;padding:6px 12px;border-radius:6px;margin:4px 4px 4px 0;font-size:0.9em}
+    .product-link:hover{background:#243526;text-decoration:none}
+    .soil-bar{display:flex;height:30px;border-radius:6px;overflow:hidden;margin:8px 0}
+    .soil-bar div{display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600}
+    table{width:100%;border-collapse:collapse;margin:16px 0;font-size:0.95em}
+    th,td{padding:10px;text-align:left;border-bottom:1px solid #2a2f2c}
+    th{color:#7ee081;font-weight:600}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="meta"><a href="/blog/">← Back to Blog</a> • <a href="/">Home</a> • <a href="/blog/starter-kit.html">Starter Kit</a></div>
+
+    <div class="card">
+      <h1>🎰 Repotting Roulette</h1>
+      <p style="margin:0 0 16px 0;color:#a7a7a7">Figure out pot size + soil mix without the guesswork</p>
+      
+      <img src="/images/repotting-flatlay.png" alt="Repotting supplies flat lay with terracotta pots, soil, and plants" style="width:100%;border-radius:10px;margin:16px 0">
+      
+      <div class="callout">
+        <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+      </div>
+
+      <h2>The Calculator</h2>
+      
+      <label for="plantType">What kind of plant?</label>
+      <select id="plantType">
+        <option value="tropical">Tropical (Monstera, Philodendron, Pothos)</option>
+        <option value="succulent">Succulent / Cactus</option>
+        <option value="aroid">Aroid (Alocasia, Anthurium)</option>
+        <option value="fern">Fern / High Humidity</option>
+        <option value="snake">Snake Plant / ZZ / Drought-tolerant</option>
+      </select>
+
+      <label for="currentPot">Current pot diameter (inches):</label>
+      <input type="number" id="currentPot" value="4" min="2" max="24" step="1">
+
+      <label for="rootBound">How root-bound is it?</label>
+      <select id="rootBound">
+        <option value="slight">Slightly — roots visible at drainage holes</option>
+        <option value="moderate">Moderately — roots circling the pot</option>
+        <option value="severe">Severely — solid root mass, no soil visible</option>
+      </select>
+
+      <label for="growth">Growth habit:</label>
+      <select id="growth">
+        <option value="slow">Slow grower</option>
+        <option value="moderate">Moderate grower</option>
+        <option value="fast">Fast grower (vigorous)</option>
+      </select>
+
+      <button class="calc-btn" onclick="calculate()">Calculate</button>
+
+      <div id="result" class="result" style="display:none">
+        <h3>Your Repotting Plan</h3>
+        <div id="potResult" class="result-section"></div>
+        <div id="soilResult" class="result-section"></div>
+        <div id="tipsResult" class="result-section"></div>
+      </div>
+
+      <h2>Pot Size Guide</h2>
+      <img src="/images/pot-drainage-diagram.png" alt="Cross-section diagram showing proper pot drainage layers" style="width:100%;max-width:500px;border-radius:10px;margin:16px 0;background:#fff">
+      
+      <h3>The "One Size Up" Rule</h3>
+      <p>Generally, go up <strong>1-2 inches</strong> in diameter. Going too big = soil stays wet too long = root rot.</p>
+      
+      <table>
+        <tr><th>Current Pot</th><th>Next Size</th><th>Notes</th></tr>
+        <tr><td>2-4"</td><td>+1"</td><td>Small plants are sensitive to overwatering</td></tr>
+        <tr><td>4-8"</td><td>+1-2"</td><td>Standard upgrade</td></tr>
+        <tr><td>8-12"</td><td>+2"</td><td>Larger pots dry slower</td></tr>
+        <tr><td>12"+</td><td>+2-4"</td><td>Big plants can handle bigger jumps</td></tr>
+      </table>
+
+      <h3>When NOT to size up</h3>
+      <ul>
+        <li>Plant is stressed or sick — repot into same size with fresh soil</li>
+        <li>You want to keep the plant small (bonsai-style)</li>
+        <li>It's a slow grower that likes being slightly root-bound (Snake plants, ZZ)</li>
+      </ul>
+
+      <h2>Soil Mix Recipes</h2>
+      
+      <h3>🌿 Tropical Mix (Monstera, Pothos, Philodendron)</h3>
+      <div class="soil-bar">
+        <div style="flex:5;background:#654321;color:#fff">50% Potting Soil</div>
+        <div style="flex:3;background:#8B4513;color:#fff">30% Perlite</div>
+        <div style="flex:2;background:#2F4F4F;color:#fff">20% Bark</div>
+      </div>
+      <p>Well-draining but retains some moisture. Add bark for extra aeration.</p>
+
+      <h3>🌵 Succulent/Cactus Mix</h3>
+      <div class="soil-bar">
+        <div style="flex:4;background:#654321;color:#fff">40% Potting Soil</div>
+        <div style="flex:4;background:#8B4513;color:#fff">40% Perlite</div>
+        <div style="flex:2;background:#D2691E;color:#fff">20% Sand</div>
+      </div>
+      <p>Fast-draining. These plants rot easily — err on the side of gritty.</p>
+
+      <h3>🪴 Aroid Mix (Alocasia, Anthurium)</h3>
+      <div class="soil-bar">
+        <div style="flex:4;background:#654321;color:#fff">40% Potting Soil</div>
+        <div style="flex:3;background:#8B4513;color:#fff">30% Perlite</div>
+        <div style="flex:2;background:#2F4F4F;color:#fff">20% Bark</div>
+        <div style="flex:1;background:#556B2F;color:#fff">10% Charcoal</div>
+      </div>
+      <p>Chunky and airy. Aroids have sensitive roots that hate sitting in water.</p>
+
+      <h3>🌿 Fern Mix (High Humidity)</h3>
+      <div class="soil-bar">
+        <div style="flex:5;background:#654321;color:#fff">50% Potting Soil</div>
+        <div style="flex:2;background:#8B4513;color:#fff">20% Perlite</div>
+        <div style="flex:3;background:#228B22;color:#fff">30% Peat/Coco Coir</div>
+      </div>
+      <p>Moisture-retentive. Ferns like it damp but not soggy.</p>
+
+      <h2>Soil Amendments — What to Buy</h2>
+      <table>
+        <tr><th>Amendment</th><th>What it does</th><th>Link</th></tr>
+        <tr>
+          <td>Perlite</td>
+          <td>Improves drainage & aeration</td>
+          <td><a href="https://www.amazon.com/dp/B08G1GBH1D?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Amazon →</a></td>
+        </tr>
+        <tr>
+          <td>Orchid Bark</td>
+          <td>Chunky drainage for aroids</td>
+          <td><a href="https://www.amazon.com/dp/B0030UQLIM?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Amazon →</a></td>
+        </tr>
+        <tr>
+          <td>Horticultural Charcoal</td>
+          <td>Absorbs toxins, prevents odor</td>
+          <td><a href="https://www.amazon.com/dp/B01HFPGR2K?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Amazon →</a></td>
+        </tr>
+        <tr>
+          <td>Coco Coir</td>
+          <td>Moisture retention (peat alternative)</td>
+          <td><a href="https://www.amazon.com/dp/B01N1X4C4U?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Amazon →</a></td>
+        </tr>
+        <tr>
+          <td>Pumice</td>
+          <td>Drainage (heavier than perlite)</td>
+          <td><a href="https://www.amazon.com/dp/B08KFWLP4F?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Amazon →</a></td>
+        </tr>
+      </table>
+
+      <h2>Repotting Tips</h2>
+      <ul>
+        <li><strong>Water 1-2 days before</strong> — easier to remove from pot, less root stress</li>
+        <li><strong>Tease out circling roots</strong> — they won't magically uncircle in the new pot</li>
+        <li><strong>Don't bury the stem deeper</strong> — keep the soil line the same</li>
+        <li><strong>Wait a few days to water after repotting</strong> — let damaged roots heal</li>
+        <li><strong>Skip fertilizer for 2-4 weeks</strong> — fresh soil has nutrients, roots are recovering</li>
+      </ul>
+
+      <div class="meta" style="margin-top:24px">Last updated: 2026-02-03</div>
+    </div>
+  </div>
+
+  <script>
+    function calculate() {
+      const plantType = document.getElementById('plantType').value;
+      const currentPot = parseInt(document.getElementById('currentPot').value);
+      const rootBound = document.getElementById('rootBound').value;
+      const growth = document.getElementById('growth').value;
+
+      // Calculate pot size
+      let potIncrease = 1;
+      if (currentPot >= 8) potIncrease = 2;
+      if (currentPot >= 12) potIncrease = 2;
+      
+      if (rootBound === 'severe') potIncrease += 1;
+      if (growth === 'fast') potIncrease += 0.5;
+      if (growth === 'slow') potIncrease -= 0.5;
+      
+      // Some plants like being snug
+      if (plantType === 'snake' || plantType === 'succulent') {
+        potIncrease = Math.max(1, potIncrease - 0.5);
+      }
+
+      potIncrease = Math.round(potIncrease);
+      const newPot = currentPot + potIncrease;
+
+      // Soil mix recommendation
+      const soilMixes = {
+        tropical: { name: 'Tropical Mix', recipe: '50% potting soil, 30% perlite, 20% bark', color: '#654321' },
+        succulent: { name: 'Succulent Mix', recipe: '40% potting soil, 40% perlite, 20% coarse sand', color: '#D2691E' },
+        aroid: { name: 'Aroid Mix', recipe: '40% potting soil, 30% perlite, 20% bark, 10% charcoal', color: '#2F4F4F' },
+        fern: { name: 'Fern Mix', recipe: '50% potting soil, 20% perlite, 30% coco coir', color: '#228B22' },
+        snake: { name: 'Fast-Draining Mix', recipe: '50% potting soil, 40% perlite, 10% sand', color: '#8B4513' }
+      };
+
+      const mix = soilMixes[plantType];
+
+      // Tips based on plant type
+      const tips = {
+        tropical: 'These are forgiving. A slightly bigger pot won\'t hurt as long as you adjust watering.',
+        succulent: 'Terracotta pots are ideal — they wick moisture away. Avoid glazed or plastic.',
+        aroid: 'Consider a clear nursery pot so you can monitor root health. They\'re drama queens.',
+        fern: 'Keep humidity high after repotting. A pebble tray or humidifier helps.',
+        snake: 'These actually like being root-bound. Only repot if it\'s literally cracking the pot.'
+      };
+
+      // Display results
+      document.getElementById('result').style.display = 'block';
+      
+      document.getElementById('potResult').innerHTML = `
+        <h4>🪴 New Pot Size</h4>
+        <p><strong>${newPot}" diameter</strong> (up from ${currentPot}")</p>
+        <p style="color:#a7a7a7;font-size:0.9em">Going up ${potIncrease}" based on root situation and growth rate.</p>
+      `;
+
+      document.getElementById('soilResult').innerHTML = `
+        <h4>🌱 Recommended Soil Mix</h4>
+        <p><strong>${mix.name}</strong></p>
+        <p>${mix.recipe}</p>
+      `;
+
+      document.getElementById('tipsResult').innerHTML = `
+        <h4>💡 Pro Tip</h4>
+        <p>${tips[plantType]}</p>
+      `;
+    }
+  </script>
+</body>
+</html>
