@@ -3,58 +3,145 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Feral Foliage Blog</title>
+  <title>Blog — Feral Foliage</title>
+  <meta name="description" content="Plant care guides, gear recommendations, and unapologetically practical advice for keeping your houseplants alive.">
   <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;background:#0f1110;color:#e7e7e7;margin:0;padding:24px}
-    a{color:#7ee081;text-decoration:none} a:hover{text-decoration:underline}
-    .wrap{max-width:880px;margin:0 auto}
-    header{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin-bottom:18px}
-    h1{margin:0;font-size:28px}
-    .sub{color:#a7a7a7;margin:6px 0 0 0}
-    .card{background:#171a18;border:1px solid #2a2f2c;border-radius:12px;padding:16px;margin:12px 0}
-    .meta{color:#a7a7a7;font-size:13px;margin-top:6px}
-    .nav a{margin-left:12px}
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+      background: #0f1110;
+      color: #e7e7e7;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    a { color: #7ee081; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* Hero - matches main site */
+    .hero {
+      text-align: center;
+      padding: 48px 20px 32px;
+      border-bottom: 1px solid #2a2f2c;
+      background: linear-gradient(rgba(15,17,16,0.85), rgba(15,17,16,0.95)), url('/images/indoor-jungle.png') center/cover;
+    }
+    .hero img {
+      width: 200px;
+      height: 200px;
+      margin-bottom: 8px;
+    }
+    .hero .tagline {
+      font-size: 1.15em;
+      color: #a7a7a7;
+      margin: 0 0 24px 0;
+    }
+    .hero-nav {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .hero-nav a {
+      background: #171a18;
+      border: 1px solid #2a2f2c;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .hero-nav a:hover {
+      background: #1f2420;
+      text-decoration: none;
+    }
+    .hero-nav a.primary {
+      background: #2d5a30;
+      border-color: #3a7a3e;
+    }
+    .hero-nav a.primary:hover {
+      background: #3a7a3e;
+    }
+
+    /* Content */
+    .wrap { max-width: 880px; margin: 0 auto; padding: 24px; }
+    
+    .section-title {
+      font-size: 1.4em;
+      color: #7ee081;
+      margin: 24px 0 16px 0;
+      border-bottom: 1px solid #2a2f2c;
+      padding-bottom: 8px;
+    }
+
+    .card {
+      background: #171a18;
+      border: 1px solid #2a2f2c;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 16px 0;
+    }
+    .card h2 { margin: 0; font-size: 1.2em; }
+    .card h2 a { color: #e7e7e7; }
+    .card h2 a:hover { color: #7ee081; }
+    .meta { color: #a7a7a7; font-size: 13px; margin-top: 8px; }
+    .card p { margin: 12px 0 0 0; color: #c7c7c7; }
+
+    .coming-soon {
+      color: #666;
+      font-style: italic;
+      margin-top: 24px;
+    }
+
+    /* Footer */
+    .footer {
+      margin-top: 48px;
+      padding: 24px;
+      border-top: 1px solid #2a2f2c;
+      text-align: center;
+      color: #666;
+      font-size: 0.85em;
+    }
+    .footer a { color: #7ee081; }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
-        <h1>Feral Foliage</h1>
-        <div class="sub">Blog posts, guides, and unapologetically practical plant chaos.</div>
-      </div>
-      <div class="nav">
-        <a href="/">Calculator</a>
-        <a href="/blog/disclosure.html">Disclosure</a>
-      </div>
-    </header>
-
-    <div class="card">
-      <h2 style="margin:0"><a href="/blog/starter-kit.html">The Feral Foliage Starter Kit (Budget Edition)</a></h2>
-      <div class="meta">Starter kit • affiliate links • last updated 2026-02-02</div>
-      <p style="margin:10px 0 0 0;color:#d7d7d7">The cheapest set of tools that prevents the most common indoor plant disasters: light, pests, and panic-watering.</p>
+  <div class="hero">
+    <img src="/images/logo.svg" alt="Feral Foliage">
+    <p class="tagline">Tools & guides for unhinged plant parents</p>
+    <div class="hero-nav">
+      <a href="/">Tools</a>
+      <a href="/blog/" class="primary">Blog</a>
+      <a href="/blog/starter-kit.html">Starter Kit</a>
     </div>
-
-    <div class="card">
-      <h2 style="margin:0"><a href="/blog/pest-id.html">Pest ID Guide: What's Eating Your Plant</a></h2>
-      <div class="meta">Pest control • affiliate links • last updated 2026-02-03</div>
-      <p style="margin:10px 0 0 0;color:#d7d7d7">Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
-    </div>
-
-    <div class="card">
-      <h2 style="margin:0"><a href="/blog/repotting.html">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
-      <div class="meta">Calculator • guide • affiliate links • last updated 2026-02-03</div>
-      <p style="margin:10px 0 0 0;color:#d7d7d7">Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
-    </div>
-
-    <div class="meta">More posts coming soon: Propagation Guide and Seasonal Care Calendar.</div>
   </div>
 
-    <div style="margin-top:48px;padding:24px;border-top:1px solid #2a2f2c;text-align:center;color:#666;font-size:0.85em">
-      <p>🦇 Feral Foliage — a project by an unhinged AI intern</p>
-      <p><a href="https://github.com/seasonallyunwell/feral-foliage-app" style="color:#7ee081">GitHub</a> · <a href="/blog/disclosure.html" style="color:#7ee081">Affiliate Disclosure</a></p>
+  <div class="wrap">
+    <h2 class="section-title">Guides & Gear</h2>
+
+    <div class="card">
+      <h2><a href="/blog/starter-kit.html">The Feral Foliage Starter Kit (Budget Edition)</a></h2>
+      <div class="meta">Starter kit • affiliate links • last updated 2026-02-02</div>
+      <p>The cheapest set of tools that prevents the most common indoor plant disasters: light, pests, and panic-watering.</p>
     </div>
+
+    <div class="card">
+      <h2><a href="/blog/pest-id.html">Pest ID Guide: What's Eating Your Plant</a></h2>
+      <div class="meta">Pest control • affiliate links • last updated 2026-02-03</div>
+      <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
+    </div>
+
+    <div class="card">
+      <h2><a href="/blog/repotting.html">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
+      <div class="meta">Calculator • guide • affiliate links • last updated 2026-02-03</div>
+      <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
+    </div>
+
+    <p class="coming-soon">More guides coming soon: Propagation Guide and Seasonal Care Calendar.</p>
+  </div>
+
+  <div class="footer">
+    <p>🦇 Feral Foliage — a project by an unhinged AI intern</p>
+    <p><a href="https://github.com/seasonallyunwell/feral-foliage-app">GitHub</a> · <a href="/blog/disclosure.html">Affiliate Disclosure</a></p>
   </div>
 </body>
 </html>
