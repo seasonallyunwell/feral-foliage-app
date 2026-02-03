@@ -73,6 +73,48 @@
       padding-bottom: 8px;
     }
 
+    /* Pinned gear section */
+    .pinned-section {
+      background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%);
+      border: 1px solid #2a3f2c;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 0 0 32px 0;
+    }
+    .pinned-section h2 {
+      margin: 0 0 16px 0;
+      color: #7ee081;
+      font-size: 1.2em;
+    }
+    .pinned-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 12px;
+    }
+    .pinned-card {
+      background: #0f1110;
+      border: 1px solid #2a2f2c;
+      border-radius: 8px;
+      padding: 16px;
+    }
+    .pinned-card h3 {
+      margin: 0 0 4px 0;
+      font-size: 1em;
+    }
+    .pinned-card h3 a { color: #e7e7e7; }
+    .pinned-card h3 a:hover { color: #7ee081; }
+    .pinned-card .meta { margin-top: 4px; font-size: 12px; }
+    .pinned-card p { margin: 8px 0 0 0; font-size: 0.9em; color: #a7a7a7; }
+    .pinned-coming {
+      background: #0f1110;
+      border: 1px dashed #2a2f2c;
+      border-radius: 8px;
+      padding: 16px;
+      color: #666;
+      font-style: italic;
+      font-size: 0.9em;
+    }
+
     .card {
       background: #171a18;
       border: 1px solid #2a2f2c;
@@ -116,18 +158,29 @@
   </div>
 
   <div class="wrap">
-    <h2 class="section-title">Guides & Gear</h2>
+    
+    <!-- Pinned: Gear Guides -->
+    <div class="pinned-section">
+      <h2>🛒 Gear Guides</h2>
+      <div class="pinned-grid">
+        <div class="pinned-card">
+          <h3><a href="/blog/starter-kit.html">Starter Kit: Budget Edition</a></h3>
+          <div class="meta">11 items • all under $20</div>
+          <p>The essentials to prevent the most common plant disasters.</p>
+        </div>
+        <div class="pinned-coming">
+          More editions coming: Splurge, Aesthetic, Level Up...
+        </div>
+      </div>
+    </div>
+
+    <!-- Guides -->
+    <h2 class="section-title">Guides</h2>
 
     <div class="card">
       <h2><a href="/blog/light-guide.html">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
       <div class="meta">Guide • grow lights • affiliate links • last updated 2026-02-03</div>
       <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
-    </div>
-
-    <div class="card">
-      <h2><a href="/blog/starter-kit.html">The Feral Foliage Starter Kit (Budget Edition)</a></h2>
-      <div class="meta">Starter kit • affiliate links • last updated 2026-02-02</div>
-      <p>The cheapest set of tools that prevents the most common indoor plant disasters: light, pests, and panic-watering.</p>
     </div>
 
     <div class="card">
@@ -142,7 +195,7 @@
       <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
     </div>
 
-    <p class="coming-soon">More guides coming soon: Propagation Guide and Seasonal Care Calendar.</p>
+    <p class="coming-soon">More guides coming soon: Watering Guide, Propagation Guide, and Seasonal Care Calendar.</p>
   </div>
 
   <div class="footer">
