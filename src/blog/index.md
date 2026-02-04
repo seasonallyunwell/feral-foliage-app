@@ -1,0 +1,118 @@
+---
+layout: minimal.njk
+title: Blog
+description: Plant care guides, gear recommendations, and unapologetically practical advice for keeping your houseplants alive.
+permalink: /blog/
+---
+
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    background: #0f1110;
+    color: #e7e7e7;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  a { color: #7ee081; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .hero {
+    text-align: center;
+    padding: 48px 20px 32px;
+    border-bottom: 1px solid #2a2f2c;
+    background: linear-gradient(rgba(15,17,16,0.85), rgba(15,17,16,0.95)), url('/images/indoor-jungle.png') center/cover;
+  }
+  .hero img { width: 200px; height: 200px; margin-bottom: 8px; }
+  .hero .tagline { font-size: 1.15em; color: #a7a7a7; margin: 0 0 24px 0; }
+  .hero-nav { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
+  .hero-nav a { background: #171a18; border: 1px solid #2a2f2c; padding: 10px 20px; border-radius: 8px; font-weight: 600; }
+  .hero-nav a:hover { background: #1f2420; text-decoration: none; }
+  .hero-nav a.primary { background: #2d5a30; border-color: #3a7a3e; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 24px; }
+  .section-title { font-size: 1.4em; color: #7ee081; margin: 24px 0 16px 0; border-bottom: 1px solid #2a2f2c; padding-bottom: 8px; }
+  .pinned-section { background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%); border: 1px solid #2a3f2c; border-radius: 12px; padding: 20px; margin: 0 0 32px 0; }
+  .pinned-section h2 { margin: 0 0 16px 0; color: #7ee081; font-size: 1.2em; }
+  .pinned-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 12px; }
+  .pinned-card { background: #0f1110; border: 1px solid #2a2f2c; border-radius: 8px; padding: 16px; }
+  .pinned-card h3 { margin: 0 0 4px 0; font-size: 1em; }
+  .pinned-card h3 a { color: #e7e7e7; }
+  .pinned-card h3 a:hover { color: #7ee081; }
+  .pinned-card .meta { margin-top: 4px; font-size: 12px; color: #a7a7a7; }
+  .pinned-card p { margin: 8px 0 0 0; font-size: 0.9em; color: #a7a7a7; }
+  .pinned-coming { background: #0f1110; border: 1px dashed #2a2f2c; border-radius: 8px; padding: 16px; color: #666; font-style: italic; font-size: 0.9em; }
+  .card { background: #171a18; border: 1px solid #2a2f2c; border-radius: 12px; padding: 20px; margin: 16px 0; }
+  .card h2 { margin: 0; font-size: 1.2em; }
+  .card h2 a { color: #e7e7e7; }
+  .card h2 a:hover { color: #7ee081; }
+  .meta { color: #a7a7a7; font-size: 13px; margin-top: 8px; }
+  .card p { margin: 12px 0 0 0; color: #c7c7c7; }
+  .coming-soon { color: #666; font-style: italic; margin-top: 24px; }
+  .footer { margin-top: 48px; padding: 24px; border-top: 1px solid #2a2f2c; text-align: center; color: #666; font-size: 0.85em; }
+  .footer a { color: #7ee081; }
+</style>
+
+<div class="hero">
+  <img src="/images/logo.svg" alt="Feral Foliage">
+  <p class="tagline">Tools & guides for unhinged plant parents</p>
+  <div class="hero-nav">
+    <a href="/">Tools</a>
+    <a href="/blog/" class="primary">Blog</a>
+    <a href="/blog/starter-kit/">Starter Kit</a>
+  </div>
+</div>
+
+<div class="wrap">
+  
+  <div class="pinned-section">
+    <h2>🛒 Gear Guides</h2>
+    <div class="pinned-grid">
+      <div class="pinned-card">
+        <h3><a href="/blog/starter-kit/">Starter Kit: Budget Edition</a></h3>
+        <div class="meta">11 items • all under $20</div>
+        <p>The essentials to prevent the most common plant disasters.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/pest-control-kit/">Pest Control Starter Kit</a></h3>
+        <div class="meta">Minimal kit • affiliate links</div>
+        <p>What to buy first (and what to skip) to stop pests without nuking your plants.</p>
+      </div>
+      <div class="pinned-coming">
+        More editions coming: Splurge, Aesthetic, Level Up...
+      </div>
+    </div>
+  </div>
+
+  <h2 class="section-title">Guides</h2>
+
+  <div class="card">
+    <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
+    <div class="meta">Guide • grow lights • affiliate links</div>
+    <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/pest-id/">Pest ID Guide: What's Eating Your Plant</a></h2>
+    <div class="meta">Pest control • affiliate links</div>
+    <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/pest-control-kit/">Pest Control Starter Kit: The Minimal Gear That Works</a></h2>
+    <div class="meta">Gear guide • affiliate links</div>
+    <p>The short list: sticky traps, BTI, insecticidal soap, and a loupe. Plus add-ons if you're ready to escalate.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/repotting/">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
+    <div class="meta">Calculator • guide • affiliate links</div>
+    <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
+  </div>
+
+  <p class="coming-soon">More guides coming soon: Watering Guide, Propagation Guide, and Seasonal Care Calendar.</p>
+</div>
+
+<div class="footer">
+  <p>🌿 Feral Foliage — unapologetically practical plant care</p>
+  <p><a href="https://github.com/seasonallyunwell/feral-foliage-app">GitHub</a> · <a href="/disclosure/">Affiliate Disclosure</a></p>
+</div>

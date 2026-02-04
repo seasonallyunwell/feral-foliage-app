@@ -1,12 +1,15 @@
-*.md
-projects/seasonally-unwell/
-projects/dashboard/
-memory/
-MEMORY.md
+# Build output
+_site/
+
+# Dependencies
+node_modules/
+
+# Personal/operational files (shouldn't be in app repo)
 USER.md
-AGENTS.md
+MEMORY.md
 IDENTITY.md
-SOUL.md
-TOOLS.md
-HEARTBEAT.md
-BOOTSTRAP.md
+memory/
+
+# System
+.DS_Store
+*.swp
