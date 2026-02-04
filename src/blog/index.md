@@ -99,8 +99,14 @@ permalink: /blog/
 
   <div class="card">
     <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
-    <div class="meta">Guide • affiliate links • NEW</div>
+    <div class="meta">Guide • affiliate links</div>
     <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/humidity/">Humidity Guide: Why Your Tropicals Hate Your Apartment</a></h2>
+    <div class="meta">Guide • affiliate links • NEW</div>
+    <p>Which plants need humidity, signs they're struggling, and how to actually fix it (spoiler: get a humidifier).</p>
   </div>
 
   <div class="card">
@@ -121,7 +127,7 @@ permalink: /blog/
     <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
   </div>
 
-  <p class="coming-soon">More guides coming soon: Humidity Guide and Seasonal Care Calendar.</p>
+  <p class="coming-soon">More guides coming soon: Fertilizer Guide and Seasonal Care Calendar.</p>
 </div>
 
 <div class="footer">
