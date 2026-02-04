@@ -93,8 +93,14 @@ permalink: /blog/
 
   <div class="card">
     <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
-    <div class="meta">Guide • affiliate links • NEW</div>
+    <div class="meta">Guide • affiliate links</div>
     <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
+    <div class="meta">Guide • affiliate links • NEW</div>
+    <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>
   </div>
 
   <div class="card">
@@ -115,7 +121,7 @@ permalink: /blog/
     <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
   </div>
 
-  <p class="coming-soon">More guides coming soon: Watering Guide, Propagation Guide, and Seasonal Care Calendar.</p>
+  <p class="coming-soon">More guides coming soon: Humidity Guide and Seasonal Care Calendar.</p>
 </div>
 
 <div class="footer">
