@@ -68,9 +68,10 @@ permalink: /
       <a href="#lightCalc" class="btn" onclick="showCalc('light')" style="margin-left:8px">Quick Calc</a>
     </div>
     <div class="tool-card">
-      <h3>💦 Watering Calculator</h3>
-      <p>Should you water it? Probably not. But let's check anyway.</p>
-      <a href="#waterCalc" class="btn" onclick="showCalc('water')">Use Tool</a>
+      <h3>💦 Watering Guide</h3>
+      <p>When and how to water without killing your plants.</p>
+      <a href="/blog/watering-guide/" class="btn">View Guide</a>
+      <a href="#waterCalc" class="btn" onclick="showCalc('water')" style="margin-left:8px">Quick Calc</a>
     </div>
     <div class="tool-card">
       <h3>🪴 Repotting Roulette</h3>

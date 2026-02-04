@@ -92,6 +92,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
+    <div class="meta">Guide • affiliate links • NEW</div>
+    <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pest-id/">Pest ID Guide: What's Eating Your Plant</a></h2>
     <div class="meta">Pest control • affiliate links</div>
     <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
