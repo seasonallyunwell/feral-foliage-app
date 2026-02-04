@@ -142,7 +142,7 @@ permalink: /
 
 <div class="footer">
   <p>🌿 Feral Foliage — unapologetically practical plant care</p>
-  <p><a href="https://github.com/seasonallyunwell/feral-foliage-app">GitHub</a> · <a href="/disclosure/">Affiliate Disclosure</a></p>
+  <p><a href="/disclosure/">Affiliate Disclosure</a></p>
 </div>
 
 <script>
