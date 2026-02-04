@@ -10,6 +10,8 @@ description: How to turn one plant into many. Water vs soil propagation, stem cu
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">How to turn one plant into many (for free)</p>
 
+<img src="/images/propagation-jars.png" alt="Glass jars with pothos cuttings showing roots growing in water on a wooden shelf" style="width:100%;border-radius:10px;margin:0 0 16px 0">
+
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
@@ -39,6 +41,8 @@ For most houseplant propagation, you need:
 ## Finding the Node
 
 **The node is everything.** This is where roots will grow from.
+
+<img src="/images/node-diagram.png" alt="Botanical diagram showing pothos stem nodes, leaves, and aerial roots" style="width:100%;max-width:500px;border-radius:10px;margin:16px 0">
 
 A node is the bump or joint on a stem where:
 - A leaf attaches (or used to)

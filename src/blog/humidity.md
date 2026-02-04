@@ -10,6 +10,8 @@ description: How to keep tropical houseplants happy with proper humidity. Signs 
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">Why your tropical plants hate your dry apartment</p>
 
+<img src="/images/humidity-hero.png" alt="Tropical houseplants with humidifier mist and water droplets on leaves" style="width:100%;border-radius:10px;margin:0 0 16px 0">
+
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
@@ -21,6 +23,8 @@ Most homes sit at 30-50% humidity. Your tropical plants came from jungles runnin
 In winter, when heating kicks in, indoor humidity can drop to 20-30%. That's desert-level dry. Your calathea is not amused.
 
 ## Do You Actually Need More Humidity?
+
+<img src="/images/humidity-scale.png" alt="Humidity scale showing arid plants at 20-40% and tropical plants at 50-70%" style="width:100%;border-radius:10px;margin:16px 0">
 
 **Not every plant cares.** Before you buy a humidifier, check if your plants actually need it.
 
@@ -99,6 +103,8 @@ The real solution. Consistently raises humidity in the area.
 </div>
 
 ### Method 2: Pebble Tray (Modest Help)
+
+<img src="/images/pebble-tray.png" alt="Plant in terracotta pot sitting on a pebble tray with water" style="width:100%;max-width:500px;border-radius:10px;margin:16px 0">
 
 A tray of pebbles with water underneath your plant. As water evaporates, it raises humidity around the plant.
 

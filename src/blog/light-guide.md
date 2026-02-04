@@ -10,6 +10,8 @@ description: Everything you need to know about houseplant lighting. Window place
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">How to stop slowly killing your plants in dark corners</p>
 
+<img src="/images/grow-light-shelf.png" alt="Plant shelf with grow lights illuminating various houseplants" style="width:100%;border-radius:10px;margin:0 0 16px 0">
+
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>

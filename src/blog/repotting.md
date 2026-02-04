@@ -68,7 +68,7 @@ description: Figure out what pot size you need and what soil mix to use. Interac
 
 ## Pot Size Guide
 
-<img src="/images/pot-drainage-diagram.png" alt="Cross-section diagram showing proper pot drainage layers" style="width:100%;max-width:500px;border-radius:10px;margin:16px 0;background:#fff">
+<img src="/images/drainage-diagram-new.png" alt="Diagram showing proper pot drainage with drainage holes, pebble layer, soil, and roots" style="width:100%;max-width:600px;border-radius:10px;margin:16px 0">
 
 ### The "One Size Up" Rule
 

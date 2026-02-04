@@ -10,6 +10,8 @@ description: Learn when and how to water houseplants without killing them. Soil 
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">How to stop drowning your plants in love</p>
 
+<img src="/images/watering-hero.png" alt="Person watering a monstera plant with a copper watering can" style="width:100%;border-radius:10px;margin:0 0 16px 0">
+
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
@@ -54,6 +56,8 @@ This works for most tropical houseplants. For succulents, go deeper (they need t
 ### Moisture Meters
 
 If you want to take the guesswork out:
+
+<img src="/images/moisture-meter.png" alt="Using a moisture meter on a snake plant in a terracotta pot" style="width:100%;max-width:600px;border-radius:10px;margin:16px 0">
 
 <a href="https://www.amazon.com/dp/B00PTLGKSQ?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Dr.meter Soil Moisture Meter (~$13) →</a>
 
@@ -122,6 +126,10 @@ Use it as a guide, not gospel. "Dry" on the meter + your finger says dry = defin
 - You have fungus gnats (keeps the top layer dry)
 - Plants that don't like wet leaves
 
+## Signs of Over vs Underwatering
+
+<img src="/images/watering-comparison.png" alt="Comparison of overwatered plant with yellow leaves vs underwatered plant with crispy brown edges" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## Signs You're Overwatering
 
 - **Yellow leaves** (often lower leaves first)
@@ -148,6 +156,8 @@ The good news: most underwatered plants bounce back within hours of a good drink
 ## The Drainage Commandment
 
 **Always use pots with drainage holes.**
+
+<img src="/images/drainage-diagram-new.png" alt="Diagram showing proper pot drainage with drainage holes, pebble layer, soil, and roots" style="width:100%;max-width:600px;border-radius:10px;margin:16px 0">
 
 No drainage = water pools at the bottom = roots sitting in swamp = root rot = dead plant.
 
