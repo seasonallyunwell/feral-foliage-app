@@ -8,7 +8,7 @@ description: The minimal pest control kit for houseplants. What to buy first, wh
 
 # 🧰 Pest Control Starter Kit (Houseplants)
 
-<img src="/images/pest-header-botanical.png" alt="Botanical illustration of leaves and common plant pests" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/pest-control-flatlay.png" alt="Flat lay of pest control supplies: yellow sticky trap, spray bottle, mosquito bits, rubbing alcohol, cotton swabs, and brush on marble" style="width:100%;border-radius:10px;margin:16px 0">
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">A minimal kit that covers 80% of indoor plant pest problems without turning your home into a chemical incident.</p>
 
