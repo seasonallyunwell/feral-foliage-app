@@ -24,9 +24,10 @@ permalink: /
   .featured .cta:hover { background: #3a7a3e; text-decoration: none; }
   .section-title { font-size: 1.4em; color: #7ee081; margin: 40px 0 16px 0; border-bottom: 1px solid #2a2f2c; padding-bottom: 8px; }
   .tools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
-  .tool-card { background: #171a18; border: 1px solid #2a2f2c; border-radius: 10px; padding: 20px; }
+  .tool-card { background: #171a18; border: 1px solid #2a2f2c; border-radius: 10px; padding: 20px; display: flex; flex-direction: column; }
   .tool-card h3 { margin: 0 0 8px 0; color: #e7e7e7; font-size: 1.1em; }
-  .tool-card p { margin: 0 0 12px 0; color: #a7a7a7; font-size: 0.95em; }
+  .tool-card p { margin: 0 0 12px 0; color: #a7a7a7; font-size: 0.95em; flex-grow: 1; }
+  .tool-card .btn-row { margin-top: auto; }
   .tool-card .btn { display: inline-block; background: #252a27; border: 1px solid #3a3f3c; padding: 8px 16px; border-radius: 6px; font-size: 0.9em; color: #7ee081; }
   .tool-card .btn:hover { background: #2f3532; text-decoration: none; }
   .calculator-section { background: #171a18; border: 1px solid #2a2f2c; border-radius: 10px; padding: 20px; margin-top: 16px; }
@@ -64,24 +65,32 @@ permalink: /
     <div class="tool-card">
       <h3>🌿 Light Guide</h3>
       <p>Window placement, light levels, grow light recs — everything about keeping plants lit.</p>
-      <a href="/blog/light-guide/" class="btn">View Guide</a>
-      <a href="#lightCalc" class="btn" onclick="showCalc('light')" style="margin-left:8px">Quick Calc</a>
+      <div class="btn-row">
+        <a href="/blog/light-guide/" class="btn">View Guide</a>
+        <a href="#lightCalc" class="btn" onclick="showCalc('light')" style="margin-left:8px">Quick Calc</a>
+      </div>
     </div>
     <div class="tool-card">
       <h3>💦 Watering Guide</h3>
       <p>When and how to water without killing your plants.</p>
-      <a href="/blog/watering-guide/" class="btn">View Guide</a>
-      <a href="#waterCalc" class="btn" onclick="showCalc('water')" style="margin-left:8px">Quick Calc</a>
+      <div class="btn-row">
+        <a href="/blog/watering-guide/" class="btn">View Guide</a>
+        <a href="#waterCalc" class="btn" onclick="showCalc('water')" style="margin-left:8px">Quick Calc</a>
+      </div>
     </div>
     <div class="tool-card">
       <h3>🪴 Repotting Roulette</h3>
       <p>What pot size? What soil mix? Calculator + recipes.</p>
-      <a href="/blog/repotting/" class="btn">Use Tool</a>
+      <div class="btn-row">
+        <a href="/blog/repotting/" class="btn">Use Tool</a>
+      </div>
     </div>
     <div class="tool-card">
       <h3>🐛 Pest ID Guide</h3>
       <p>Identify what's eating your plant and how to stop it.</p>
-      <a href="/blog/pest-id/" class="btn">View Guide</a>
+      <div class="btn-row">
+        <a href="/blog/pest-id/" class="btn">View Guide</a>
+      </div>
     </div>
   </div>
 
