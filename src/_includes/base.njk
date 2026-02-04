@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.gtag }}');
+  </script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title }} • {{ site.name }}</title>
+  <link rel="icon" type="image/svg+xml" href="/images/logo.svg">
+  <meta name="description" content="{{ description }}">
+  <style>
+    * { box-sizing: border-box; }
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#0f1110;color:#e7e7e7;margin:0;padding:0;line-height:1.6}
+    a{color:#7ee081;text-decoration:none} a:hover{text-decoration:underline}
+    .wrap{max-width:880px;margin:0 auto;padding:24px}
+    .meta{color:#a7a7a7;font-size:13px;margin-bottom:14px}
+    .card{background:#171a18;border:1px solid #2a2f2c;border-radius:12px;padding:20px;margin:16px 0}
+    h1{margin:0 0 8px 0;color:#7ee081}
+    h2{margin:28px 0 12px 0;color:#7ee081;border-bottom:1px solid #2a2f2c;padding-bottom:8px}
+    h3{margin:20px 0 8px 0;color:#e7e7e7}
+    p,li{color:#d7d7d7}
+    .callout{background:#101311;border:1px solid #2a2f2c;border-radius:10px;padding:14px;margin:14px 0;color:#d7d7d7}
+    .threat{display:inline-block;padding:2px 8px;border-radius:4px;font-size:0.85em;font-weight:600}
+    .threat.yellow{background:#554400;color:#ffcc00}
+    .threat.orange{background:#553300;color:#ff9900}
+    .threat.red{background:#550000;color:#ff4444}
+    table{width:100%;border-collapse:collapse;margin:16px 0;font-size:0.95em}
+    th,td{padding:10px;text-align:left;border-bottom:1px solid #2a2f2c}
+    th{color:#7ee081;font-weight:600}
+    ol,ul{padding-left:24px}
+    .product-link{display:inline-block;background:#1a2a1c;border:1px solid #2a3f2c;padding:6px 12px;border-radius:6px;margin:4px 0;font-size:0.9em}
+    .product-link:hover{background:#243526;text-decoration:none}
+    .light-level{display:inline-block;padding:4px 10px;border-radius:4px;font-size:0.85em;font-weight:600;margin-right:8px}
+    .light-level.low{background:#1a1a2e;color:#a0a0ff}
+    .light-level.medium{background:#2e2e1a;color:#ffff80}
+    .light-level.bright{background:#2e2a1a;color:#ffcc00}
+    .light-level.direct{background:#2e1a1a;color:#ff8888}
+    .callout.tip{border-left:3px solid #7ee081}
+    .callout.warning{border-left:3px solid #ffcc00}
+    .nav{display:flex;gap:16px;justify-content:center;padding:16px;border-bottom:1px solid #2a2f2c}
+    .footer{margin-top:48px;padding:24px;border-top:1px solid #2a2f2c;text-align:center;color:#666;font-size:0.85em}
+    img{max-width:100%;height:auto}
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <a href="/">🌿 Home</a>
+    <a href="/blog/">Blog</a>
+    <a href="/blog/starter-kit/">Starter Kit</a>
+    <a href="/blog/pest-id/">Pest ID</a>
+  </nav>
+
+  <div class="wrap">
+    {{ content | safe }}
+  </div>
+
+  <div class="footer">
+    <p>🌿 {{ site.name }} — {{ site.tagline }}</p>
+    <p><a href="https://github.com/seasonallyunwell/feral-foliage-app">GitHub</a> · <a href="/disclosure/">Affiliate Disclosure</a></p>
+  </div>
+</body>
+</html>
