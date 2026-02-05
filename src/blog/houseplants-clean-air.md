@@ -10,7 +10,7 @@ description: The famous NASA study was for space stations, not your apartment. H
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">The internet won't tell you this, but the "plants purify air" claim is mostly marketing.</p>
 
-<img src="/images/air-quality-plants-hero.png" alt="Houseplants in a bright room: snake plant, peace lily, spider plant, aloe vera" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/air-quality-plants-hero.png" alt="Bright airy room with snake plant, spider plant, peace lily, aloe vera on shelves" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
 <strong>TL;DR:</strong> Plants do technically filter some VOCs, but you'd need 1 plant per 100 square feet to see any real effect. Ventilation does more in 5 minutes than plants do in a month.

@@ -12,10 +12,6 @@ description: The most forgiving houseplants for beginners who kill everything. F
 
 <img src="/images/easiest-houseplants-hero.png" alt="Flat lay of 10 easy houseplants in nursery pots: snake plant, pothos, ZZ plant, spider plant, peace lily, aloe vera, jade plant, peperomia, philodendron, chinese evergreen" style="width:100%;border-radius:10px;margin:16px 0">
 
-<div class="callout" style="background:#2a2a2a;border-left:4px solid #7ee081">
-<strong>Hero image needed:</strong> Run prompt from <code>image-prompts.md</code> through MJ/Nano, save as <code>src/images/easiest-houseplants-hero.png</code>
-</div>
-
 <div class="callout">
 <strong>First, a confession:</strong> The phrase "you just have to water it when you remember" is not a care instruction. If that's your actual plan, you need plants from this list.
 </div>
