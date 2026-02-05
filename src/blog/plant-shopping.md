@@ -12,6 +12,10 @@ description: Don't make these mistakes at the plant store. Here's how to choose 
 
 <img src="/images/plant-shopping-hero.png" alt="Person examining plants at a nursery" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Where to Buy Plants

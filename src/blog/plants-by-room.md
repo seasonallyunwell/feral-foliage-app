@@ -12,6 +12,10 @@ description: Bedroom plants, bathroom plants, office plants, and dark corner sol
 
 <img src="/images/plants-by-room-hero.png" alt="Different rooms with matching plants: bathroom ferns, bedroom snake plant, office pothos" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Bedroom Plants

@@ -13,10 +13,10 @@ description: The complete guide to repotting houseplants without causing transpl
 <img src="/images/repotting-guide-hero.png" alt="Hands gently removing plant from pot, showing root ball" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-
-<div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Repot when roots are circling or growth has stalled. Don't size up more than 1-2 inches. Handle roots gently. Don't fertilize for 2-4 weeks after.
 </div>
 

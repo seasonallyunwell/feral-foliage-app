@@ -12,6 +12,10 @@ description: Drooping isn't always death. Here's how to tell what's wrong and fi
 
 <img src="/images/drooping-guide-hero.png" alt="Drooping plant vs healthy plant comparison" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Quick Diagnosis Chart

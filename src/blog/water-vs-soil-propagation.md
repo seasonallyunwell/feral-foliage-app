@@ -13,10 +13,10 @@ description: Step-by-step comparison of propagating houseplants in water versus 
 <img src="/images/propagation-comparison.png" alt="Side by side: glass jar with water propagation vs pot with soil propagation" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-
-<div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Water propagation is easier to monitor. Soil propagation produces stronger roots faster. Both work — choose based on what you want to see.
 </div>
 

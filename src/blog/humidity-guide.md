@@ -12,6 +12,10 @@ description: Pebble trays, humidifiers, and other methods that actually work.
 
 <img src="/images/humidity-guide-hero.png" alt="Humidifier with tropical plants around it" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Why Humidity Matters

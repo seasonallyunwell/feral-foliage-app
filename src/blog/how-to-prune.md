@@ -12,6 +12,10 @@ description: Pruning isn't just cutting — it's shaping, encouraging, and multi
 
 <img src="/images/pruning-guide-hero.png" alt="Hands pruning a pothos vine, showing where to cut" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Why Prune?

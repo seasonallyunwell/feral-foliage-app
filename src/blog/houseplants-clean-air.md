@@ -1,6 +1,6 @@
 ---
-layout
-title: House: base.njkplants for Clean Air — What Actually Works vs. NASA Myth
+layout: base.njk
+title: Houseplants for Clean Air — What Actually Works vs. NASA Myth
 description: The famous NASA study was for space stations, not your apartment. Here's what the science actually says about plants and air quality.
 ---
 
@@ -13,10 +13,10 @@ description: The famous NASA study was for space stations, not your apartment. H
 <img src="/images/air-quality-plants-hero.png" alt="Bright airy room with snake plant, spider plant, peace lily, aloe vera on shelves" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-
-<div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Plants do technically filter some VOCs, but you'd need 1 plant per 100 square feet to see any real effect. Ventilation does more in 5 minutes than plants do in a month.
 </div>
 

@@ -12,6 +12,10 @@ description: Your plants aren't trying to kill you. Here are the lies the intern
 
 <img src="/images/plant-myths-hero.png" alt="Common plant myths debunked with reality checks" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## Myth 1: "Low Light" Means No Light

@@ -13,10 +13,10 @@ description: Beautiful plants that won't hurt your furry friends. Includes photo
 <img src="/images/petsafe-plants-hero.png" alt="Cats and dogs with pet-safe houseplants: spider plant, calathea, Boston fern" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-
-<div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
+
+<div class="callout">
 <strong>The reality:</strong> Many popular houseplants are toxic to pets. This guide covers safe alternatives that are just as beautiful.
 </div>
 

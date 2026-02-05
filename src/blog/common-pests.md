@@ -13,10 +13,10 @@ description: Identify spider mites, fungus gnats, mealybugs, and more. Plus how 
 <img src="/images/pest-guide-hero.png" alt="Common houseplant pests illustrated: spider mites, fungus gnats, mealybugs, scale" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-
-<div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Quarantine new plants. Check regularly. Act fast. Most pests are treatable if caught early.
 </div>
 
