@@ -137,15 +137,21 @@ permalink: /
     </div>
   </div>
 
-  <h2 class="section-title">Coming Soon</h2>
+  <h2 class="section-title">More Guides</h2>
   <div class="tools-grid">
     <div class="tool-card">
       <h3>🌱 Propagation Guide</h3>
       <p>How to turn one plant into many. Water vs soil, node cutting, and more.</p>
+      <div class="btn-row">
+        <a href="/blog/propagation/" class="btn">View Guide</a>
+      </div>
     </div>
     <div class="tool-card">
       <h3>📅 Seasonal Care Calendar</h3>
       <p>What your plants need month-by-month. Fertilizing, repotting windows, dormancy.</p>
+      <div class="btn-row">
+        <a href="/blog/seasonal-care-calendar/" class="btn">View Calendar</a>
+      </div>
     </div>
   </div>
 </div>
