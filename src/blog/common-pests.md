@@ -13,6 +13,10 @@ description: Identify spider mites, fungus gnats, mealybugs, and more. Plus how 
 <img src="/images/pest-guide-hero.png" alt="Common houseplant pests illustrated: spider mites, fungus gnats, mealybugs, scale" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 <strong>TL;DR:</strong> Quarantine new plants. Check regularly. Act fast. Most pests are treatable if caught early.
 </div>
 
@@ -237,4 +241,22 @@ Sometimes a pest infestation is too far gone.
 ---
 
 *Need help identifying a specific pest? Check our [Pest ID Guide](/blog/pest-id/). For treatment products, see our [Pest Control Kit](/blog/pest-control-kit/).*
+
+---
+
+## Products Mentioned
+
+- **Neem oil** [[link:neem-oil]] — organic pest control
+- **Mosquito bits (BTI)** [[link:mosquito-bits]] — kills fungus gnat larvae
+- **Yellow sticky traps** [[link:sticky-traps]] — catches adult gnats and thrips
+- **Insecticidal soap** [[link:insecticidal-soap]] — kills soft-bodied insects
+- **70% isopropyl alcohol** [[link:rubbing-alcohol]] — dab on mealybugs and scale
+
+<div class="callout">
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+<strong>Affiliate Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 

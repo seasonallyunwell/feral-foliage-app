@@ -16,6 +16,10 @@ description: Plants that don't need a south-facing window. The real low-light ch
 <strong>First, a reality check:</strong> "Low light" in plant care means "bright indirect light" to most plants. What you're dealing with is probably "very low light" or "near-dark." This list is for that.
 </div>
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
 ---
 
 ## The Truth About Low Light Plants

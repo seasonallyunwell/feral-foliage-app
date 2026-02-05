@@ -13,6 +13,10 @@ description: Your month-by-month guide to keeping houseplants happy through ever
 <img src="/images/seasonal-calendar-hero.png" alt="Four seasons displayed with houseplants appropriate for each" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 <strong>The secret:</strong> Most houseplant care is seasonal. Match your routine to what your plants are actually doing, and everything gets easier.
 </div>
 

@@ -13,6 +13,10 @@ description: The no-nonsense guide to NPK ratios, feeding schedules, and not kil
 <img src="/images/fertilizer-hero.png" alt="Houseplant fertilizer bottles and tools on a shelf" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Most houseplants need fertilizer every 2-4 weeks during growing season (spring-summer). Use balanced 15-15-15 or 20-20-20 for most plants. Less is more — overfertilizing kills more plants than underfertilizing.
 </div>
 
@@ -185,21 +189,25 @@ Most fertilizer packages tell you to use the full strength. Ignore that.
 ## Quick Fertilizer Recommendations
 
 **For beginners:**
-- **Jack's Classic 20-20-20** — balanced, widely available, reliable
-- **Dyna-Gro Grow 7-9-5** — good for foliage, includes micronutrients
+- **Jack's Classic 20-20-20** [[link:fertilizer-20-20-20]] — balanced, widely available, reliable
+- **Dyna-Gro Grow 7-9-5** [[link:fertilizer-dyna-gro]] — good for foliage, includes micronutrients
 
 **For flowering plants:**
-- **Jack's Blossom Booster 10-30-20** — higher phosphorus for blooms
-- **Orchid fertilizer** — formulated for epiphytes
+- **Jack's Blossom Booster 10-30-20** [[link:fertilizer-bloom-boost]] — higher phosphorus for blooms
+- **Orchid fertilizer** [[link:orchid-fertilizer]] — formulated for epiphytes
 
 **For succulents/cacti:**
-- **Dyna-Gro Foliage-Pro 9-3-6** — lower nitrogen
-- **Succulent-specific formulas** — available at most garden centers
+- **Dyna-Gro Foliage-Pro 9-3-6** [[link:succulent-fertilizer]] — lower nitrogen
+- **Succulent-specific formulas** [[link:succulent-formula]] — available at most garden centers
 
 **Organic options:**
-- **Worm castings** — mix into soil, gentle and slow-release
-- **Seaweed extract** — foliar feed or soil drench, micronutrient boost
-- **Fish emulsion** — smells terrible, plants love it
+- **Worm castings** [[link:worm-castings]] — mix into soil, gentle and slow-release
+- **Seaweed extract** [[link:seaweed-extract]] — foliar feed or soil drench, micronutrient boost
+- **Fish emulsion** [[link:fish-emulsion]] — smells terrible, plants love it
+
+<div class="callout">
+<strong>Affiliate Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 ---
 

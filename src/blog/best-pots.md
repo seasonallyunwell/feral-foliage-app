@@ -13,6 +13,10 @@ description: The complete guide to choosing the right pot for your plants. Drain
 <img src="/images/pots-guide-hero.png" alt="Collection of different pots: plastic nursery, terracotta, ceramic, fabric" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 <strong>The number one rule:</strong> Drainage holes are not optional. A pot without holes will eventually kill your plant through root rot.
 </div>
 

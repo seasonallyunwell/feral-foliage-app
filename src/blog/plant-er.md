@@ -13,6 +13,10 @@ description: Yellow leaves? Drooping? Brown tips? Here's how to figure out what'
 <img src="/images/plant-er-hero.png" alt="Houseplant with visible problems next to healthy plant comparison" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 <strong>The number one mistake:</strong> Diagnosing the wrong problem. Yellow leaves don't always mean "water more" — often they mean "water less."
 </div>
 

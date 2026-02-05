@@ -45,7 +45,7 @@ description: Pebble trays, humidifiers, and other methods that actually work.
 
 ### 1. Humidifier (Best Method)
 
-**Type:** Cool mist ultrasonic humidifier
+**Type:** Cool mist ultrasonic humidifier [[link:humidifier]]
 
 **Why it works:**
 - Adds measurable humidity to the air
