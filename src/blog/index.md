@@ -145,7 +145,77 @@ permalink: /blog/
     <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
   </div>
 
-  <p class="coming-soon">More guides coming soon: Repotting Guide and Best Pots.</p>
+  <div class="card">
+    <h2><a href="/blog/easiest-houseplants/">10 Easiest Houseplants to Keep Alive</a></h2>
+    <div class="meta">Beginner guide • affiliate links</div>
+    <p>The most forgiving houseplants for beginners who kill everything. From "literally unkillable" to "pretty hard to mess up."</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-low-light-plants/">Best Low Light Plants That Actually Survive</a></h2>
+    <div class="meta">Beginner guide • low light • affiliate links</div>
+    <p>Plants that don't need a south-facing window. The real low-light champions for dark apartments and sad corners.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/plants-by-room/">Best Plants for Every Room</a></h2>
+    <div class="meta">Selection guide • room-specific</div>
+    <p>Bedroom plants, bathroom plants, office plants, and dark corner solutions.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/pet-safe-plants/">Pet-Safe Houseplants — The Complete Guide</a></h2>
+    <div class="meta">Safety guide • pet-friendly</div>
+    <p>Beautiful plants that won't hurt your furry friends. Includes photos and care tips.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/plant-shopping/">Plant Shopping Guide — What to Buy and What to Avoid</a></h2>
+    <div class="meta">Shopping guide</div>
+    <p>Don't make these mistakes at the plant store. Here's how to choose healthy plants.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/how-to-repot/">How to Repot a Plant — Step by Step</a></h2>
+    <div class="meta">Care guide • affiliate links</div>
+    <p>The complete guide to repotting houseplants without causing transplant shock or root damage.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/how-to-prune/">How to Prune Houseplants</a></h2>
+    <div class="meta">Care guide • pruning</div>
+    <p>Pruning isn't just cutting — it's shaping, encouraging, and multiplying your plants the right way.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/drooping-plant/">Why Is My Plant Drooping?</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>Drooping isn't always death. Here's how to tell what's wrong and fix it.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/water-vs-soil-propagation/">Water Propagation vs Soil Propagation</a></h2>
+    <div class="meta">Propagation • comparison</div>
+    <p>Step-by-step comparison of propagating houseplants in water versus soil.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-pots/">Best Pots for Houseplants</a></h2>
+    <div class="meta">Gear guide • drainage • affiliate links</div>
+    <p>The complete guide to choosing the right pot for your plants. Drainage holes matter more than you think.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/houseplants-clean-air/">Houseplants for Clean Air — Myth vs Reality</a></h2>
+    <div class="meta">Science • air quality</div>
+    <p>The famous NASA study was for space stations, not your apartment. Here's what the science actually says.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/plant-myths/">Common Houseplant Myths That Need to Die</a></h2>
+    <div class="meta">Myths • misconceptions</div>
+    <p>Your plants aren't trying to kill you. Here are the lies the internet told you.</p>
+  </div>
 </div>
 
 <div class="footer">
