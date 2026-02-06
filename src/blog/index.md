@@ -86,6 +86,24 @@ permalink: /blog/
   <h2 class="section-title">Guides</h2>
 
   <div class="card">
+    <h2><a href="/blog/fertilizer-guide/">Fertilizer Guide — When, What, and How Much</a></h2>
+    <div class="meta">Guide • nutrients • affiliate links</div>
+    <p>The no-nonsense guide to NPK ratios, feeding schedules, and not killing your plants with kindness.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/plant-er/">Plant ER: Troubleshooting Guide</a></h2>
+    <div class="meta">Diagnosis • troubleshooting • affiliate links</div>
+    <p>Yellow leaves? Brown tips? Drooping? Diagnose the problem before it's too late with this symptom checker.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/seasonal-care-calendar/">Seasonal Care Calendar</a></h2>
+    <div class="meta">Guide • seasonal • maintenance</div>
+    <p>A month-by-month checklist of what your houseplants actually need from you right now.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
     <div class="meta">Guide • grow lights • affiliate links</div>
     <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
@@ -127,7 +145,7 @@ permalink: /blog/
     <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
   </div>
 
-  <p class="coming-soon">More guides coming soon: Fertilizer Guide and Seasonal Care Calendar.</p>
+  <p class="coming-soon">More guides coming soon: Repotting Guide and Best Pots.</p>
 </div>
 
 <div class="footer">
