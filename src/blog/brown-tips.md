@@ -1,13 +1,27 @@
 ---
 title: "Brown Tips on Houseplants: The Real Causes"
 date: 2026-02-06
+slug: "brown-tips-houseplants"
 author: "Feral Foliage"
 description: "Stop the crispy tips! We break down the real causes of brown leaf tips—humidity, water quality, and fertilizer burn—and give you a clear checklist to fix them."
 tags: ["Brown Tips", "Plant Care", "Humidity", "Water Quality"]
-draft: true
 ---
 
-**Affiliate Disclosure:** This article contains affiliate links. We may earn a commission on purchases made through these links, at no extra cost to you.
+## TL;DR
+
+- **Water Quality:** Most common cause—tap water minerals (fluoride, chlorine, salts) build up and burn leaf tips; switch to filtered or distilled water
+- **Humidity:** Tropical plants want 40-60% humidity; use a humidifier, pebble tray, or group plants to create microclimate
+- **Fertilizer Burn:** Over-fertilizing causes salt buildup; flush soil and reduce feeding frequency
+- **Check Soil First:** White crust on soil + brown tips = salt accumulation; leach soil and switch water type
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
 
 ---
 

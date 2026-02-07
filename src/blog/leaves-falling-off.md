@@ -1,11 +1,27 @@
 ---
 title: "Leaves Falling Off Houseplants: When It's Normal vs a Problem"
 slug: "leaves-falling-off-houseplants"
-excerpt: "Is your plant shedding? Or is it dying? Learn the difference between natural leaf drop and a emergency, with a quick decision tree."
+description: "Is your plant shedding? Or is it dying? Learn the difference between natural leaf drop and an emergency, with a quick decision tree."
 date: 2026-02-06
 author: "Feral Foliage"
 tags: ["troubleshooting", "care-guide", "basics"]
 ---
+
+## TL;DR
+
+- **Bottom Leaves Yellowing:** Usually normal aging or nutrient deficiency—remove yellow leaves and fertilize if multiple affected
+- **Sudden Green Leaf Drop:** Indicates shock (moved location) or overwatering—check for root rot immediately
+- **Seasonal Shedding:** Normal in fall/winter as light decreases; monitor but don't panic
+- **Species Matters:** Ficus drops leaves constantly when moved; succulents naturally shed lower leaves; Dracaena palms shed monthly
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [Why Is My Monstera Turning Yellow?](/blog/monstera-yellow-leaves)
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
 
 Three leaves fell off your Ficus elastica today. Is it dying? Is it normal?
 

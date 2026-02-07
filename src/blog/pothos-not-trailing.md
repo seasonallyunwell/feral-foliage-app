@@ -10,6 +10,22 @@ tags: ["Pothos", "Troubleshooting", "Trailing", "Vines", "Pruning"]
 
 **Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
 
+## TL;DR
+
+- **Light is #1 culprit:** Low light makes Pothos compact and conservative; move to bright indirect light
+- **Don't chop the tips:** Cutting tips removes growth hormones; let vines grow to encourage length
+- **Slow varieties exist:** Jade and Cebu Blue grow slower than Golden—patience required
+- **Root bound?** Repot when roots circle the pot; root-bound plants stop growing
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Pothos Varieties Compared](/blog/pothos-varieties-compared)
+- [Propagating Pothos in Water](/blog/pothos-propagation)
+- [Best Pruning Shears for Houseplants](/blog/best-pruning-shears)
+
 ## The Pothos Paradox
 
 Pothos (Epipremnum aureum) is famously known as the "beginner plant"—indestructible, fast-growing, and effortless. So why does it sometimes sit there, short and stubby, refusing to trail?

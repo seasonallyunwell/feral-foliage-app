@@ -7,6 +7,22 @@ author: "Feral Foliage"
 tags: ["pests", "care-guide", "prevention"]
 ---
 
+## TL;DR
+
+- **Set up quarantine zone:** Spare bathroom, guest room shelf, or plastic tub with airflow
+- **Essential supplies:** Insecticidal soap, neem oil, sticky traps, magnifying glass
+- **14-day protocol:** Inspect roots Day 0, soap spray Day 1 & 8, neem Day 4, monitor daily
+- **Reset clock if pests found:** Any sign of mealybugs, spider mites, aphids, or fungus gnats = clock restarts
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
+- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+
 You just brought home a gorgeous new Monstera from the big box store. It's perfect—glossy leaves, new fenestrations. You place it next to your African Violet.
 
 Three weeks later, your Violet is covered in tiny spider mites.
@@ -18,10 +34,10 @@ The mistake wasn't buying the Monstera. The mistake was skipping quarantine. Pes
 You need a dedicated "quarantine zone." This doesn't need to be a greenhouse. A spare bathroom, a bright shelf in a guest room, or even a clear plastic tub with a lid (opened for airflow) works.
 
 **What to buy:**
-1. **Insecticidal Soap** – Safe for most foliage. [Buy here](https://www.amazon.com/gp/product/B000BO8LVS).
-2. **Neem Oil** – Good for systemic treatment and soft-bodied pests. [Buy here](https://www.amazon.com/gp/product/B01DL2R9WS).
-3. **Sticky Traps** – Yellow cards to catch fungus gnats. [Buy here](https://www.amazon.com/gp/product/B07T5K1D4M).
-4. **Magnifying Glass** – 10x minimum. You need to see what you're looking for.
+1. **Insecticidal Soap** – Safe for most foliage. [Buy on Amazon](https://www.amazon.com/dp/B000BO8LVS?tag=feralfoliage-20)
+2. **Neem Oil** – Good for systemic treatment and soft-bodied pests. [Buy on Amazon](https://www.amazon.com/dp/B01DL2R9WS?tag=feralfoliage-20)
+3. **Sticky Traps** – Yellow cards to catch fungus gnats. [Buy on Amazon](https://www.amazon.com/dp/B07T5K1D4M?tag=feralfoliage-20)
+4. **Magnifying Glass** – 10x minimum. You need to see what you're looking for. [Buy on Amazon](https://www.amazon.com/dp/B08KVE8R2V?tag=feralfoliage-20)
 
 ## The 14-Day Breakdown
 
@@ -34,16 +50,16 @@ Remove the plant from its pot and inspect the roots. Look for:
 If the roots look healthy, gently shake off old soil and repot into a clean, sterile pot with fresh soil. Spray the foliage down with a strong stream of water to dislodge any visible pests.
 
 ### Day 1: First Spray
-Mix insecticidal soap according to package directions. Spray the foliage thoroughly, covering the undersides of leaves where pests love to hide. Let it dry.
+Mix [insecticidal soap](https://www.amazon.com/dp/B000BO8LVS?tag=feralfoliage-20) according to package directions. Spray the foliage thoroughly, covering the undersides of leaves where pests love to hide. Let it dry.
 
 ### Day 2-3: Monitor & Wait
-Place sticky traps near the plant. Check them daily. If you see tiny black flies (fungus gnats), you have a problem. If you see nothing, that's a good sign.
+Place [sticky traps](https://www.amazon.com/dp/B07T5K1D4M?tag=feralfoliage-20) near the plant. Check them daily. If you see tiny black flies (fungus gnats), you have a problem. If you see nothing, that's a good sign.
 
 ### Day 4: Neem Application
-Apply a diluted Neem oil spray or soil drench. Neem works systemically, meaning the plant absorbs it, making it toxic to pests that feed on it.
+Apply diluted [neem oil](https://www.amazon.com/dp/B01DL2R9WS?tag=feralfoliage-20) spray or soil drench. Neem works systemically, meaning the plant absorbs it, making it toxic to pests that feed on it.
 
 ### Day 5-7: Heavy Monitoring
-Inspect the plant DAILY. Use your magnifying glass.
+Inspect the plant DAILY. Use your [magnifying glass](https://www.amazon.com/dp/B08KVE8R2V?tag=feralfoliage-20).
 - **Look under leaves** for webbing (spider mites), white fluff (mealybugs), or tiny green bugs (aphids).
 - **Check the soil surface** for adult fungus gnats.
 - **Look for sticky residue (honeydew)** which indicates sucking insects.

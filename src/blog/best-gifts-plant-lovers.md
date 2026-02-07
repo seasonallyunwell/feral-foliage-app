@@ -11,8 +11,21 @@ author: "Feral Foliage"
 
 Finding the perfect gift for a plant lover can be surprisingly tricky. You want something thoughtful, useful, and ideally, something that aligns with their obsession. We've put together a gift guide spanning multiple price points to help you win the holidays (or their birthday).
 
-## 💚 Affiliate Disclosure
-*This guide contains affiliate links. If you click through and make a purchase, we may earn a commission at no extra cost to you. Thanks for supporting Feral Foliage!*
+## TL;DR
+
+- **Under $25:** Propagation stations, plant misters, succulent soil, and cute plant labels make perfect stocking stuffers
+- **Under $50:** Quality pruning shears, grow light bulbs, and humidity trays are the sweet spot for meaningful gifts
+- **Under $100:** Stylish watering cans, decorative ceramic pots, and digital hygrometers become permanent fixtures
+- **$100+:** Floor grow lights, rare plant cuttings, and indoor greenhouse cabinets for serious plant lovers
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Best Online Plant Shops](/blog/best-online-plant-shops)
+- [Best Pruning Shears for Houseplants](/blog/best-pruning-shears)
+- [Quarantine New Plant Guide](/blog/quarantine-new-plant-protocol)
 
 ---
 
@@ -42,14 +55,17 @@ The sweet spot for meaningful gifts that show you put some thought into it.
 
 ### 1. **Pruning Shears (Felco #2 or Similar)**
 Every plant parent needs a sharp, reliable pair of snips. It's the single most used tool in the shed.
+*   [Buy Quality Pruning Shears on Amazon](https://www.amazon.com/dp/B07FLZ7G1C?tag=feralfoliage-20)
 *   **Affiliate Angle:** Include a "Pruning 101" guide or link to a tutorial video.
 
 ### 2. **Grow Light Bulb**
 Great for apartments with poor natural light. Helps keep plants thriving in winter.
+*   [LED Grow Light Bulb](https://www.amazon.com/dp/B07塔克9R2?tag=feralfoliage-20)
 *   **Affiliate Angle:** Suggest specific plants that *love* extra light (Fiddle Leaf Figs, Citrus).
 
 ### 3. **Humidity Tray**
 A simple ceramic or metal tray with pebbles lifts pots off surfaces and increases local humidity.
+*   [Ceramic Humidity Tray](https://www.amazon.com/dp/B07T5K1D4M?tag=feralfoliage-20)
 *   **Affiliate Angle:** Perfect for pairing with a high-humidity plant like a Monstera or Peace Lily.
 
 ### 4. **"The Plant Parent's Handbook"**

@@ -10,6 +10,22 @@ tags: ["Monstera", "Support", "Moss Pole", "Trellis", "Training"]
 
 **Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
 
+## TL;DR
+
+- **Moss pole = best support:** Mimics tree trunk texture, allows aerial roots to attach, produces largest leaves
+- **Stake = beginner option:** Simple and cheap but limited surface area; good for small plants
+- **Trellis = structured look:** More surface area than stake; good for creating vertical green walls
+- **Timing matters:** Add support when plant has 4-5 fenestrated leaves—not too early, not when already sprawling
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
+- [When Will My Monstera Fenestrate?](/blog/monstera-fenestration-guide)
+- [How to Repot Monsteras](/blog/monstera-repotting)
+
 ## Why Monstera Needs Support
 
 Monstera deliciosa is a natural climber. In its native rainforest habitat, this aroid uses its aerial roots to cling to tree trunks and scale toward the canopy, where the light is brighter and more consistent. Without a support structure, potted Monsteras tend to sprawl, sending vines in every direction as they search for something to climb. This isn't just a messy aesthetic issue—it affects the plant's long-term health and leaf development.

@@ -9,6 +9,22 @@ excerpt: "Discovered mushy stems or a rotten smell? Learn how to diagnose, treat
 affiliate_disclosure: "This guide may contain affiliate links. If you buy through our links, we earn a commission at no extra cost to you."
 ---
 
+## TL;DR
+
+- **Spot symptoms early:** Wilting with wet soil, foul smell, yellow leaves, mushy stems = root rot
+- **Act fast:** Remove plant, rinse roots, cut away all brown/mushy roots with sterilized scissors
+- **Dry before repotting:** Let plant dry for several hours to callus over cuts
+- **Repot fresh:** Use well-draining soil (potting mix + perlite/bark), ensure pot has drainage holes
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
+- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+
 ## Spotting the Problem
 
 Root rot is the silent killer of houseplants. It's a condition where the roots decay, usually caused by overwatering or poor drainage. Because it happens below the soil line, it often goes unnoticed until the damage is severe.

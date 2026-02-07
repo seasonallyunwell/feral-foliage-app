@@ -10,6 +10,22 @@ description: "Understanding the timeline and conditions for Monstera leaf holes,
 
 **Affiliate Disclosure:** This guide contains affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.
 
+## TL;DR
+
+- **Age matters:** Fenestrations appear when plant is mature—seed-grown takes 2-3 years, nursery plants 1-2 years
+- **Light is #1 factor:** Bright indirect light provides energy for complex leaves; low light = no splits
+- **Support encourages it:** Climbing on moss pole mimics natural growth and triggers fenestrations
+- **Be patient:** Root-bound plants often fenestrate faster; recently repotted plants focus on roots first
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
+- [Lighting 101 for Indoor Plants](/blog/lighting-101)
+
 ## The Question Every Monstera Owner Asks
 
 You've fallen in love with those dramatic, swiss-cheese leaves. You brought your Monstera home, excited for the fenestrations to appear, only to watch it pump out plain, heart-shaped foliage for months—or years. You're not alone. The wait for fenestrations is one of the most common frustrations in houseplant parenting.

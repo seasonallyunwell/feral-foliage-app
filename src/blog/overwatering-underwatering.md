@@ -1,13 +1,27 @@
 ---
 title: "Signs of Overwatering vs Underwatering: Decision Tree"
 date: 2026-02-06
+slug: "overwatering-underwatering"
 author: "Feral Foliage"
 description: "Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant."
 tags: ["Watering", "Plant Care", "Diagnosis", "Root Rot"]
-draft: true
 ---
 
-**Affiliate Disclosure:** This article contains affiliate links. We may earn a commission on purchases made through these links, at no extra cost to you.
+## TL;DR
+
+- **Finger test first:** Dry soil 1-2 inches down = underwatered; wet soil = overwatered
+- **Overwatering symptoms:** Yellowing bottom leaves, mushy stems, rotten smell, brown mushy roots
+- **Underwatering symptoms:** Drooping but crisp leaves, dry tips, soil pulling away from pot edges
+- **Root check is gold standard:** Brown slimy roots = rot (stop watering); white dry roots = thirsty (water thoroughly)
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
+- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
+- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
 
 ---
 

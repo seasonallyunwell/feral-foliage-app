@@ -1,13 +1,27 @@
 ---
 title: "Hydrophobic Soil: Fix It Fast"
 date: 2026-02-06
+slug: "hydrophobic-soil"
 author: "Feral Foliage"
 description: "Does water sit on top of your soil instead of soaking in? You have hydrophobic soil. Learn the step-by-step soak method, wetting agents, and when to just repot."
 tags: ["Soil", "Watering", "Hydrophobic", "Plant Care"]
-draft: true
 ---
 
-**Affiliate Disclosure:** This article contains affiliate links. We may earn a commission on purchases made through these links, at no extra cost to you.
+## TL;DR
+
+- **The Soak Method:** Submerge pot in tepid water for 20-30 minutes until soil absorbs water (you'll see bubbles)
+- **Wetting Agents:** Dish soap solution or commercial surfactants break surface tension for stubborn soil
+- **Prevention:** Never let soil go bone dry; water deeply each time; use chunky, well-draining mix
+- **Repot When Needed:** If soil has shrunk from pot walls, it's time for fresh mix with perlite or orchid bark
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
 
 ---
 

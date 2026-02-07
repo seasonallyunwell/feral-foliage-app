@@ -1,13 +1,27 @@
 ---
 title: "Why Is My Monstera Turning Yellow?"
 date: 2026-02-06
+slug: "monstera-yellow-leaves"
 author: "Feral Foliage"
 description: "Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide."
 tags: ["Monstera", "Plant Care", "Yellow Leaves", "Troubleshooting"]
-draft: true
 ---
 
-**Affiliate Disclosure:** This article contains affiliate links. We may earn a commission on purchases made through these links, at no extra cost to you.
+## TL;DR
+
+- **Old leaves yellowing:** Natural aging or nitrogen deficiency—normal if only bottom leaves; fertilize if multiple affected
+- **New growth yellowing:** Light change, root problems, or calcium/magnesium deficiency—check roots and adjust light
+- **Edges yellowing:** Water quality (fluoride/chlorine), root bound, or low humidity—switch to filtered water and check roots
+- **Whole leaf yellowing:** Overwatering and root rot—check for mushy brown roots immediately
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
 
 ---
 

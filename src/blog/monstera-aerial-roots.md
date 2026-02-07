@@ -10,6 +10,22 @@ description: "Everything you need to know about Monstera aerial roots: what they
 
 **Affiliate Disclosure:** This guide contains affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.
 
+## TL;DR
+
+- **Aerial roots are normal and healthy**—they're a sign your Monstera wants to climb and is thriving
+- **Three options:** Tuck into soil/pole, cut them off, or propagate (aerial roots make propagation faster!)
+- **Train on moss pole:** Best aesthetic + encourages larger, more fenestrated leaves
+- **Cut cleanly:** Won't kill the plant but they'll grow back; use sterilized scissors
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+**Related Articles:**
+- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
+- [When Will My Monstera Fenestrate?](/blog/monstera-fenestration-guide)
+- [How to Propagate Monsteras](/blog/monstera-propagation)
+
 ## The Great Freak-Out
 
 You walk over to admire your Monstera and notice something strange. Long, thick, brownish roots are bursting out of the stem, crawling through the air, and generally making a mess of your carefully curated plant shelf. Is your plant okay? Is it trying to escape? Should you... cut them off?
