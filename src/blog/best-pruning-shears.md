@@ -7,11 +7,21 @@ author: "Feral Foliage"
 tags: ["tools", "pruning", "maintenance"]
 ---
 
+## TL;DR
+
+- Bypass pruners create clean cuts; anvil pruners crush stems
+- Sterilize between plants to prevent disease spread
+- Quality shears last decades with proper maintenance
+
 A dull pair of shears is worse than no shears at all.
 
 I learned this the hard way when I tried to prune a leggy Pothos with cheap scissors. I crushed the stem instead of cutting it. The stem turned black and died back two inches. All because I didn't have the right tool.
 
 If you have more than three plants, you need a dedicated pair of pruning shears. Here is what to buy and how to keep it sharp.
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
 
 ## The Three Types of Pruners
 
@@ -28,19 +38,19 @@ These are small, sharp shears for bonsai, succulents, or intricate trimming. If 
 
 *We earn a commission on links below.*
 
-**1. [Felco F-2 Classic Bypass Pruners](https://www.amazon.com/dp/B00004R9JZ) – $35**
+**1. [Felco F-2 Classic Bypass Pruners](https://www.amazon.com/dp/B00004R9JZ?tag=feralfoliage-20) – $35**
 *The industry standard.*
 - Sharp, durable carbon steel blade.
 - Replaceable parts (you can buy just a new blade in 20 years).
 - Comfortable grip for medium-sized hands.
 
-**2. [Gonicc 8" Bypass Pruners](https://www.amazon.com/dp/B07CZ3Z9VY) – $25**
+**2. [Gonicc 8" Bypass Pruners](https://www.amazon.com/dp/B07CZ3Z9VY?tag=feralfoliage-20) – $25**
 *Best value.*
 - Very sharp out of the box.
 - Titanium coating resists rust and sap.
 - Slightly bulkier than Felco but excellent for the price.
 
-**3. [ARS HP-VS8Z Micro-Tip Pruning Shears](https://www.amazon.com/dp/B00DIR6K6A) – $22**
+**3. [ARS HP-VS8Z Micro-Tip Pruning Shears](https://www.amazon.com/dp/B00DIR6K6A?tag=feralfoliage-20) – $22**
 *Best for precision.*
 - Spring-loaded, ultra-lightweight.
 - Perfect for succulents, herbs, and tiny cuttings.
@@ -87,6 +97,8 @@ You don't need to buy new shears every year. You can sharpen them.
 
 For anvil shears, only sharpen the beveled edge. The anvil is soft metal—you want to preserve its shape, not grind it down.
 
+**Master your technique:** [How to Prune Houseplants](/blog/how-to-prune.md)
+
 ## The Verdict
 
 Buy a quality pair of bypass shears (Felco or Gonicc). Take care of them. Sterilize them. Sharpen them. A good pair of shears is the one tool you will use more than any other in your plant journey.
@@ -97,5 +109,4 @@ Buy a quality pair of bypass shears (Felco or Gonicc). Take care of them. Steril
 **Related Reading:**
 - [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
 - [Best Moisture Meters for Houseplants](best-moisture-meters.md)
----
-*Disclosure: This post contains affiliate links. We earn a commission on purchases made through these links, at no extra cost to you.*
+- [Treat Root Rot: Step-by-Step Guide](/blog/treat-root-rot.md)

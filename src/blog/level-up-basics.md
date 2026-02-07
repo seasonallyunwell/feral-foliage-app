@@ -1,15 +1,24 @@
 ---
 title: "Level Up Your Basics: Gear Worth the Upgrade"
+description: "Graduate from plant killer to plant keeper with these essential gear upgrades. Better tools mean better results for your indoor jungle."
+slug: "level-up-basics"
 date: 2026-02-06
-author: Feral Foliage
-tags: ["gear", "shopping", "intermediate"]
-excerpt: "You've killed a few plants—we all start somewhere. Here is the essential upgrade path that will turn your brown thumb green, moving you from grocery store clearance rack to a thriving indoor jungle."
-featured: false
+author: "Feral Foliage"
 ---
+
+## TL;DR
+
+- Digital moisture meters outperform wooden sticks 10x
+- Quality bypass pruners (Felco) last a lifetime
+- Chunkier soil mixes prevent root rot
 
 So, you killed your first fiddle-leaf fig. Or maybe your third. Don't worry; you're in good company here at Feral Foliage. That "easy-care" label on the nursery pot was lying to you. Most starter kit plants come with plastic nursery pots, cheap moisture meters that break after two uses, and that mysterious "black goo" soil that Compacted into cement within six weeks.
 
 The transition from plant killer to plant keeper isn't about talent—it's about gear. Here is the upgrade path that will finally get you growing.
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
 
 ## 1. Ditch the Stick: A Real Moisture Meter
 

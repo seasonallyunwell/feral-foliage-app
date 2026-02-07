@@ -7,11 +7,21 @@ author: "Feral Foliage"
 tags: ["tools", "watering", "beginner-guide"]
 ---
 
+## TL;DR
+
+- Moisture meters measure electrical resistance, not actual water content
+- Cheap meters drift and need replacement, not recalibration
+- Combine meter readings with finger tests and pot weight checks
+
 Last month, I killed a pothos.
 
 Not from neglect—I watered it religiously, perhaps too much. My moisture meter told me the soil was dry, so I watered. The leaves yellowed, roots rotted. Turns out my cheap meter was reading "dry" in waterlogged soil.
 
 The lesson? Moisture meters are tools, not oracles. Here is everything you need to know before buying one—and which ones actually work.
+
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
 
 ## How Do Moisture Meters Actually Work?
 
@@ -29,6 +39,8 @@ Most affordable meters use two metal probes to measure electrical resistance in 
 
 **Rule of thumb:** Treat the reading as a *suggestion*, not a fact. Always do the finger test or use a weight test (lift the pot—dry soil is light) alongside the meter.
 
+**Learn the fundamentals:** [Watering Guide](/blog/watering-guide.md)
+
 ## Calibration Tips & Tricks
 
 If you want to extend the life of your meter:
@@ -40,19 +52,19 @@ If you want to extend the life of your meter:
 
 *We earn a commission on links below.*
 
-**1. [Dr. Meter Moisture Meter](https://www.amazon.com/dp/B01GV80OG0) – $12**
+**1. [Dr. Meter Moisture Meter](https://www.amazon.com/dp/B01GV80OG0?tag=feralfoliage-20) – $12**
 *Best for beginners on a budget.*
 - No batteries required.
 - Reliable for standard peat-based mixes.
 - *Caveat:* The probe is thin and can snap if you force it into compacted soil.
 
-**2. [XLUX Soil Moisture Meter](https://www.amazon.com/dp/B000OB0N6M) – $15**
+**2. [XLUX Soil Moisture Meter](https://www.amazon.com/dp/B000OB0N6M?tag=feralfoliage-20) – $15**
 *Best durability.*
 - Thick, sturdy probe that won't bend.
 - Good for chunky aroid mixes where thin probes fail.
 - *Caveat:* A bit large for small 4-inch nursery pots.
 
-**3. [AvaGrow Digital Meter](https://amzn.to/3ZCvZJ2) – $25**
+**3. [AvaGrow Digital Meter](https://www.amazon.com/dp/B0B5R4ZK3Q?tag=feralfoliage-20) – $25**
 *Best for accuracy seekers.*
 - Triple sensor (moisture, light, pH). *Note: The pH sensor is an estimate, not lab-grade.*
 - Digital display is easier to read than analog dials.
@@ -80,5 +92,4 @@ For $15, a moisture meter is a useful training wheel. It helps you learn the "fe
 **Related Reading:**
 - [How to Quarantine a New Plant (14-Day Protocol)](quarantine-new-plant.md)
 - [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
----
-*Disclosure: This post contains affiliate links. We earn a commission on purchases made through these links, at no extra cost to you.*
+- [Plant ER: Emergency Diagnosis & Treatment](/blog/plant-er.md)
