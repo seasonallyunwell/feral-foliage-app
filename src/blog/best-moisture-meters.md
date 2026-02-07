@@ -7,6 +7,8 @@ author: "Feral Foliage"
 tags: ["tools", "watering", "beginner-guide"]
 ---
 
+<img src="/images/best-moisture-meters-hero.png" alt="Collection of moisture meters including digital and analog models being tested on houseplant soil" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - Moisture meters measure electrical resistance, not actual water content

@@ -9,6 +9,8 @@ excerpt: "Discovered mushy stems or a rotten smell? Learn how to diagnose, treat
 affiliate_disclosure: "This guide may contain affiliate links. If you buy through our links, we earn a commission at no extra cost to you."
 ---
 
+<img src="/images/treat-root-rot-hero.png" alt="Houseplant with root rot being repotted, showing brown mushy roots vs healthy white roots after treatment" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Spot symptoms early:** Wilting with wet soil, foul smell, yellow leaves, mushy stems = root rot

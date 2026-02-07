@@ -7,6 +7,8 @@ author: "Feral Foliage"
 tags: ["troubleshooting", "care-guide", "basics"]
 ---
 
+<img src="/images/leaves-falling-off-hero.png" alt="Healthy houseplant with single yellow leaf falling naturally, demonstrating normal aging vs problem shedding" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Bottom Leaves Yellowing:** Usually normal aging or nutrient deficiency—remove yellow leaves and fertilize if multiple affected

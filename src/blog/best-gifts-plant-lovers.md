@@ -7,6 +7,8 @@ tags: ["gifts", "shopping", "affiliate", "plant gifts"]
 author: "Feral Foliage"
 ---
 
+<img src="/images/best-gifts-plant-lovers-hero.png" alt="Beautifully wrapped plant gifts including pruning shears, humidity tray, and decorative pots" style="width:100%;border-radius:10px;margin:16px 0">
+
 # Best Gifts for Plant Lovers
 
 Finding the perfect gift for a plant lover can be surprisingly tricky. You want something thoughtful, useful, and ideally, something that aligns with their obsession. We've put together a gift guide spanning multiple price points to help you win the holidays (or their birthday).

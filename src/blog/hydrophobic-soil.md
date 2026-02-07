@@ -7,6 +7,8 @@ description: "Does water sit on top of your soil instead of soaking in? You have
 tags: ["Soil", "Watering", "Hydrophobic", "Plant Care"]
 ---
 
+<img src="/images/hydrophobic-soil-hero.png" alt="Water beading on top of dry hydrophobic soil instead of soaking in, showing the problem clearly" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **The Soak Method:** Submerge pot in tepid water for 20-30 minutes until soil absorbs water (you'll see bubbles)

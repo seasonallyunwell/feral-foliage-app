@@ -6,6 +6,8 @@ date: 2026-02-06
 author: "Feral Foliage"
 ---
 
+<img src="/images/level-up-basics-hero.png" alt="Upgraded plant care tools: digital moisture meter, Felco pruners, chunky aroid soil mix, and LED grow light" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - Digital moisture meters outperform wooden sticks 10x

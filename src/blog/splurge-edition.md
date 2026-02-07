@@ -6,6 +6,8 @@ date: 2026-02-06
 author: "Feral Foliage"
 ---
 
+<img src="/images/splurge-edition-hero.png" alt="Premium plant gear: self-watering ceramic pot, smart grow light, propagation station, and commercial humidifier" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - Premium gear is about stability, consistency, and less plant chaos

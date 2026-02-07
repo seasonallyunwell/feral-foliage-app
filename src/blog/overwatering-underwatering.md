@@ -7,6 +7,8 @@ description: "Stop guessing! Use this visual decision tree to diagnose your plan
 tags: ["Watering", "Plant Care", "Diagnosis", "Root Rot"]
 ---
 
+<img src="/images/water-issue-hero.png" alt="Visual comparison showing wilting plant from overwatering with soggy soil vs underwatered plant with dry, pulled-away soil" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Finger test first:** Dry soil 1-2 inches down = underwatered; wet soil = overwatered

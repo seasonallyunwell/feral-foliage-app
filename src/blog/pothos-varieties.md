@@ -8,6 +8,8 @@ category: "Pothos Care"
 tags: ["Pothos", "Varieties", "Comparison", "Golden Pothos", "Marble Queen", "Neon Pothos", "Jade Pothos"]
 ---
 
+<img src="/images/pothos-varieties-hero.png" alt="Four Pothos varieties side by side: Golden with yellow variegation, Marble Queen with white marbling, Neon with bright chartreuse leaves, and Jade with solid deep green" style="width:100%;border-radius:10px;margin:16px 0">
+
 **Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
 
 ## TL;DR

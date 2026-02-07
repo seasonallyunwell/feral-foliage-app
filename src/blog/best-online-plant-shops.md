@@ -7,6 +7,8 @@ tags: ["shopping", "affiliate", "plant shops", "where to buy"]
 author: "Feral Foliage"
 ---
 
+<img src="/images/best-online-plant-shops-hero.png" alt="Collection of healthy houseplants in shipping boxes with nursery tags visible" style="width:100%;border-radius:10px;margin:16px 0">
+
 # Best Online Plant Shops
 
 Looking to expand your indoor jungle but don't have a local nursery nearby? The internet is a treasure trove of greenery, with shops specializing in everything from rare Monsteras to affordable succulents. We've rounded up the best online plant shops to help you find your next leafy addition.

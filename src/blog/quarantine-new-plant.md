@@ -7,6 +7,8 @@ author: "Feral Foliage"
 tags: ["pests", "care-guide", "prevention"]
 ---
 
+<img src="/images/quarantine-new-plant-hero.png" alt="New plant isolated in quarantine zone with sticky traps, insecticidal soap, and magnifying glass nearby" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Set up quarantine zone:** Spare bathroom, guest room shelf, or plastic tub with airflow

@@ -8,6 +8,8 @@ category: "Pothos Care"
 tags: ["Pothos", "Troubleshooting", "Trailing", "Vines", "Pruning"]
 ---
 
+<img src="/images/pothos-not-trailing-hero.png" alt="Bushy Pothos plant that needs encouragement to trail, with multiple vines growing upright" style="width:100%;border-radius:10px;margin:16px 0">
+
 **Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
 
 ## TL;DR

@@ -7,6 +7,8 @@ author: "Feral Foliage"
 tags: ["tools", "pruning", "maintenance"]
 ---
 
+<img src="/images/best-pruning-shears-hero.png" alt="Quality pruning shears including Felco bypass pruners and precision micro-tip shears with clean cutting demonstration" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - Bypass pruners create clean cuts; anvil pruners crush stems

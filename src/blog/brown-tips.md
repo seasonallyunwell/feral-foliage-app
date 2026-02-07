@@ -7,6 +7,8 @@ description: "Stop the crispy tips! We break down the real causes of brown leaf 
 tags: ["Brown Tips", "Plant Care", "Humidity", "Water Quality"]
 ---
 
+<img src="/images/brown-tips-hero.png" alt="Houseplant leaves with crispy brown tips showing common issues from low humidity and water quality" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Water Quality:** Most common cause—tap water minerals (fluoride, chlorine, salts) build up and burn leaf tips; switch to filtered or distilled water

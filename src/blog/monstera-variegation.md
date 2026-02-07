@@ -8,6 +8,8 @@ category: "Monstera"
 tags: ["Monstera", "Variegation", "Albo", "Thai Constellation", "Aurea", "Rare Plants"]
 ---
 
+<img src="/images/monstera-variegation-hero.png" alt="Comparison of three variegated Monsteras: Albo with white sectors, Thai Constellation with cream speckles, and Aurea with golden variegation" style="width:100%;border-radius:10px;margin:16px 0">
+
 **Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
 
 ## TL;DR

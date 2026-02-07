@@ -6,6 +6,8 @@ date: 2026-02-06
 author: "Feral Foliage"
 ---
 
+<img src="/images/aesthetic-gear-hero.png" alt="Beautifully styled plant corner featuring brass watering can, ceramic pots with drainage, and macrame hangers" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - Premium pots prioritize drainage + aesthetics

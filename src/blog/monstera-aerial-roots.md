@@ -8,6 +8,8 @@ tags: ["Monstera", "Houseplants", "Aerial Roots", "Propagation", "Plant Care"]
 description: "Everything you need to know about Monstera aerial roots: what they are, how to manage them, and when to propagate."
 ---
 
+<img src="/images/monstera-aerial-roots-hero.png" alt="Healthy Monstera with prominent aerial roots reaching toward a moss pole" style="width:100%;border-radius:10px;margin:16px 0">
+
 **Affiliate Disclosure:** This guide contains affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.
 
 ## TL;DR

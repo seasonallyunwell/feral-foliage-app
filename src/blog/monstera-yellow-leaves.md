@@ -7,6 +7,8 @@ description: "Decode every shade of yellow on your Monstera. Learn the specific 
 tags: ["Monstera", "Plant Care", "Yellow Leaves", "Troubleshooting"]
 ---
 
+<img src="/images/monstera-yellow-hero.png" alt="Monstera leaves showing different stages of yellowing: old bottom leaves natural aging vs new growth indicating problems" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Old leaves yellowing:** Natural aging or nitrogen deficiency—normal if only bottom leaves; fertilize if multiple affected

@@ -8,6 +8,8 @@ tags: ["Monstera", "Houseplants", "Fenestration", "Plant Care"]
 description: "Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations."
 ---
 
+<img src="/images/monstera-fenestrations-hero.png" alt="Mature Monstera leaf showcasing dramatic fenestrations and splits against bright indirect light" style="width:100%;border-radius:10px;margin:16px 0">
+
 **Affiliate Disclosure:** This guide contains affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.
 
 ## TL;DR
