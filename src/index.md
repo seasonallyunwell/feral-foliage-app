@@ -10,7 +10,7 @@ permalink: /
   body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; background-color: #0f1110; color: #e7e7e7; margin: 0; padding: 0; line-height: 1.6; }
   a { color: #7ee081; text-decoration: none; }
   a:hover { text-decoration: underline; }
-  .wrap { max-width: 900px; margin: 0 auto; padding: 24px; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px; }
   .hero { text-align: center; padding: 60px 20px 40px; border-bottom: 1px solid #2a2f2c; background: linear-gradient(rgba(15,17,16,0.85),rgba(15,17,16,0.95)),url('/images/indoor-jungle.png') center/cover; }
   .hero .tagline { font-size: 1.15em; color: #a7a7a7; margin: 0 0 24px 0; }
   .hero-nav { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
@@ -39,8 +39,8 @@ permalink: /
   .calc-btn { background: #2d5a30; color: #fff; padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer; font-size: 1em; width: 100%; }
   .calc-btn:hover { background: #3a7a3e; }
   .result { margin-top: 16px; padding: 16px; border-radius: 8px; background: #101311; border: 1px solid #2a2f2c; text-align: center; color: #c7c7c7; }
-  .category-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 16px; }
-  @media (max-width: 768px) { .category-grid { grid-template-columns: 1fr; } }
+  .category-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 16px; grid-auto-flow: row; }
+  @media (max-width: 800px) { .category-grid { grid-template-columns: 1fr; } }
   .category-card { background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%); border: 1px solid #2a3f2c; border-radius: 12px; padding: 24px; min-height: 200px; }
   .category-card h3 { margin: 0 0 8px 0; color: #7ee081; font-size: 1.2em; }
   .category-card .count { color: #888; font-size: 0.85em; margin-bottom: 12px; }
