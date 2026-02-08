@@ -39,9 +39,9 @@ permalink: /
   .calc-btn { background: #2d5a30; color: #fff; padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer; font-size: 1em; width: 100%; }
   .calc-btn:hover { background: #3a7a3e; }
   .result { margin-top: 16px; padding: 16px; border-radius: 8px; background: #101311; border: 1px solid #2a2f2c; text-align: center; color: #c7c7c7; }
-  .category-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 16px; grid-auto-flow: row; }
-  @media (max-width: 800px) { .category-grid { grid-template-columns: 1fr; } }
-  .category-card { background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%); border: 1px solid #2a3f2c; border-radius: 12px; padding: 24px; min-height: 200px; }
+  .category-grid { display: grid !important; grid-template-columns: 1fr 1fr !important; gap: 20px; margin-top: 16px; }
+  @media (max-width: 800px) { .category-grid { grid-template-columns: 1fr !important; } }
+  .category-card { background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%); border: 1px solid #2a3f2c; border-radius: 12px; padding: 24px; }
   .category-card h3 { margin: 0 0 8px 0; color: #7ee081; font-size: 1.2em; }
   .category-card .count { color: #888; font-size: 0.85em; margin-bottom: 12px; }
   .category-card p { margin: 0 0 16px 0; color: #a7a7a7; font-size: 0.95em; }
