@@ -77,8 +77,25 @@ permalink: /blog/
         <div class="meta">Minimal kit • affiliate links</div>
         <p>What to buy first (and what to skip) to stop pests without nuking your plants.</p>
       </div>
-      <div class="pinned-coming">
-        More editions coming: Splurge, Aesthetic, Level Up...
+      <div class="pinned-card">
+        <h3><a href="/blog/level-up-basics/">Level Up Your Basics</a></h3>
+        <div class="meta">Gear upgrades • affiliate links</div>
+        <p>When cheap tools aren't cutting it anymore. The gear worth spending more on.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/aesthetic-gear/">Aesthetic Gear Guide</a></h3>
+        <div class="meta">Style + function • affiliate links</div>
+        <p>Plant gear that looks good on your shelf and actually helps your plants thrive.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/splurge-edition/">Splurge Edition</a></h3>
+        <div class="meta">Premium gear • affiliate links</div>
+        <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/best-gifts-plant-lovers/">Best Gifts for Plant Lovers</a></h3>
+        <div class="meta">Gift guide • affiliate links</div>
+        <p>What to buy the plant person in your life. From practical to delightfully weird.</p>
       </div>
     </div>
   </div>
