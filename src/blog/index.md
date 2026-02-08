@@ -216,6 +216,140 @@ permalink: /blog/
     <div class="meta">Myths • misconceptions</div>
     <p>Your plants aren't trying to kill you. Here are the lies the internet told you.</p>
   </div>
+
+  <h2 class="section-title">More Gear Guides</h2>
+
+  <div class="card">
+    <h2><a href="/blog/aesthetic-gear/">Aesthetic Gear Guide: Stylish Stuff That Actually Works</a></h2>
+    <div class="meta">Gear guide • aesthetic • affiliate links</div>
+    <p>Plant gear that looks good on your shelf and actually helps your plants thrive.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/level-up-basics/">Level Up Your Basics: Gear Worth the Upgrade</a></h2>
+    <div class="meta">Gear guide • upgrades • affiliate links</div>
+    <p>When cheap tools aren't cutting it anymore. The gear worth spending more on.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/splurge-edition/">Splurge Edition: Premium Plant Gear</a></h2>
+    <div class="meta">Gear guide • premium • affiliate links</div>
+    <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-moisture-meters/">Best Moisture Meters for Houseplants</a></h2>
+    <div class="meta">Gear guide • tools • affiliate links</div>
+    <p>Stop guessing when to water. The best moisture meters tested and ranked.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-pruning-shears/">Best Pruning Shears for Houseplants</a></h2>
+    <div class="meta">Gear guide • tools • affiliate links</div>
+    <p>Sharp, clean cuts prevent disease. Here's what actually works.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-online-plant-shops/">Best Online Plant Shops</a></h2>
+    <div class="meta">Shopping guide • online • curated</div>
+    <p>Where to buy healthy plants online without getting scammed or receiving mush.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-gifts-plant-lovers/">Best Gifts for Plant Lovers</a></h2>
+    <div class="meta">Gift guide • affiliate links</div>
+    <p>What to buy the plant person in your life. From practical to delightfully weird.</p>
+  </div>
+
+  <h2 class="section-title">More Troubleshooting</h2>
+
+  <div class="card">
+    <h2><a href="/blog/brown-tips/">Brown Tips on Houseplants: The Real Causes</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>Brown tips aren't always underwatering. Here's what's really going on.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/overwatering-underwatering/">Overwatering vs Underwatering: Tell the Difference</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>They look eerily similar. Here's how to tell which one is killing your plant.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/hydrophobic-soil/">Hydrophobic Soil: Fix It Fast</a></h2>
+    <div class="meta">Troubleshooting • soil issues</div>
+    <p>Water rolls off instead of soaking in? Your soil is hydrophobic. Here's the fix.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/leaves-falling-off/">Leaves Falling Off Houseplants: When It's Normal vs a Problem</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>Not all leaf drop is a crisis. Here's how to tell the difference.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/treat-root-rot/">Root Rot Treatment Guide</a></h2>
+    <div class="meta">Troubleshooting • emergency care</div>
+    <p>Act fast. Root rot spreads quickly, but it's not always a death sentence.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/quarantine-new-plant/">Quarantine New Plants: Why and How</a></h2>
+    <div class="meta">Prevention • pest control</div>
+    <p>Don't let one infected plant take down your entire collection. Quarantine saves lives.</p>
+  </div>
+
+  <h2 class="section-title">Monstera Guides</h2>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-propagation/">Propagating Monstera: Water vs Soil Success Rates</a></h2>
+    <div class="meta">Monstera • propagation</div>
+    <p>Step-by-step guide to propagating Monsteras. Success rates, pros, cons, and troubleshooting.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-aerial-roots/">Monstera Aerial Roots: What to Do</a></h2>
+    <div class="meta">Monstera • care</div>
+    <p>Should you cut them, leave them, or train them? The complete guide to Monstera aerial roots.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-fenestrations/">When Will My Monstera Fenestrate?</a></h2>
+    <div class="meta">Monstera • growth</div>
+    <p>Why your Monstera still has baby leaves and what you can do to encourage fenestrations.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-support/">Monstera Support: Moss Pole vs Trellis vs Stake</a></h2>
+    <div class="meta">Monstera • support structures</div>
+    <p>Which support structure is right for your Monstera? Moss pole, trellis, or stake compared.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-variegation/">Monstera Variegation Types: Albo vs Thai Constellation vs Aurea</a></h2>
+    <div class="meta">Monstera • varieties</div>
+    <p>The crown jewels of indoor gardening. Compare variegated Monstera types and care needs.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-yellow-leaves/">Why Is My Monstera Turning Yellow?</a></h2>
+    <div class="meta">Monstera • troubleshooting</div>
+    <p>Decode every shade of yellow on your Monstera. Monstera-specific diagnostic guide.</p>
+  </div>
+
+  <h2 class="section-title">Pothos Guides</h2>
+
+  <div class="card">
+    <h2><a href="/blog/pothos-varieties/">Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade</a></h2>
+    <div class="meta">Pothos • varieties</div>
+    <p>Which Pothos is right for you? Compare Golden, Marble, Neon, and Jade side-by-side.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/pothos-not-trailing/">Why Is My Pothos Not Trailing?</a></h2>
+    <div class="meta">Pothos • troubleshooting</div>
+    <p>Pothos looking more like a bush than a vine? Here's how to get those cascading trails.</p>
+  </div>
 </div>
 
 <div class="footer">
