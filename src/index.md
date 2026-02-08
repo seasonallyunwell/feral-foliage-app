@@ -39,6 +39,13 @@ permalink: /
   .calc-btn { background: #2d5a30; color: #fff; padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer; font-size: 1em; width: 100%; }
   .calc-btn:hover { background: #3a7a3e; }
   .result { margin-top: 16px; padding: 16px; border-radius: 8px; background: #101311; border: 1px solid #2a2f2c; text-align: center; color: #c7c7c7; }
+  .category-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 16px; }
+  .category-card { background: linear-gradient(135deg, #1a2a1c 0%, #171a18 100%); border: 1px solid #2a3f2c; border-radius: 12px; padding: 24px; }
+  .category-card h3 { margin: 0 0 8px 0; color: #7ee081; font-size: 1.2em; }
+  .category-card .count { color: #888; font-size: 0.85em; margin-bottom: 12px; }
+  .category-card p { margin: 0 0 16px 0; color: #a7a7a7; font-size: 0.95em; }
+  .category-card .browse-btn { display: inline-block; background: #2d5a30; color: #fff; padding: 10px 20px; border-radius: 6px; font-weight: 600; font-size: 0.9em; }
+  .category-card .browse-btn:hover { background: #3a7a3e; text-decoration: none; }
   .footer { margin-top: 48px; padding: 24px; border-top: 1px solid #2a2f2c; text-align: center; color: #666; font-size: 0.85em; }
   .footer a { color: #7ee081; }
 </style>
@@ -154,11 +161,47 @@ permalink: /
       </div>
     </div>
   </div>
+
+  <h2 class="section-title">Browse by Category</h2>
+  <div class="category-grid">
+    <div class="category-card">
+      <h3>🛒 Gear Guides</h3>
+      <div class="count">10+ guides</div>
+      <p>From budget-friendly starter kits to splurge-worthy upgrades. Moisture meters, pruning shears, grow lights, and gear that actually works.</p>
+      <a href="/blog/" class="browse-btn">Browse Gear Guides</a>
+    </div>
+
+    <div class="category-card">
+      <h3>🔧 Troubleshooting</h3>
+      <div class="count">12+ guides</div>
+      <p>Yellow leaves, brown tips, drooping, root rot, pests — diagnose what's wrong and fix it before it's too late.</p>
+      <a href="/blog/" class="browse-btn">Browse Troubleshooting</a>
+    </div>
+
+    <div class="category-card">
+      <h3>🌿 Monstera Guides</h3>
+      <div class="count">6 guides</div>
+      <p>Everything Monstera: aerial roots, fenestrations, propagation, support structures, variegation types, and yellow leaves.</p>
+      <a href="/blog/" class="browse-btn">Browse Monstera Guides</a>
+    </div>
+
+    <div class="category-card">
+      <h3>🍃 Pothos Guides</h3>
+      <div class="count">2 guides</div>
+      <p>Compare Pothos varieties (Golden, Marble, Neon, Jade) and troubleshoot non-trailing vines.</p>
+      <a href="/blog/" class="browse-btn">Browse Pothos Guides</a>
+    </div>
+  </div>
+
+  <div style="text-align:center;margin:40px 0">
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 44 Guides →</a>
+  </div>
 </div>
 
 <div class="footer">
   <p>🌿 Feral Foliage — unapologetically practical plant care</p>
   <p><a href="/disclosure/">Affiliate Disclosure</a></p>
+  <p style="margin-top:12px;color:#444">v2.0.0 · Last updated: 2026-02-08</p>
 </div>
 
 <script>
