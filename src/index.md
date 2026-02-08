@@ -10,7 +10,7 @@ permalink: /
   body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; background-color: #0f1110; color: #e7e7e7; margin: 0; padding: 0; line-height: 1.6; }
   a { color: #7ee081; text-decoration: none; }
   a:hover { text-decoration: underline; }
-  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 24px; }
   .hero { text-align: center; padding: 60px 20px 40px; border-bottom: 1px solid #2a2f2c; background: linear-gradient(rgba(15,17,16,0.85),rgba(15,17,16,0.95)),url('/images/indoor-jungle.png') center/cover; }
   .hero .tagline { font-size: 1.15em; color: #a7a7a7; margin: 0 0 24px 0; }
   .hero-nav { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
