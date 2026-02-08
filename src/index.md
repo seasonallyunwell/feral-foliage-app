@@ -164,35 +164,27 @@ permalink: /
   </div>
 
   <h2 class="section-title">Browse by Category</h2>
-  <div class="category-grid">
-    <div class="category-card">
+  <div class="category-grid"><div class="category-card">
       <h3>🛒 Gear Guides</h3>
       <div class="count">10+ guides</div>
       <p>From budget-friendly starter kits to splurge-worthy upgrades. Moisture meters, pruning shears, grow lights, and gear that actually works.</p>
       <a href="/blog/" class="browse-btn">Browse Gear Guides</a>
-    </div>
-
-    <div class="category-card">
+    </div><div class="category-card">
       <h3>🔧 Troubleshooting</h3>
       <div class="count">12+ guides</div>
       <p>Yellow leaves, brown tips, drooping, root rot, pests — diagnose what's wrong and fix it before it's too late.</p>
       <a href="/blog/" class="browse-btn">Browse Troubleshooting</a>
-    </div>
-
-    <div class="category-card">
+    </div><div class="category-card">
       <h3>🌿 Monstera Guides</h3>
       <div class="count">6 guides</div>
       <p>Everything Monstera: aerial roots, fenestrations, propagation, support structures, variegation types, and yellow leaves.</p>
       <a href="/blog/" class="browse-btn">Browse Monstera Guides</a>
-    </div>
-
-    <div class="category-card">
+    </div><div class="category-card">
       <h3>🍃 Pothos Guides</h3>
       <div class="count">2 guides</div>
       <p>Compare Pothos varieties (Golden, Marble, Neon, Jade) and troubleshoot non-trailing vines.</p>
       <a href="/blog/" class="browse-btn">Browse Pothos Guides</a>
-    </div>
-  </div>
+    </div></div>
 
   <div style="text-align:center;margin:40px 0">
     <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 44 Guides →</a>
