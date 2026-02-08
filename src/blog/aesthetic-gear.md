@@ -17,7 +17,7 @@ author: "Feral Foliage"
 Form and function don't have to be enemies. There is a whole world of plant gear designed by artists, designers, and craftspeople who care as much about how a pot looks as how it drains. If you want your plant corner to look curated, not cluttered, this guide is for you.
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. We only recommend products we use and love.
 </div>
 
 ## Pretty Pots with Drainage: The Holy Grail
@@ -40,7 +40,7 @@ Plastic watering cans are fine, but a **solid brass watering can** is a statemen
 
 Look for a long, curved spout for reaching plants on high shelves without spilling. A small 1-liter capacity is usually perfect—it forces you to move around, checking each plant, rather than dumping a gallon on one.
 
-*Recommendation:* The **Brass Watering Can from Terrain** or the **Haws Heritage Brass Can** (if you can find it). The Haws is the gold standard in the UK gardening world and lasts forever.
+*Recommendation:* The <strong><a href="https://www.amazon.com/dp/B08L73T2T9?tag=feralfoliage-20" target="_blank">Modern Sprout Brass Finish Watering Can</a></strong> is an excellent choice with a long spout perfect for indoor plants. For a classic British option, look for the **Haws Heritage Brass Can** (if you can find it). The Haws is the gold standard in the UK gardening world and lasts forever.
 
 ## Macrame Hangers: Soft Texture for Hard Spaces
 
@@ -48,7 +48,7 @@ Macrame is back. The boho trend has evolved into sophisticated wall art and plan
 
 Look for **100% cotton rope** hangers with at least four support points (to keep the pot stable). Avoid the cheap nylon stuff; it frays and looks cheap.
 
-*Recommendation:* **Moo & Co.** or **Proud Home Co.** on Etsy make beautiful, knot-work hangers that come in natural, undyed tones. They pair perfectly with a simple terracotta pot for a refined look.
+*Recommendation:* **Moo & Co.** or **Proud Home Co.** on Etsy make beautiful, knot-work hangers that come in natural, undyed tones. For a great Amazon option, try the <strong><a href="https://www.amazon.com/dp/B07DY5D68V?tag=feralfoliage-20" target="_blank">Sorbus Macrame Plant Hangers (4-Pack)</a></strong> in 100% cotton rope.
 
 ## Plant Stands: Elevate Your Collection
 
@@ -60,13 +60,15 @@ Look for stands in natural materials: solid wood, rattan, or powder-coated metal
 
 **Elevate your game:** [Humidity Guide](/blog/humidity.md)
 
+**Shop our favorite stand:** <a href="https://www.amazon.com/Mid-Century-Plant-Stand-Adjustable/dp/B07MH6CHPR?tag=feralfoliage-20" target="_blank">Sophia Mills Mid Century Plant Stand</a> on Amazon
+
 ## Leather Tool Rolls: The Gentleman's (or Gentlewoman's) Garden Kit
 
 Cheap tool bags are ugly. A **leather tool roll** is a pleasure to use. It rolls up tight, keeps your pruners and trowels organized, and looks great hanging on a wall or sitting on a shelf.
 
 Real leather develops a beautiful worn-in look over time. Look for full-grain leather—it holds up better and looks more distinguished than bonded leather.
 
-*Recommendation:* The **Garden Tool Roll from Filson** is overkill (it's for heavy-duty gardening) but beautiful. For houseplant-specific needs, look for smaller, artisan leather rolls on Etsy or **Corter Leather**.
+*Recommendation:* The **Garden Tool Roll from Filson** is overkill (it's for heavy-duty gardening) but beautiful. For houseplant-specific needs, try the <strong><a href="https://www.amazon.com/dp/B0G4VLHFFH?tag=feralfoliage-20" target="_blank">OIKOZEL Leather Tool Roll</a></strong> or look for smaller, artisan leather rolls on Etsy.
 
 ## The Aesthetic Shelfie: Styling Tips
 
@@ -80,6 +82,21 @@ Having nice gear is only half the battle. How you display it matters.
 ## The Takeaway
 
 A stylish plant collection isn't about buying the most expensive things. It's about choosing items with intention—pots that drain, stands that hold, and tools that feel good. When your gear looks good, you take better care of it. And when your space looks beautiful, you want to spend more time in it.
+
+## Shop This Guide
+
+Looking for the products mentioned in this guide? We've curated our favorites on Amazon:
+
+### Watering & Care
+- <a href="https://www.amazon.com/Modern-Sprout-Watering-Indoor-Accessory/dp/B08L73T2T9?tag=feralfoliage-20" target="_blank">Modern Sprout Brass Finish Watering Can</a> - Elegant brass watering can with long spout for indoor plants
+
+### Display & Organization
+- <a href="https://www.amazon.com/Mid-Century-Plant-Stand-Adjustable/dp/B07MH6CHPR?tag=feralfoliage-20" target="_blank">Sophia Mills Mid Century Plant Stand</a> - Handmade solid wood stand for medium and large pots
+- <a href="https://www.amazon.com/Sorbus-Macrame-Outdoor-Hanging-Elegant/dp/B07DY5D68V?tag=feralfoliage-20" target="_blank">Sorbus Macrame Plant Hangers (4-Pack)</a> - Cotton rope hangers for indoor and outdoor plants
+
+### Tools
+- <a href="https://www.amazon.com/OIKOZEL-Tool-Roll-Organizer-Woodworking/dp/B0G4VLHFFH?tag=feralfoliage-20" target="_blank">OIKOZEL Leather Tool Roll</a> - Hand-stitched leather organizer for pruners, trowels, and other tools
+- <a href="https://www.amazon.com/XLUX-Moisture-Sensor-Tester-Outdoor/dp/B0BTM794R7?tag=feralfoliage-20" target="_blank">XLUX Soil Moisture Meter</a> - No-battery hygrometer to prevent overwatering
 
 **Start your journey:** [Starter Kit Guide](/blog/starter-kit.md)
 
@@ -109,7 +126,7 @@ Macrame is back. The boho trend has evolved into sophisticated wall art and plan
 
 Look for **100% cotton rope** hangers with at least four support points (to keep the pot stable). Avoid the cheap nylon stuff; it frays and looks cheap.
 
-*Recommendation:* **Moo & Co.** or **Proud Home Co.** on Etsy make beautiful, knot-work hangers that come in natural, undyed tones. They pair perfectly with a simple terracotta pot for a refined look.
+*Recommendation:* **Moo & Co.** or **Proud Home Co.** on Etsy make beautiful, knot-work hangers that come in natural, undyed tones. For a great Amazon option, try the <strong><a href="https://www.amazon.com/dp/B07DY5D68V?tag=feralfoliage-20" target="_blank">Sorbus Macrame Plant Hangers (4-Pack)</a></strong> in 100% cotton rope.
 
 ## Plant Stands: Elevate Your Collection
 
@@ -125,7 +142,7 @@ Cheap tool bags are ugly. A **leather tool roll** is a pleasure to use. It rolls
 
 Real leather develops a beautiful worn-in look over time. Look for full-grain leather—it holds up better and looks more distinguished than bonded leather.
 
-*Recommendation:* The **Garden Tool Roll from Filson** is overkill (it's for heavy-duty gardening) but beautiful. For houseplant-specific needs, look for smaller, artisan leather rolls on Etsy or **Corter Leather**.
+*Recommendation:* The **Garden Tool Roll from Filson** is overkill (it's for heavy-duty gardening) but beautiful. For houseplant-specific needs, try the <strong><a href="https://www.amazon.com/dp/B0G4VLHFFH?tag=feralfoliage-20" target="_blank">OIKOZEL Leather Tool Roll</a></strong> or look for smaller, artisan leather rolls on Etsy.
 
 ## The Aesthetic Shelfie: Styling Tips
 
