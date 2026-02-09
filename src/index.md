@@ -90,7 +90,7 @@ permalink: /
       <h3>🪴 Repotting Roulette</h3>
       <p>What pot size? What soil mix? Calculator + recipes.</p>
       <div class="btn-row">
-        <a href="/blog/repotting/" class="btn">Use Tool</a>
+        <a href="/blog/repotting.html" class="btn">Use Tool</a>
       </div>
     </div>
     <div class="tool-card">
