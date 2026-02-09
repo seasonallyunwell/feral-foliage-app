@@ -87,6 +87,13 @@ permalink: /
       </div>
     </div>
     <div class="tool-card">
+      <h3>🪴 Repotting Roulette</h3>
+      <p>What pot size? What soil mix? Calculator + recipes.</p>
+      <div class="btn-row">
+        <a href="/blog/repotting.html" class="btn">Use Tool</a>
+      </div>
+    </div>
+    <div class="tool-card">
       <h3>🧪 Fertilizer Calculator</h3>
       <p>Calculate exact dilution rates for any fertilizer. NPK, PPM, and safety warnings.</p>
       <div class="btn-row">

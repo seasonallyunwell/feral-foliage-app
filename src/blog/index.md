@@ -157,6 +157,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/repotting.html">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
+    <div class="meta">Calculator • guide • affiliate links</div>
+    <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/easiest-houseplants/">10 Easiest Houseplants to Keep Alive</a></h2>
     <div class="meta">Beginner guide • affiliate links</div>
     <p>The most forgiving houseplants for beginners who kill everything. From "literally unkillable" to "pretty hard to mess up."</p>
