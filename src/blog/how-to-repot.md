@@ -215,6 +215,10 @@ Wet soil holds together better. Dry soil falls apart and damages roots.
 - Keep in same light conditions
 - Don't stress the plant further
 
+<div class="callout tip">
+<strong>When you're ready to resume feeding:</strong> Use our [Fertilizer Dilution Calculator](/tools/fertilizer-calculator/) to get the concentration right — plants recovering from repotting need gentler doses.
+</div>
+
 **What to expect:**
 - Mild drooping is normal (transplant shock)
 - New growth in 2-4 weeks means success

@@ -94,6 +94,13 @@ permalink: /
       </div>
     </div>
     <div class="tool-card">
+      <h3>🧪 Fertilizer Calculator</h3>
+      <p>Calculate exact dilution rates for any fertilizer. NPK, PPM, and safety warnings.</p>
+      <div class="btn-row">
+        <a href="/tools/fertilizer-calculator/" class="btn">Use Calculator</a>
+      </div>
+    </div>
+    <div class="tool-card">
       <h3>🐛 Pest ID Guide</h3>
       <p>Identify what's eating your plant and how to stop it.</p>
       <div class="btn-row">

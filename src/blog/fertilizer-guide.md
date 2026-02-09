@@ -161,6 +161,10 @@ Most fertilizer packages tell you to use the full strength. Ignore that.
 
 **Underfertilizing is always better than overfertilizing.** A slightly hungry plant will survive. A burnt root system might not.
 
+<div class="callout tip">
+<strong>Need help with the math?</strong> Use our [Fertilizer Dilution Calculator](/tools/fertilizer-calculator/) to calculate exact amounts based on your fertilizer's NPK ratio.
+</div>
+
 ---
 
 ## Fertilizer Schedule by Plant Type

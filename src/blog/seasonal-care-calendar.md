@@ -46,11 +46,12 @@ description: Your month-by-month guide to keeping houseplants happy through ever
 
 ### Tasks to Do
 - [ ] **Repot** — if roots are circling or growing slowly
-- **Propagate** — take cuttings now for best success
+- [ ] **Propagate** — take cuttings now for best success
 - [ ] **Fertilize** — start at half-strength, build up to full
 - [ ] **Clean leaves** — wipe dust off for max light absorption
 - [ ] **Check for pests** — spring wakes bugs up too
 - [ ] **Move plants** — gradually acclimate to brighter spots
+- [ ] **Calculate feed amounts** — use our [Fertilizer Calculator](/tools/fertilizer-calculator/) for precise dilution
 
 ### Plants That Love Spring
 - Monsteras, pothos, philodendrons (tropicals waking up)

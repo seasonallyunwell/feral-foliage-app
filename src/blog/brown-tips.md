@@ -72,6 +72,10 @@ Over-fertilizing. When you feed your plant too often, or the concentration is to
 *   **Hold Off:** Stop fertilizing for a few weeks or until the plant recovers.
 *   **Follow the Schedule:** Less is more. Fertilize only during active growing season (Spring/Summer) and dilute the dose.
 
+<div class="callout tip">
+<strong>Calculate the right amount:</strong> Use our [Fertilizer Dilution Calculator](/tools/fertilizer-calculator/) to avoid over-fertilizing and prevent salt buildup.
+</div>
+
 ### 4. Underwatering
 **The Symptom:** The whole leaf turns brown and crispy, usually starting at the edges or tips. The plant looks droopy.
 
