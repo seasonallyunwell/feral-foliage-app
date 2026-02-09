@@ -2,25 +2,31 @@
 title: "Level Up Your Basics: Gear Worth the Upgrade"
 description: "Graduate from plant killer to plant keeper with these essential gear upgrades. Better tools mean better results for your indoor jungle."
 slug: "level-up-basics"
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 ---
 
+<div class="card">
+
+# Level Up Your Basics: Gear Worth the Upgrade
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Graduate from plant killer to plant keeper with these essential gear upgrades. Better tools mean better results for your indoor jungle.</p>
+
 <img src="/images/level-up-basics-hero.png" alt="Upgraded plant care tools: digital moisture meter, Felco pruners, chunky aroid soil mix, and LED grow light" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- Digital moisture meters outperform wooden sticks 10x
-- Quality bypass pruners (Felco) last a lifetime
-- Chunkier soil mixes prevent root rot
-
-So, you killed your first fiddle-leaf fig. Or maybe your third. Don't worry; you're in good company here at Feral Foliage. That "easy-care" label on the nursery pot was lying to you. Most starter kit plants come with plastic nursery pots, cheap moisture meters that break after two uses, and that mysterious "black goo" soil that Compacted into cement within six weeks.
-
-The transition from plant killer to plant keeper isn't about talent—it's about gear. Here is the upgrade path that will finally get you growing.
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>TL;DR:</strong> Digital moisture meters outperform wooden sticks 10x. Quality bypass pruners (Felco) last a lifetime. Chunkier soil mixes prevent root rot. Upgrade your gear for better results.
 </div>
+
+---
+
+So, you killed your first fiddle-leaf fig. Or maybe your third. Don't worry; you're in good company here at Feral Foliage. That "easy-care" label on the nursery pot was lying to you. Most starter kit plants come with plastic nursery pots, cheap moisture meters that break after two uses, and that mysterious "black goo" soil that Compacts into cement within six weeks.
+
+The transition from plant killer to plant keeper isn't about talent—it's about gear. Here is the upgrade path that will finally get you growing.
 
 ## 1. Ditch the Stick: A Real Moisture Meter
 
@@ -65,3 +71,5 @@ A simple **digital hygrometer** tells you exactly what the air is doing. Most in
 ## The Takeaway
 
 You do not need to spend a fortune to become a good plant parent. You just need the *right* gear. Stop fighting your tools. Upgrade one item at a time, starting with that moisture meter, and watch your confidence—and your plant collection—grow.
+
+</div>

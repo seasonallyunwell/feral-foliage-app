@@ -2,23 +2,27 @@
 title: "Aesthetic Gear Guide: Stylish Stuff That Actually Works"
 description: "Your plants deserve gear that's as beautiful as they are functional. Discover stylish pots, watering cans, and tools that elevate your plant space."
 slug: "aesthetic-gear"
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 ---
 
+<div class="card">
+
+# Aesthetic Gear Guide: Stylish Stuff That Actually Works
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Your plants deserve gear that's as beautiful as they are functional. Discover stylish pots, watering cans, and tools that elevate your plant space.</p>
+
 <img src="/images/aesthetic-gear-hero.png" alt="Beautifully styled plant corner featuring brass watering can, ceramic pots with drainage, and macrame hangers" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- Premium pots prioritize drainage + aesthetics
-- Brass watering cans develop beautiful patina over time
-- Leather tool rolls organize and upgrade your care routine
-
-Form and function don't have to be enemies. There is a whole world of plant gear designed by artists, designers, and craftspeople who care as much about how a pot looks as how it drains. If you want your plant corner to look curated, not cluttered, this guide is for you.
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. We only recommend products we use and love.
+<strong>TL;DR:</strong> Premium pots prioritize drainage + aesthetics. Brass watering cans develop patina. Leather tool rolls organize and upgrade your care routine.
 </div>
+
+---
 
 ## Pretty Pots with Drainage: The Holy Grail
 
@@ -156,3 +160,5 @@ Having nice gear is only half the battle. How you display it matters.
 ## The Takeaway
 
 A stylish plant collection isn't about buying the most expensive things. It's about choosing items with intention—pots that drain, stands that hold, and tools that feel good. When your gear looks good, you take better care of it. And when your space looks beautiful, you want to spend more time in it.
+
+</div>

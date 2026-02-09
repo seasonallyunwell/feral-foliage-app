@@ -1,7 +1,7 @@
 ---
 title: "How to Treat Root Rot"
 slug: "how-to-treat-root-rot"
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 category: "Plant Care"
 tags: ["root rot", "plant health", "troubleshooting", "watering"]
@@ -9,23 +9,23 @@ excerpt: "Discovered mushy stems or a rotten smell? Learn how to diagnose, treat
 affiliate_disclosure: "This guide may contain affiliate links. If you buy through our links, we earn a commission at no extra cost to you."
 ---
 
+<div class="card">
+
+# How to Treat Root Rot
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Discovered mushy stems or a rotten smell? Learn how to diagnose, treat, and revive plants suffering from root rot before it's too late.</p>
+
 <img src="/images/treat-root-rot-hero.png" alt="Houseplant with root rot being repotted, showing brown mushy roots vs healthy white roots after treatment" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **Spot symptoms early:** Wilting with wet soil, foul smell, yellow leaves, mushy stems = root rot
-- **Act fast:** Remove plant, rinse roots, cut away all brown/mushy roots with sterilized scissors
-- **Dry before repotting:** Let plant dry for several hours to callus over cuts
-- **Repot fresh:** Use well-draining soil (potting mix + perlite/bark), ensure pot has drainage holes
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
-- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
-- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+<div class="callout">
+<strong>TL;DR:</strong> Spot symptoms early: wilting with wet soil, foul smell, yellow leaves, mushy stems = root rot. Remove plant, rinse roots, cut away brown/mushy roots, dry before repotting in fresh well-draining soil.
+</div>
+
+---
 
 ## Spotting the Problem
 
@@ -92,3 +92,5 @@ Recovery depends on how much of the root system survived.
 *   **Refresh soil:** Repot plants every 18-24 months to prevent soil compaction.
 
 Root rot is a setback, but with quick action and a little patience, your plant can make a full recovery.
+
+</div>

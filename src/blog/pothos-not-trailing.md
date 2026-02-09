@@ -2,31 +2,29 @@
 title: "Why Is My Pothos Not Trailing?"
 slug: "pothos-not-trailing"
 excerpt: "Is your Pothos looking more like a bush than a vine? Here is a diagnosis guide to help your Pothos achieve those long, cascading trails you dream of."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 category: "Pothos Care"
 tags: ["Pothos", "Troubleshooting", "Trailing", "Vines", "Pruning"]
 ---
 
+<div class="card">
+
+# Why Is My Pothos Not Trailing?
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Is your Pothos looking more like a bush than a vine? Here is a diagnosis guide to help your Pothos achieve those long, cascading trails you dream of.</p>
+
 <img src="/images/pothos-not-trailing-hero.png" alt="Bushy Pothos plant that needs encouragement to trail, with multiple vines growing upright" style="width:100%;border-radius:10px;margin:16px 0">
 
-**Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
-
-## TL;DR
-
-- **Light is #1 culprit:** Low light makes Pothos compact and conservative; move to bright indirect light
-- **Don't chop the tips:** Cutting tips removes growth hormones; let vines grow to encourage length
-- **Slow varieties exist:** Jade and Cebu Blue grow slower than Golden—patience required
-- **Root bound?** Repot when roots circle the pot; root-bound plants stop growing
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Pothos Varieties Compared](/blog/pothos-varieties-compared)
-- [Propagating Pothos in Water](/blog/pothos-propagation)
-- [Best Pruning Shears for Houseplants](/blog/best-pruning-shears)
+<div class="callout">
+<strong>TL;DR:</strong> Light is #1 culprit: low light makes Pothos compact and conservative. Don't chop the tips—they contain growth hormones. Root bound plants stop growing. Move to bright indirect light and let vines grow.
+</div>
+
+---
 
 ## The Pothos Paradox
 
@@ -121,3 +119,5 @@ If the stems are turning black, mushy, or the leaves are yellowing and dropping,
 - [Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade](/blog/pothos-varieties)
 - [Propagating Pothos in Water: A Step-by-Step Guide](/blog/pothos-propagation)
 - [Beginner's Guide to Indoor Lighting](/blog/lighting-101)
+
+</div>

@@ -7,18 +7,23 @@ description: "Stop the crispy tips! We break down the real causes of brown leaf 
 tags: ["Brown Tips", "Plant Care", "Humidity", "Water Quality"]
 ---
 
+<div class="card">
+
+# Brown Tips on Houseplants: The Real Causes
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop the crispy tips! We break down the real causes of brown leaf tips—humidity, water quality, and fertilizer burn—and give you a clear checklist to fix them.</p>
+
 <img src="/images/brown-tips-hero.png" alt="Houseplant leaves with crispy brown tips showing common issues from low humidity and water quality" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **Water Quality:** Most common cause—tap water minerals (fluoride, chlorine, salts) build up and burn leaf tips; switch to filtered or distilled water
-- **Humidity:** Tropical plants want 40-60% humidity; use a humidifier, pebble tray, or group plants to create microclimate
-- **Fertilizer Burn:** Over-fertilizing causes salt buildup; flush soil and reduce feeding frequency
-- **Check Soil First:** White crust on soil + brown tips = salt accumulation; leach soil and switch water type
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>TL;DR:</strong> Most brown tips come from tap water minerals, low humidity, or fertilizer burn. Switch to filtered water, increase humidity, and flush soil to fix.
 </div>
+
+---
 
 **Related Articles:**
 - [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
@@ -110,3 +115,5 @@ Unfortunately, **brown tips do not turn green again.** The tissue is dead.
 *   **Prevention:** The only way to stop it is to fix the environmental cause.
 
 **[Need help with the watering balance? See our Overwatering vs Underwatering guide](/guides/overwatering-underwatering).**
+
+</div>

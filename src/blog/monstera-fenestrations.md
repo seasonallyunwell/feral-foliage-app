@@ -1,32 +1,30 @@
 ---
 title: "When Will My Monstera Fenestrate?"
 slug: "monstera-fenestration-guide"
-date: 2026-02-06
-author: Feral Foliage
-category: Plant Care Guides
+date: "2026-02-06"
+author: "Feral Foliage"
+category: "Plant Care Guides"
 tags: ["Monstera", "Houseplants", "Fenestration", "Plant Care"]
 description: "Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations."
 ---
 
+<div class="card">
+
+# When Will My Monstera Fenestrate?
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations.</p>
+
 <img src="/images/monstera-fenestrations-hero.png" alt="Mature Monstera leaf showcasing dramatic fenestrations and splits against bright indirect light" style="width:100%;border-radius:10px;margin:16px 0">
 
-**Affiliate Disclosure:** This guide contains affiliate links. If you purchase through them, we may earn a commission at no extra cost to you.
-
-## TL;DR
-
-- **Age matters:** Fenestrations appear when plant is mature—seed-grown takes 2-3 years, nursery plants 1-2 years
-- **Light is #1 factor:** Bright indirect light provides energy for complex leaves; low light = no splits
-- **Support encourages it:** Climbing on moss pole mimics natural growth and triggers fenestrations
-- **Be patient:** Root-bound plants often fenestrate faster; recently repotted plants focus on roots first
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
-- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
-- [Lighting 101 for Indoor Plants](/blog/lighting-101)
+<div class="callout">
+<strong>TL;DR:</strong> Age matters: fenestrations appear when plant is mature—seed-grown takes 2-3 years, nursery plants 1-2 years. Light is #1 factor: bright indirect light provides energy for complex leaves. Support encourages it: climbing on moss pole triggers fenestrations.
+</div>
+
+---
 
 ## The Question Every Monstera Owner Asks
 
@@ -102,3 +100,11 @@ Also, a single plain leaf at the top of a mature plant isn't a failure. Sometime
 The wait for fenestrations tests your patience, but it is part of the journey. Focus on creating the conditions for your Monstera to thrive—abundant light, healthy roots, and consistent care. When it is ready, those signature splits will appear, often when you least expect it. Trust the process, keep caring for your plant, and enjoy watching it transform from a simple heart-leaf vine into the dramatic statement piece it was always meant to be.
 
 Happy growing!
+
+---
+**Related Articles:**
+- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
+- [Lighting 101 for Indoor Plants](/blog/lighting-101)
+
+</div>

@@ -2,31 +2,29 @@
 title: "Monstera Variegation Types: Albo vs Thai Constellation vs Aurea"
 slug: "monstera-variegation-types-albo-vs-thai-constellation-vs-aurea"
 excerpt: "Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 category: "Monstera"
 tags: ["Monstera", "Variegation", "Albo", "Thai Constellation", "Aurea", "Rare Plants"]
 ---
 
+<div class="card">
+
+# Monstera Variegation Types: Albo vs Thai Constellation vs Aurea
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose.</p>
+
 <img src="/images/monstera-variegation-hero.png" alt="Comparison of three variegated Monsteras: Albo with white sectors, Thai Constellation with cream speckles, and Aurea with golden variegation" style="width:100%;border-radius:10px;margin:16px 0">
 
-**Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
-
-## TL;DR
-
-- **Albo (white):** Chimeric, unstable, high reversion risk, needs very bright light, slow grower
-- **Thai Constellation:** Stable tissue culture, low reversion risk, faster grower, most practical choice
-- **Aurea (yellow):** Rarest and most expensive, chimeric like Albo, very slow grower
-- **Light needs:** All variegated Monsteras need more light than standard; white/yellow tissue has no chlorophyll
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
-- [When Will My Monstera Fenestrate?](/blog/monstera-fenestration-guide)
-- [Why Is My Monstera Turning Yellow?](/blog/monstera-yellow-leaves)
+<div class="callout">
+<strong>TL;DR:</strong> Albo (white): chimeric, unstable, high reversion risk, needs very bright light, slow grower. Thai Constellation: stable tissue culture, low reversion risk, faster grower, most practical. Aurea (yellow): rarest, chimeric, very slow grower.
+</div>
+
+---
 
 ## The Variegated Dream
 
@@ -137,3 +135,5 @@ Variegated Monsteras are not just expensive—they are high-maintenance. They ne
 - [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support)
 - [How to Propagate Monsteras Successfully](/blog/monstera-propagation)
 - [Lighting 101 for Indoor Plants](/blog/lighting-101)
+
+</div>

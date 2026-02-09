@@ -2,28 +2,28 @@
 title: "How to Quarantine a New Plant (14-Day Protocol)"
 slug: "quarantine-new-plant-protocol"
 excerpt: "Don't let one new purchase ruin your entire collection. Follow this 14-day isolation protocol to catch pests before they spread."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 tags: ["pests", "care-guide", "prevention"]
 ---
 
+<div class="card">
+
+# How to Quarantine a New Plant (14-Day Protocol)
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Don't let one new purchase ruin your entire collection. Follow this 14-day isolation protocol to catch pests before they spread.</p>
+
 <img src="/images/quarantine-new-plant-hero.png" alt="New plant isolated in quarantine zone with sticky traps, insecticidal soap, and magnifying glass nearby" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **Set up quarantine zone:** Spare bathroom, guest room shelf, or plastic tub with airflow
-- **Essential supplies:** Insecticidal soap, neem oil, sticky traps, magnifying glass
-- **14-day protocol:** Inspect roots Day 0, soap spray Day 1 & 8, neem Day 4, monitor daily
-- **Reset clock if pests found:** Any sign of mealybugs, spider mites, aphids, or fungus gnats = clock restarts
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
-- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
-- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+<div class="callout">
+<strong>TL;DR:</strong> Set up quarantine zone in spare bathroom or tub. Use insecticidal soap, neem oil, sticky traps. 14-day protocol with inspections Day 0, 1, 4, 8. Reset clock if pests found.
+</div>
+
+---
 
 You just brought home a gorgeous new Monstera from the big box store. It's perfect—glossy leaves, new fenestrations. You place it next to your African Violet.
 
@@ -108,3 +108,5 @@ Quarantine is annoying. It takes up space and delays your interior design plans.
 - [Best Pruning Shears for Houseplants](best-pruning-shears.md)
 ---
 *Disclosure: This post contains affiliate links. We earn a commission on purchases made through these links, at no extra cost to you.*
+
+</div>

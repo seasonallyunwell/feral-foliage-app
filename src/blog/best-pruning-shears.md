@@ -2,28 +2,28 @@
 title: "Best Pruning Shears for Houseplants"
 slug: "best-pruning-shears-houseplants"
 excerpt: "Not all shears are created equal. Learn the difference between bypass and anvil styles, and how to maintain your blades so they last a lifetime."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 tags: ["tools", "pruning", "maintenance"]
 ---
 
+<div class="card">
+
+# Best Pruning Shears for Houseplants
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Not all shears are created equal. Learn the difference between bypass and anvil styles, and how to maintain your blades so they last a lifetime.</p>
+
 <img src="/images/best-pruning-shears-hero.png" alt="Quality pruning shears including Felco bypass pruners and precision micro-tip shears with clean cutting demonstration" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- Bypass pruners create clean cuts; anvil pruners crush stems
-- Sterilize between plants to prevent disease spread
-- Quality shears last decades with proper maintenance
-
-A dull pair of shears is worse than no shears at all.
-
-I learned this the hard way when I tried to prune a leggy Pothos with cheap scissors. I crushed the stem instead of cutting it. The stem turned black and died back two inches. All because I didn't have the right tool.
-
-If you have more than three plants, you need a dedicated pair of pruning shears. Here is what to buy and how to keep it sharp.
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>TL;DR:</strong> Bypass pruners create clean cuts; anvil pruners crush stems. Sterilize between plants to prevent disease spread. Quality shears last decades with proper maintenance.
 </div>
+
+---
 
 ## The Three Types of Pruners
 
@@ -112,3 +112,5 @@ Buy a quality pair of bypass shears (Felco or Gonicc). Take care of them. Steril
 - [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
 - [Best Moisture Meters for Houseplants](best-moisture-meters.md)
 - [Treat Root Rot: Step-by-Step Guide](/blog/treat-root-rot.md)
+
+</div>

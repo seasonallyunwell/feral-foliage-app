@@ -1,29 +1,29 @@
 ---
 title: "Hydrophobic Soil: Fix It Fast"
-date: 2026-02-06
+date: "2026-02-06"
 slug: "hydrophobic-soil"
 author: "Feral Foliage"
 description: "Does water sit on top of your soil instead of soaking in? You have hydrophobic soil. Learn the step-by-step soak method, wetting agents, and when to just repot."
 tags: ["Soil", "Watering", "Hydrophobic", "Plant Care"]
 ---
 
+<div class="card">
+
+# Hydrophobic Soil: Fix It Fast
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Does water sit on top of your soil instead of soaking in? You have hydrophobic soil. Learn the step-by-step soak method, wetting agents, and when to just repot.</p>
+
 <img src="/images/hydrophobic-soil-hero.png" alt="Water beading on top of dry hydrophobic soil instead of soaking in, showing the problem clearly" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **The Soak Method:** Submerge pot in tepid water for 20-30 minutes until soil absorbs water (you'll see bubbles)
-- **Wetting Agents:** Dish soap solution or commercial surfactants break surface tension for stubborn soil
-- **Prevention:** Never let soil go bone dry; water deeply each time; use chunky, well-draining mix
-- **Repot When Needed:** If soil has shrunk from pot walls, it's time for fresh mix with perlite or orchid bark
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
-- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
-- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
+<div class="callout">
+<strong>TL;DR:</strong> The Soak Method: submerge pot in tepid water for 20-30 minutes until soil absorbs water. Wetting agents (dish soap) break surface tension. Prevention: never let soil go bone dry; water deeply each time.
+</div>
+
+---
 
 ---
 
@@ -70,3 +70,5 @@ If your soil won't absorb water even after a soak, or if you want to prevent thi
 **Need help with chronic watering issues?**
 *   [Signs of Overwatering vs Underwatering](/guides/overwatering-underwatering)
 *   [Brown Tips on Houseplants](/guides/brown-tips)
+
+</div>

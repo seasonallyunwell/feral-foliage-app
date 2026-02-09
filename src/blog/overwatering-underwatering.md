@@ -1,29 +1,29 @@
 ---
 title: "Signs of Overwatering vs Underwatering: Decision Tree"
-date: 2026-02-06
+date: "2026-02-06"
 slug: "overwatering-underwatering"
 author: "Feral Foliage"
 description: "Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant."
 tags: ["Watering", "Plant Care", "Diagnosis", "Root Rot"]
 ---
 
+<div class="card">
+
+# Signs of Overwatering vs Underwatering: Decision Tree
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant.</p>
+
 <img src="/images/water-issue-hero.png" alt="Visual comparison showing wilting plant from overwatering with soggy soil vs underwatered plant with dry, pulled-away soil" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **Finger test first:** Dry soil 1-2 inches down = underwatered; wet soil = overwatered
-- **Overwatering symptoms:** Yellowing bottom leaves, mushy stems, rotten smell, brown mushy roots
-- **Underwatering symptoms:** Drooping but crisp leaves, dry tips, soil pulling away from pot edges
-- **Root check is gold standard:** Brown slimy roots = rot (stop watering); white dry roots = thirsty (water thoroughly)
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
-- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
-- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+<div class="callout">
+<strong>TL;DR:</strong> Finger test first: dry soil 1-2 inches down = underwatered; wet soil = overwatered. Yellowing bottom leaves + mushy stems = overwatering. Drooping but crisp leaves = underwatering. Root check is gold standard.
+</div>
+
+---
 
 ---
 
@@ -124,3 +124,5 @@ The best way to fix watering issues is to **water based on the plant's needs, no
 **Need help with the symptoms but not the cause?**
 *   [Brown Tips on Houseplants](/guides/brown-tips)
 *   [Hydrophobic Soil Fix](/guides/hydrophobic-soil)
+
+</div>

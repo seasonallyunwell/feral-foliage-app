@@ -2,28 +2,28 @@
 title: "Best Moisture Meters for Houseplants"
 slug: "best-moisture-meters-houseplants"
 excerpt: "Stop guessing. Here's the truth about moisture meters, what they actually measure, and which ones are worth your money."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 tags: ["tools", "watering", "beginner-guide"]
 ---
 
+<div class="card">
+
+# Best Moisture Meters for Houseplants
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing. Here's the truth about moisture meters, what they actually measure, and which ones are worth your money.</p>
+
 <img src="/images/best-moisture-meters-hero.png" alt="Collection of moisture meters including digital and analog models being tested on houseplant soil" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- Moisture meters measure electrical resistance, not actual water content
-- Cheap meters drift and need replacement, not recalibration
-- Combine meter readings with finger tests and pot weight checks
-
-Last month, I killed a pothos.
-
-Not from neglect—I watered it religiously, perhaps too much. My moisture meter told me the soil was dry, so I watered. The leaves yellowed, roots rotted. Turns out my cheap meter was reading "dry" in waterlogged soil.
-
-The lesson? Moisture meters are tools, not oracles. Here is everything you need to know before buying one—and which ones actually work.
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>TL;DR:</strong> Moisture meters measure electrical resistance, not actual water content. Cheap meters drift and need replacement. Combine meter readings with finger tests and pot weight checks.
 </div>
+
+---
 
 ## How Do Moisture Meters Actually Work?
 
@@ -95,3 +95,5 @@ For $15, a moisture meter is a useful training wheel. It helps you learn the "fe
 - [How to Quarantine a New Plant (14-Day Protocol)](quarantine-new-plant.md)
 - [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
 - [Plant ER: Emergency Diagnosis & Treatment](/blog/plant-er.md)
+
+</div>

@@ -2,25 +2,31 @@
 title: "Splurge Edition: Gear Worth the Investment"
 description: "Ready to splurge on plant care? These premium tools and upgrades make caring for your indoor jungle easier, cleaner, and more satisfying."
 slug: "splurge-edition"
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 ---
 
+<div class="card">
+
+# Splurge Edition: Gear Worth the Investment
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Ready to splurge on plant care? These premium tools and upgrades make caring for your indoor jungle easier, cleaner, and more satisfying.</p>
+
 <img src="/images/splurge-edition-hero.png" alt="Premium plant gear: self-watering ceramic pot, smart grow light, propagation station, and commercial humidifier" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
+</div>
 
-- Premium gear is about stability, consistency, and less plant chaos
-- Smart lights + humidifiers deliver the biggest quality-of-life boost
-- Buy fewer, better tools you’ll actually use for years
+<div class="callout">
+<strong>TL;DR:</strong> Premium gear is about stability, consistency, and less plant chaos. Smart lights + humidifiers deliver the biggest quality-of-life boost. Buy fewer, better tools you'll actually use for years.
+</div>
+
+---
 
 You've graduated from the basics. You have a solid soil mix, decent pruners, and you actually understand what "bright indirect light" means. Now you're asking: what makes the difference between a decent collection and a *statement* jungle?
 
 The answer is investment gear. This isn't about buying cheap plastic pots that crack in a year. This is about buying tools that last a lifetime, perform better than anything else on the market, and turn plant care into a ritual you actually look forward to.
-
-<div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
-</div>
 
 ## Premium Pots: Architecture for Roots
 
@@ -70,7 +76,7 @@ Those cheap "misting bottles" do almost nothing. To actually raise the humidity 
 
 *Recommendation:* The **Levoit Classic 300S**. It has a 6-liter tank, smart app control, and is whisper-quiet. Set it to 55% and forget it.
 
-**If you’re still building fundamentals first:** [Level Up Your Basics](/blog/level-up-basics.md)
+**If you're still building fundamentals first:** [Level Up Your Basics](/blog/level-up-basics.md)
 
 ## Products Mentioned (Quick Links)
 
@@ -81,3 +87,5 @@ Those cheap "misting bottles" do almost nothing. To actually raise the humidity 
 ## The Takeaway
 
 This gear isn't for everyone. But if you are serious about turning your home into a jungle, these investments pay off in plant health, growth rate, and reduced maintenance time. Sometimes, spending more upfront means spending less in the long run (and less crying over dead plants).
+
+</div>

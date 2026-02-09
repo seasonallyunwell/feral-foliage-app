@@ -1,29 +1,29 @@
 ---
 title: "Why Is My Monstera Turning Yellow?"
-date: 2026-02-06
+date: "2026-02-06"
 slug: "monstera-yellow-leaves"
 author: "Feral Foliage"
 description: "Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide."
 tags: ["Monstera", "Plant Care", "Yellow Leaves", "Troubleshooting"]
 ---
 
+<div class="card">
+
+# Why Is My Monstera Turning Yellow?
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide.</p>
+
 <img src="/images/monstera-yellow-hero.png" alt="Monstera leaves showing different stages of yellowing: old bottom leaves natural aging vs new growth indicating problems" style="width:100%;border-radius:10px;margin:16px 0">
 
-## TL;DR
-
-- **Old leaves yellowing:** Natural aging or nitrogen deficiency—normal if only bottom leaves; fertilize if multiple affected
-- **New growth yellowing:** Light change, root problems, or calcium/magnesium deficiency—check roots and adjust light
-- **Edges yellowing:** Water quality (fluoride/chlorine), root bound, or low humidity—switch to filtered water and check roots
-- **Whole leaf yellowing:** Overwatering and root rot—check for mushy brown roots immediately
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
-- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
-- [Brown Tips on Houseplants](/blog/brown-tips-houseplants)
+<div class="callout">
+<strong>TL;DR:</strong> Old leaves yellowing: natural aging or nitrogen deficiency. New growth yellowing: light change, root problems, or calcium/magnesium deficiency. Edges yellowing: water quality or low humidity. Whole leaf yellowing: overwatering and root rot.
+</div>
+
+---
 
 ---
 
@@ -121,3 +121,5 @@ If your Monstera is rapidly losing leaves or the stem is turning black/yellow, y
 *   Read our guide on [Repotting Monsteras](/guides/monstera-repotting)
 *   Learn about the perfect [Aroid Soil Mix](/guides/soil-mixes)
 *   Check out our [Watering Guide](/guides/watering) for prevention strategies.
+
+</div>

@@ -2,31 +2,29 @@
 title: "Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade"
 slug: "pothos-varieties-compared"
 excerpt: "Golden, Marble, Neon, or Jade? We compare the four most popular Pothos varieties side-by-side to help you pick the perfect one for your home."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 category: "Pothos Care"
 tags: ["Pothos", "Varieties", "Comparison", "Golden Pothos", "Marble Queen", "Neon Pothos", "Jade Pothos"]
 ---
 
+<div class="card">
+
+# Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Golden, Marble, Neon, or Jade? We compare the four most popular Pothos varieties side-by-side to help you pick the perfect one for your home.</p>
+
 <img src="/images/pothos-varieties-hero.png" alt="Four Pothos varieties side by side: Golden with yellow variegation, Marble Queen with white marbling, Neon with bright chartreuse leaves, and Jade with solid deep green" style="width:100%;border-radius:10px;margin:16px 0">
 
-**Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
-
-## TL;DR
-
-- **Golden Pothos:** Fastest grower, green+yellow variegation, very forgiving, best for beginners
-- **Marble Queen:** Slow grower, heavy white variegation, needs bright light, high-maintenance
-- **Neon Pothos:** Fast grower, bright chartreuse color, needs moderate light to stay vibrant
-- **Jade Pothos:** Fastest grower, solid green, lowest light tolerance, most indestructible
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Why Is My Pothos Not Trailing?](/blog/pothos-not-trailing)
-- [Propagating Pothos in Water](/blog/pothos-propagation)
-- [Best Gifts for Plant Lovers](/blog/best-gifts-plant-lovers)
+<div class="callout">
+<strong>TL;DR:</strong> Golden Pothos: fastest grower, green+yellow variegation, very forgiving. Marble Queen: slow grower, heavy white variegation, needs bright light. Neon: fast grower, bright chartreuse color. Jade: fastest grower, solid green, lowest light tolerance.
+</div>
+
+---
 
 ## The Pothos Primer
 
@@ -138,3 +136,5 @@ The four most common—Golden, Marble Queen, Neon, and Jade—are often confused
 - [Why Is My Pothos Not Trailing?](/blog/pothos-not-trailing)
 - [Propagating Pothos in Water: A Step-by-Step Guide](/blog/pothos-propagation)
 - [Pothos Care 101: Everything You Need to Know](/blog/pothos-care-101)
+
+</div>

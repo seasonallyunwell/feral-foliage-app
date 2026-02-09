@@ -2,31 +2,29 @@
 title: "Monstera Support: Moss Pole vs Trellis vs Stake"
 slug: "monstera-support-moss-pole-vs-trellis-vs-stake"
 excerpt: "Confused about how to train your Monstera? We break down moss poles, trellises, and stakes to help you choose the right support for healthy, upright growth."
-date: 2026-02-06
+date: "2026-02-06"
 author: "Feral Foliage"
 category: "Monstera Care"
 tags: ["Monstera", "Support", "Moss Pole", "Trellis", "Training"]
 ---
 
+<div class="card">
+
+# Monstera Support: Moss Pole vs Trellis vs Stake
+
+<p style="margin:0 0 16px 0;color:#a7a7a7">Confused about how to train your Monstera? We break down moss poles, trellises, and stakes to help you choose the right support for healthy, upright growth.</p>
+
 <img src="/images/monstera-support-hero.png" alt="Monstera climbing a moss pole with aerial roots visibly attached to the textured surface" style="width:100%;border-radius:10px;margin:16px 0">
 
-**Affiliate Disclosure:** This post contains affiliate links. If you purchase through our links, we may earn a commission at no extra cost to you.
-
-## TL;DR
-
-- **Moss pole = best support:** Mimics tree trunk texture, allows aerial roots to attach, produces largest leaves
-- **Stake = beginner option:** Simple and cheap but limited surface area; good for small plants
-- **Trellis = structured look:** More surface area than stake; good for creating vertical green walls
-- **Timing matters:** Add support when plant has 4-5 fenestrated leaves—not too early, not when already sprawling
-
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
 </div>
 
-**Related Articles:**
-- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
-- [When Will My Monstera Fenestrate?](/blog/monstera-fenestration-guide)
-- [How to Repot Monsteras](/blog/monstera-repotting)
+<div class="callout">
+<strong>TL;DR:</strong> Moss pole = best support: mimics tree trunk texture, allows aerial roots to attach, produces largest leaves. Stake = beginner option: simple and cheap but limited surface area. Trellis = structured look with more surface area.
+</div>
+
+---
 
 ## Why Monstera Needs Support
 
@@ -143,3 +141,5 @@ No, but it will grow differently. Trailing Monsteras can live long, happy lives 
 - [Monstera Variegation Types: Albo vs Thai Constellation vs Aurea](/blog/monstera-variegation)
 - [Monstera Repotting Guide: When and How to Do It](/blog/monstera-repotting)
 - [Understanding Aerial Roots on Monsteras](/blog/mstera-aerial-roots)
+
+</div>
