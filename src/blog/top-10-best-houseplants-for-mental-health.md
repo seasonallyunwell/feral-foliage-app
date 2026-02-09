@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 title: "10 Best Houseplants for Mental Health & Stress Relief"
 description: "Discover the top 10 houseplants for mental health, including plants for anxiety, stress relief, and depression. Learn care routines as mindfulness practices."
 slug: "top-10-best-houseplants-for-mental-health"
