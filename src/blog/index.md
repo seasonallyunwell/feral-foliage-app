@@ -103,6 +103,12 @@ permalink: /blog/
   <h2 class="section-title">Guides</h2>
 
   <div class="card">
+    <h2><a href="/blog/top-10-best-houseplants-for-mental-health/">Top 10 Best Houseplants for Mental Health</a></h2>
+    <div class="meta">Guide • mental health • stress relief • last updated 2026-02-09</div>
+    <p>Discover the top 10 houseplants for mental health, including plants for anxiety, stress relief, and depression. Learn care routines as mindfulness practices.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/fertilizer-guide/">Fertilizer Guide — When, What, and How Much</a></h2>
     <div class="meta">Guide • nutrients • affiliate links</div>
     <p>The no-nonsense guide to NPK ratios, feeding schedules, and not killing your plants with kindness.</p>
