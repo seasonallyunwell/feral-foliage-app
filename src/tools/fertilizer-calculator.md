@@ -12,44 +12,44 @@ permalink: /tools/fertilizer-calculator/
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">Get the math right. Kill fewer plants.</p>
 
-<div class="calculator-card" style="background:#faf8f5;border-radius:12px;padding:2rem;margin:2rem 0">
-    <h2 style="font-size:1rem;color:#5c4033;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:2px solid #e0ddd8">Your Fertilizer</h2>
+<div class="calculator-card" style="background:#171a18;border:1px solid #2a2f2c;border-radius:12px;padding:2rem;margin:2rem 0">
+    <h2 style="font-size:1rem;color:#7ee081;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid #2a2f2c">Your Fertilizer</h2>
 
     <div class="input-group" style="margin-bottom:1.25rem">
-        <label>NPK Ratio <span style="color:#c45c4b">*</span></label>
+        <label style="color:#c7c7c7">NPK Ratio <span style="color:#ff4444">*</span></label>
         <div class="npk-inputs" style="display:flex;gap:0.5rem;align-items:center">
-            <input type="number" id="npk-n" placeholder="N" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;border:1.5px solid #e0ddd8;border-radius:8px">
+            <input type="number" id="npk-n" placeholder="N" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;background:#252a27;border:1px solid #3a3f3c;border-radius:8px;color:#e7e7e7">
             <span style="color:#666;font-weight:600">-</span>
-            <input type="number" id="npk-p" placeholder="P" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;border:1.5px solid #e0ddd8;border-radius:8px">
+            <input type="number" id="npk-p" placeholder="P" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;background:#252a27;border:1px solid #3a3f3c;border-radius:8px;color:#e7e7e7">
             <span style="color:#666;font-weight:600">-</span>
-            <input type="number" id="npk-k" placeholder="K" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;border:1.5px solid #e0ddd8;border-radius:8px">
+            <input type="number" id="npk-k" placeholder="K" step="0.1" min="0" max="100" style="width:80px;text-align:center;padding:0.75rem 1rem;background:#252a27;border:1px solid #3a3f3c;border-radius:8px;color:#e7e7e7">
         </div>
-        <p class="error-message" id="npk-error" style="color:#c45c4b;font-size:0.8rem;margin-top:0.3rem;display:none">Enter all three NPK values (e.g., 10-10-10)</p>
+        <p class="error-message" id="npk-error" style="color:#ff4444;font-size:0.8rem;margin-top:0.3rem;display:none">Enter all three NPK values (e.g., 10-10-10)</p>
     </div>
 
-    <div class="presets" style="margin-top:1rem;padding-top:1rem;border-top:1px solid #e0ddd8">
-        <p style="font-size:0.8rem;color:#666;margin-bottom:0.5rem">Common fertilizers (click to fill):</p>
+    <div class="presets" style="margin-top:1rem;padding-top:1rem;border-top:1px solid #2a2f2c">
+        <p style="font-size:0.8rem;color:#a7a7a7;margin-bottom:0.5rem">Common fertilizers (click to fill):</p>
         <div class="preset-buttons" style="display:flex;flex-wrap:wrap;gap:0.5rem">
-            <button class="preset-btn" data-npk="20-20-20" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">Jack's Classic 20-20-20</button>
-            <button class="preset-btn" data-npk="24-8-16" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">Miracle-Gro All Purpose</button>
-            <button class="preset-btn" data-npk="7-9-5" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">Dyna-Gro Grow</button>
-            <button class="preset-btn" data-npk="2-2-2" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">Espoma Indoor!</button>
-            <button class="preset-btn" data-npk="6-4-4" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">FoxFarm Grow Big</button>
-            <button class="preset-btn" data-npk="10-30-20" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#faf8f5;border:1px solid #e0ddd8;border-radius:20px;cursor:pointer">Bloom Booster</button>
+            <button class="preset-btn" data-npk="20-20-20" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">Jack's Classic 20-20-20</button>
+            <button class="preset-btn" data-npk="24-8-16" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">Miracle-Gro All Purpose</button>
+            <button class="preset-btn" data-npk="7-9-5" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">Dyna-Gro Grow</button>
+            <button class="preset-btn" data-npk="2-2-2" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">Espoma Indoor!</button>
+            <button class="preset-btn" data-npk="6-4-4" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">FoxFarm Grow Big</button>
+            <button class="preset-btn" data-npk="10-30-20" style="padding:0.4rem 0.75rem;font-size:0.8rem;background:#252a27;border:1px solid #3a3f3c;border-radius:20px;cursor:pointer;color:#d7d7d7">Bloom Booster</button>
         </div>
     </div>
 
-    <h2 style="font-size:1rem;color:#5c4033;margin:1.5rem 0 1rem 0;padding-bottom:0.5rem;border-bottom:2px solid #e0ddd8">Water Amount</h2>
+    <h2 style="font-size:1rem;color:#7ee081;margin:1.5rem 0 1rem 0;padding-bottom:0.5rem;border-bottom:1px solid #2a2f2c">Water Amount</h2>
 
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1.25rem">
         <div class="input-group">
-            <label>Amount <span style="color:#c45c4b">*</span></label>
-            <input type="number" id="container-size" placeholder="1" step="0.1" min="0.01" max="1000" style="width:100%;padding:0.75rem 1rem;border:1.5px solid #e0ddd8;border-radius:8px">
-            <p class="error-message" id="container-error" style="color:#c45c4b;font-size:0.8rem;margin-top:0.3rem;display:none">Enter a positive number (max 1000)</p>
+            <label style="color:#c7c7c7">Amount <span style="color:#ff4444">*</span></label>
+            <input type="number" id="container-size" placeholder="1" step="0.1" min="0.01" max="1000" style="width:100%;padding:0.75rem 1rem;background:#252a27;border:1px solid #3a3f3c;border-radius:8px;color:#e7e7e7">
+            <p class="error-message" id="container-error" style="color:#ff4444;font-size:0.8rem;margin-top:0.3rem;display:none">Enter a positive number (max 1000)</p>
         </div>
         <div class="input-group">
-            <label>Unit</label>
-            <select id="container-unit" style="width:100%;padding:0.75rem 1rem;border:1.5px solid #e0ddd8;border-radius:8px;background:white">
+            <label style="color:#c7c7c7">Unit</label>
+            <select id="container-unit" style="width:100%;padding:0.75rem 1rem;background:#252a27;border:1px solid #3a3f3c;border-radius:8px;color:#e7e7e7">
                 <option value="gallon">Gallons</option>
                 <option value="liter">Liters</option>
                 <option value="ml">Milliliters</option>
@@ -58,93 +58,93 @@ permalink: /tools/fertilizer-calculator/
         </div>
     </div>
 
-    <h2 style="font-size:1rem;color:#5c4033;margin:1.5rem 0 1rem 0;padding-bottom:0.5rem;border-bottom:2px solid #e0ddd8">Fertilizer Strength</h2>
+    <h2 style="font-size:1rem;color:#7ee081;margin:1.5rem 0 1rem 0;padding-bottom:0.5rem;border-bottom:1px solid #2a2f2c">Fertilizer Strength</h2>
 
     <div class="strength-slider-container" style="margin-top:1rem">
-        <div style="display:flex;justify-content:space-between;font-size:0.75rem;color:#666;margin-bottom:0.5rem">
+        <div style="display:flex;justify-content:space-between;font-size:0.75rem;color:#a7a7a7;margin-bottom:0.5rem">
             <span>⅛× (Very dilute)</span>
             <span>Standard</span>
             <span>4× (Strong)</span>
         </div>
-        <input type="range" id="strength-slider" min="0.125" max="4" step="0.125" value="1" style="width:100%;height:6px;border-radius:3px;background:#e0ddd8;-webkit-appearance:none;cursor:pointer">
-        <input type="range" id="strength-slider-style" min="0.125" max="4" step="0.125" value="1" style="width:100%;height:6px;border-radius:3px;background:#e0ddd8;-webkit-appearance:none;cursor:pointer;margin-top:-6px">
-        <div style="text-align:center;font-size:1.25rem;font-weight:600;color:#2d5a3d;margin:0.5rem 0"><span id="strength-display">1×</span> Standard Strength</div>
+        <input type="range" id="strength-slider" min="0.125" max="4" step="0.125" value="1" style="width:100%;height:6px;border-radius:3px;background:#3a3f3c;-webkit-appearance:none;cursor:pointer">
+        <input type="range" id="strength-slider-style" min="0.125" max="4" step="0.125" value="1" style="width:100%;height:6px;border-radius:3px;background:#3a3f3c;-webkit-appearance:none;cursor:pointer;margin-top:-6px">
+        <div style="text-align:center;font-size:1.25rem;font-weight:600;color:#7ee081;margin:0.5rem 0"><span id="strength-display">1×</span> Standard Strength</div>
     </div>
 
-    <button class="calculate-btn" id="calculate-btn" style="width:100%;padding:1rem;background:#4a7c59;color:white;border:none;border-radius:8px;font-size:1.1rem;font-weight:600;cursor:pointer;margin-top:1.5rem;transition:background 0.2s">Calculate Dilution</button>
+    <button class="calculate-btn" id="calculate-btn" style="width:100%;padding:1rem;background:#2d5a30;border:1px solid #3a7a3e;color:white;border-radius:8px;font-size:1.1rem;font-weight:600;cursor:pointer;margin-top:1.5rem;transition:background 0.2s">Calculate Dilution</button>
 </div>
 
-<div class="results-card" id="results" style="background:#faf8f5;border-radius:12px;padding:2rem;display:none;margin-bottom:2rem">
-    <div class="safety-badge" id="safety-badge" style="display:inline-flex;align-items:center;gap:0.5rem;padding:0.5rem 1rem;border-radius:20px;font-size:0.85rem;font-weight:600;margin-bottom:1rem;background:#e8f5e9;color:#2e7d32">
+<div class="results-card" id="results" style="background:#101311;border:1px solid #2a2f2c;border-radius:12px;padding:2rem;display:none;margin-bottom:2rem">
+    <div class="safety-badge" id="safety-badge" style="display:inline-flex;align-items:center;gap:0.5rem;padding:0.5rem 1rem;border-radius:20px;font-size:0.85rem;font-weight:600;margin-bottom:1rem;background:#554400;color:#ffcc00">
         <span id="safety-icon">✓</span> <span id="safety-text">Safe for most houseplants</span>
     </div>
 
-    <div style="background:linear-gradient(135deg,#4a7c59 0%,#2d5a3d 100%);color:white;border-radius:12px;padding:2rem;text-align:center;margin-bottom:1.5rem">
+    <div style="background:linear-gradient(135deg,#2d5a30 0%,#1a3d1e 100%);color:white;border-radius:12px;padding:2rem;text-align:center;margin-bottom:1.5rem">
         <p style="font-size:0.9rem;opacity:0.9;margin-bottom:0.5rem">Add to your water:</p>
         <p style="font-size:2.5rem;font-weight:700;margin-bottom:0.5rem" id="result-amount">1</p>
         <p style="font-size:1.25rem;opacity:0.9" id="result-unit">tablespoon</p>
         <p style="font-size:0.95rem;opacity:0.85;margin-top:1rem;padding-top:1rem;border-top:1px solid rgba(255,255,255,0.2)" id="result-detail">per 1 gallon of water</p>
     </div>
 
-    <div style="text-align:center;padding:1rem;background:#faf8f5;border-radius:8px;margin-bottom:1.5rem">
-        Dilution ratio: <strong style="color:#2d5a3d" id="dilution-ratio">1:256</strong>
+    <div style="text-align:center;padding:1rem;background:#171a18;border-radius:8px;margin-bottom:1.5rem;border:1px solid #2a2f2c">
+        Dilution ratio: <strong style="color:#7ee081" id="dilution-ratio">1:256</strong>
     </div>
 
-    <h3 style="font-size:1rem;color:#5c4033;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:2px solid #e0ddd8">Resulting Nutrients</h3>
+    <h3 style="font-size:1rem;color:#7ee081;margin-bottom:1rem;padding-bottom:0.5rem;border-bottom:1px solid #2a2f2c">Resulting Nutrients</h3>
 
     <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:1.5rem">
-        <div style="text-align:center;padding:1rem;background:#faf8f5;border-radius:8px">
-            <p style="font-size:1.5rem;font-weight:700;color:#2d5a3d" id="ppm-n">150</p>
-            <p style="font-size:0.8rem;color:#666">Nitrogen (N) ppm</p>
+        <div style="text-align:center;padding:1rem;background:#171a18;border-radius:8px;border:1px solid #2a2f2c">
+            <p style="font-size:1.5rem;font-weight:700;color:#7ee081" id="ppm-n">150</p>
+            <p style="font-size:0.8rem;color:#a7a7a7">Nitrogen (N) ppm</p>
         </div>
-        <div style="text-align:center;padding:1rem;background:#faf8f5;border-radius:8px">
-            <p style="font-size:1.5rem;font-weight:700;color:#2d5a3d" id="ppm-p">150</p>
-            <p style="font-size:0.8rem;color:#666">Phosphorus (P) ppm</p>
+        <div style="text-align:center;padding:1rem;background:#171a18;border-radius:8px;border:1px solid #2a2f2c">
+            <p style="font-size:1.5rem;font-weight:700;color:#7ee081" id="ppm-p">150</p>
+            <p style="font-size:0.8rem;color:#a7a7a7">Phosphorus (P) ppm</p>
         </div>
-        <div style="text-align:center;padding:1rem;background:#faf8f5;border-radius:8px">
-            <p style="font-size:1.5rem;font-weight:700;color:#2d5a3d" id="ppm-k">150</p>
-            <p style="font-size:0.8rem;color:#666">Potassium (K) ppm</p>
+        <div style="text-align:center;padding:1rem;background:#171a18;border-radius:8px;border:1px solid #2a2f2c">
+            <p style="font-size:1.5rem;font-weight:700;color:#7ee081" id="ppm-k">150</p>
+            <p style="font-size:0.8rem;color:#a7a7a7">Potassium (K) ppm</p>
         </div>
     </div>
 
-    <div class="warning-box" id="warning-burn" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#fff3e0;border-left:4px solid #ff9800">
-        <p style="font-weight:600;margin-bottom:0.5rem">⚠️ Fertilizer Burn Risk</p>
-        <p style="font-size:0.9rem;line-height:1.5">This dilution may be too concentrated for most houseplants. Consider using half strength or diluting further to avoid leaf burn and root damage.</p>
+    <div class="warning-box" id="warning-burn" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#550000;border-left:4px solid #ff4444">
+        <p style="font-weight:600;margin-bottom:0.5rem;color:#ff4444">⚠️ Fertilizer Burn Risk</p>
+        <p style="font-size:0.9rem;line-height:1.5;color:#e7e7e7">This dilution may be too concentrated for most houseplants. Consider using half strength or diluting further to avoid leaf burn and root damage.</p>
     </div>
 
-    <div class="warning-box" id="warning-sensitive" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#fff3e0;border-left:4px solid #ff9800">
-        <p style="font-weight:600;margin-bottom:0.5rem">🌿 Sensitive Plants Warning</p>
-        <p style="font-size:0.9rem;line-height:1.5">This strength is too strong for ferns, orchids, and recently repotted plants. Use half strength or weaker on these plants.</p>
+    <div class="warning-box" id="warning-sensitive" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#553300;border-left:4px solid #ff9900">
+        <p style="font-weight:600;margin-bottom:0.5rem;color:#ff9900">🌿 Sensitive Plants Warning</p>
+        <p style="font-size:0.9rem;line-height:1.5;color:#e7e7e7">This strength is too strong for ferns, orchids, and recently repotted plants. Use half strength or weaker on these plants.</p>
     </div>
 
-    <div class="warning-box" id="warning-dilute" style="padding:1rem;border-radius:8rem;margin-top:1rem;display:none;background:#e3f2fd;border-left:4px solid #2196f3">
-        <p style="font-weight:600;margin-bottom:0.5rem">ℹ️ Very Dilute</p>
-        <p style="font-size:0.9rem;line-height:1.5">This dilution is very dilute and may not provide enough nutrients. Consider standard strength (1×) for actively growing plants.</p>
+    <div class="warning-box" id="warning-dilute" style="padding:1rem;border-radius:8rem;margin-top:1rem;display:none;background:#2e2e1a;border-left:4px solid #ffcc00">
+        <p style="font-weight:600;margin-bottom:0.5rem;color:#ffcc00">ℹ️ Very Dilute</p>
+        <p style="font-size:0.9rem;line-height:1.5;color:#e7e7e7">This dilution is very dilute and may not provide enough nutrients. Consider standard strength (1×) for actively growing plants.</p>
     </div>
 
-    <div class="warning-box" id="warning-winter" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#e3f2fd;border-left:4px solid #2196f3">
-        <p style="font-size:0.9rem;line-height:1.5">❄️ Winter tip: Plants need less fertilizer during low-light months. Consider reducing to half strength or less.</p>
+    <div class="warning-box" id="warning-winter" style="padding:1rem;border-radius:8px;margin-top:1rem;display:none;background:#2e2e1a;border-left:4px solid #ffcc00">
+        <p style="font-size:0.9rem;line-height:1.5;color:#ffcc00">❄️ Winter tip: Plants need less fertilizer during low-light months. Consider reducing to half strength or less.</p>
     </div>
 
-    <div style="margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid #e0ddd8">
-        <h3 style="font-size:1rem;color:#5c4033;margin-bottom:1rem">Pro Tips</h3>
-        <div style="display:flex;gap:0.75rem;margin-bottom:0.75rem;font-size:0.9rem;color:#666">
+    <div style="margin-top:1.5rem;padding-top:1.5rem;border-top:1px solid #2a2f2c">
+        <h3 style="font-size:1rem;color:#7ee081;margin-bottom:1rem">Pro Tips</h3>
+        <div style="display:flex;gap:0.75rem;margin-bottom:0.75rem;font-size:0.9rem;color:#a7a7a7">
             <span>💧</span>
             <span>Always water plants before fertilizing to prevent root burn.</span>
         </div>
-        <div style="display:flex;gap:0.75rem;margin-bottom:0.75rem;font-size:0.9rem;color:#666">
+        <div style="display:flex;gap:0.75rem;margin-bottom:0.75rem;font-size:0.9rem;color:#a7a7a7">
             <span>📅</span>
             <span>Feed actively growing plants every 2-4 weeks during spring/summer.</span>
         </div>
-        <div style="display:flex;gap:0.75rem;font-size:0.9rem;color:#666">
+        <div style="display:flex;gap:0.75rem;font-size:0.9rem;color:#a7a7a7">
             <span>👀</span>
             <span>Watch for brown leaf tips or yellowing — signs of over-fertilizing.</span>
         </div>
     </div>
 
     <div style="display:flex;gap:1rem;margin-top:1.5rem">
-        <button class="action-btn" id="copy-btn" style="flex:1;padding:0.75rem;border:1.5px solid #e0ddd8;background:white;border-radius:8px;font-size:0.9rem;font-weight:500;cursor:pointer">📋 Copy Recipe</button>
-        <button class="action-btn" id="reset-btn" style="flex:1;padding:0.75rem;border:1.5px solid #e0ddd8;background:white;border-radius:8px;font-size:0.9rem;font-weight:500;cursor:pointer">🔄 Start Over</button>
+        <button class="action-btn" id="copy-btn" style="flex:1;padding:0.75rem;border:1px solid #3a3f3c;background:#252a27;border-radius:8px;font-size:0.9rem;font-weight:500;cursor pointer;color:#e7e7e7">📋 Copy Recipe</button>
+        <button class="action-btn" id="reset-btn" style="flex:1;padding:0.75rem;border:1px solid #3a3f3c;background:#252a27;border-radius:8px;font-size:0.9rem;font-weight:500;cursor:pointer;color:#e7e7e7">🔄 Start Over</button>
     </div>
 </div>
 
@@ -385,17 +385,17 @@ function calculate() {
     if (maxPpm > 400 || strength > 3) {
         safetyStatus = 'danger';
         safetyText = 'High concentration — use with caution';
-        safetyClass = '#ffebee';
+        safetyClass = '#550000';
         safetyIcon = '🚨';
     } else if (maxPpm > 200 || strength > 1.5) {
         safetyStatus = 'caution';
         safetyText = 'Strong dilution — monitor plants';
-        safetyClass = '#fff3e0';
+        safetyClass = '#553300';
         safetyIcon = '⚠️';
     } else {
         safetyStatus = 'safe';
         safetyText = 'Safe for most houseplants';
-        safetyClass = '#e8f5e9';
+        safetyClass = '#554400';
         safetyIcon = '✓';
     }
 
@@ -411,7 +411,7 @@ function calculate() {
 
     const safetyBadge = document.getElementById('safety-badge');
     safetyBadge.style.background = safetyClass;
-    safetyBadge.style.color = safetyStatus === 'danger' ? '#c62828' : safetyStatus === 'caution' ? '#e65100' : '#2e7d32';
+    safetyBadge.style.color = safetyStatus === 'danger' ? '#ff4444' : safetyStatus === 'caution' ? '#ff9900' : '#ffcc00';
     document.getElementById('safety-icon').textContent = safetyIcon;
     document.getElementById('safety-text').textContent = safetyText;
 
