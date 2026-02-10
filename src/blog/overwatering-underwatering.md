@@ -1,17 +1,17 @@
 ---
+layout: base.njk
 title: "Signs of Overwatering vs Underwatering: Decision Tree"
-date: "2026-02-06"
-slug: "overwatering-underwatering"
-author: "Feral Foliage"
 description: "Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant."
-tags: ["Watering", "Plant Care", "Diagnosis", "Root Rot"]
+slug: "overwatering-underwatering"
+date: "2026-02-06"
+author: "Feral Foliage"
 ---
 
 <div class="card">
 
 # Signs of Overwatering vs Underwatering: Decision Tree
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing—use this visual decision tree to diagnose your plant's watering issues.</p>
 
 <img src="/images/water-issue-hero.png" alt="Visual comparison showing wilting plant from overwatering with soggy soil vs underwatered plant with dry, pulled-away soil" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -25,10 +25,6 @@ tags: ["Watering", "Plant Care", "Diagnosis", "Root Rot"]
 
 ---
 
----
-
-We've all been there. You look at your plant and think, "Hmm, is it thirsty? Or is it drowning?" The symptoms of too much water and too little water can look eerily similar—both can cause yellow leaves, drooping, and general sadness. But the treatment is exactly opposite. This guide gives you a **visual decision tree** to stop the guessing game.
-
 ## The Diagnostic Workflow
 
 Follow these steps in order. Don't skip ahead!
@@ -41,6 +37,8 @@ Follow these steps in order. Don't skip ahead!
     *   **Damp/Cool:** Unlikely to be underwatered. Likely Overwatering. **(Go to Step 2)**
     *   **Bone Dry/Crumbling:** Likely Underwatering. **(Go to Step 3)**
     *   **Saturated/Muddy:** Definite Overwatering. **(Go to Step 2)**
+
+---
 
 ### Step 2: Signs You Are Overwatering
 You've confirmed the soil is wet. Now, look at the leaves and roots.
@@ -63,7 +61,7 @@ You've confirmed the soil is wet. Now, look at the leaves and roots.
 3.  Ensure your pot has **drainage holes**.
 4.  Move to a warmer spot with better air circulation.
 
-**[Learn how to save a plant from Root Rot in our detailed guide](/guides/root-rot-guide).**
+---
 
 ### Step 3: Signs You Are Underwatering
 You've confirmed the soil is dry. Now, confirm the diagnosis.
@@ -117,12 +115,11 @@ The best way to fix watering issues is to **water based on the plant's needs, no
 *   **Tropicals (Monstera, Pothos):** Water when the top 1-2 inches are dry.
 *   **Always check drainage:** Never let the plant sit in standing water.
 
-**[Master your watering schedule with our complete guide](/guides/watering-guide).**
-
 ---
 
-**Need help with the symptoms but not the cause?**
-*   [Brown Tips on Houseplants](/guides/brown-tips)
-*   [Hydrophobic Soil Fix](/guides/hydrophobic-soil)
+**Related Articles:**
+- [Brown Tips on Houseplants](/blog/brown-tips)
+- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
+- [How to Treat Root Rot](/blog/treat-root-rot)
 
 </div>

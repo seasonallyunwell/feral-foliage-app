@@ -1,4 +1,5 @@
 ---
+layout: base.njk
 title: "Splurge Edition: Gear Worth the Investment"
 description: "Ready to splurge on plant care? These premium tools and upgrades make caring for your indoor jungle easier, cleaner, and more satisfying."
 slug: "splurge-edition"
@@ -10,7 +11,7 @@ author: "Feral Foliage"
 
 # Splurge Edition: Gear Worth the Investment
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Ready to splurge on plant care? These premium tools and upgrades make caring for your indoor jungle easier, cleaner, and more satisfying.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Ready to splurge on plant care? These premium tools make it easier and more satisfying.</p>
 
 <img src="/images/splurge-edition-hero.png" alt="Premium plant gear: self-watering ceramic pot, smart grow light, propagation station, and commercial humidifier" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -24,10 +25,6 @@ author: "Feral Foliage"
 
 ---
 
-You've graduated from the basics. You have a solid soil mix, decent pruners, and you actually understand what "bright indirect light" means. Now you're asking: what makes the difference between a decent collection and a *statement* jungle?
-
-The answer is investment gear. This isn't about buying cheap plastic pots that crack in a year. This is about buying tools that last a lifetime, perform better than anything else on the market, and turn plant care into a ritual you actually look forward to.
-
 ## Premium Pots: Architecture for Roots
 
 A good pot is more than a container. It's a root environment. While that $5 nursery pot works, premium pots offer better drainage engineering, superior materials, and a weight that anchors top-heavy plants like Monsteras and Fiddle Leaf Figs.
@@ -40,6 +37,8 @@ A good pot is more than a container. It's a root environment. While that $5 nurs
 
 *Recommendation:* If you are going to splurge on one pot, make it a **self-watering ceramic from Alt才有** for your biggest floor plant. The consistency of water levels leads to massive growth.
 
+---
+
 ## Propagation Stations: Cloning Your Collection
 
 Tired of throwing away broken vines? A propagation station allows you to turn one plant into ten. But there are cheap versions (glass jars with foil) and there are proper stations.
@@ -47,6 +46,8 @@ Tired of throwing away broken vines? A propagation station allows you to turn on
 Look for stations with **variable water levels**, **glass that resists fogging**, and **aeration** to prevent root rot. The best stations allow you to see root development clearly, which is half the fun of propagating.
 
 *Recommendation:* The **Mother Plant Propagation Box** or the **Glass Propagation Station from Bookish (or similar artisanal makers)** are staples in the community. If you want to go high-tech, the **Aeroponics Cloner** (like a Tower Garden system) can root cuttings in half the time of water propagation.
+
+---
 
 ## Smart Grow Lights: Spectrum Science
 
@@ -58,6 +59,8 @@ You know you need light. But not all light is created equal. Budget grow lights 
 
 *Recommendation:* If you have a dedicated plant shelf or tent, grab the **Mars Hydro TS 3000**. If you are lighting a whole room, the **Spider Farmer SF-4000** is your best bet.
 
+---
+
 ## Greenhouse Cabinets: Control the Climate
 
 Live in an apartment with 15% humidity? Want to grow a humidity-loving Fern but have a dry climate? A **glass cabinet or greenhouse terrarium** is the ultimate cheat code. It traps humidity and creates a stable microclimate that keeps delicate plants happy.
@@ -68,6 +71,8 @@ If you want a ready-made solution, look for **glass wardrobes with ventilation**
 
 *Recommendation:* Build the **IKEA Milshopen Cabinet setup** with a **Mars Hydro clip light** inside. It's the highest-performance, lowest-cost way to get a sealed environment.
 
+---
+
 ## Humidifiers: Mist That Matters
 
 Those cheap "misting bottles" do almost nothing. To actually raise the humidity in a room, you need a cool-mist humidifier that outputs several gallons per day. This isn't an accessory; it's a requirement for serious collectors of Calatheas, Alocasias, and Ferns.
@@ -76,7 +81,7 @@ Those cheap "misting bottles" do almost nothing. To actually raise the humidity 
 
 *Recommendation:* The **Levoit Classic 300S**. It has a 6-liter tank, smart app control, and is whisper-quiet. Set it to 55% and forget it.
 
-**If you're still building fundamentals first:** [Level Up Your Basics](/blog/level-up-basics.md)
+---
 
 ## Products Mentioned (Quick Links)
 
@@ -84,8 +89,16 @@ Those cheap "misting bottles" do almost nothing. To actually raise the humidity 
 - Hygrometer: <https://www.amazon.com/dp/B08KG8KZCX?tag=feralfoliage-20>
 - Grow lights: <https://www.amazon.com/dp/B07SHY3P8G?tag=feralfoliage-20>
 
+---
+
 ## The Takeaway
 
 This gear isn't for everyone. But if you are serious about turning your home into a jungle, these investments pay off in plant health, growth rate, and reduced maintenance time. Sometimes, spending more upfront means spending less in the long run (and less crying over dead plants).
+
+---
+
+**Related Articles:**
+- [Level Up Your Basics](/blog/level-up-basics)
+- [Aesthetic Gear Guide](/blog/aesthetic-gear)
 
 </div>

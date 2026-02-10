@@ -1,18 +1,17 @@
 ---
+layout: base.njk
 title: "Monstera Variegation Types: Albo vs Thai Constellation vs Aurea"
-slug: "monstera-variegation-types-albo-vs-thai-constellation-vs-aurea"
-excerpt: "Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose."
+description: "Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose."
+slug: "monstera-variegation"
 date: "2026-02-06"
 author: "Feral Foliage"
-category: "Monstera"
-tags: ["Monstera", "Variegation", "Albo", "Thai Constellation", "Aurea", "Rare Plants"]
 ---
 
 <div class="card">
 
 # Monstera Variegation Types: Albo vs Thai Constellation vs Aurea
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal.</p>
 
 <img src="/images/monstera-variegation-hero.png" alt="Comparison of three variegated Monsteras: Albo with white sectors, Thai Constellation with cream speckles, and Aurea with golden variegation" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -59,6 +58,8 @@ There are two main types of variegation:
 
 **Is It Worth It?** The Albo is the most "classic" and recognizable variegated Monstera. Its beauty is undisputed, but it demands attention to light levels and carries the risk of reversion or all-white leaves.
 
+---
+
 ### 2. Monstera Thai Constellation (The Reliable Star)
 
 **What it looks like:** Creamy to pale yellow variegation that is "speckled" or "constellated" throughout the leaf. The pattern is generally more uniform than the Albo and looks almost like starry night scattered across the foliage.
@@ -71,6 +72,8 @@ There are two main types of variegation:
 - **Growth Rate:** Faster than the Albo. The stable genetics mean it focuses more energy on growing than surviving.
 
 **Is It Worth It?** If you want the variegated look without the anxiety of reversion and slow growth, Thai Constellation is the practical choice. It is also often more reasonably priced than high-grade Albos, though prices fluctuate wildly in the market.
+
+---
 
 ### 3. Monstera Aurea (The Golden Child)
 
@@ -120,20 +123,8 @@ If your Albo or Aurea starts producing solid green leaves, you have a few option
 
 ---
 
-## Is a Variegated Monstera Right for You?
-
-Variegated Monsteras are not just expensive—they are high-maintenance. They need more light, more careful watering (to avoid root rot on those energy-deficient leaves), and more patience.
-
-**Choose Albo** if you want the classic look and are willing to monitor light closely.
-**Choose Thai Constellation** if you want stability and faster growth.
-**Choose Aurea** if you are a serious collector with deep pockets and perfect light conditions.
-
----
-
-## Related Articles
-
+**Related Articles:**
 - [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support)
-- [How to Propagate Monsteras Successfully](/blog/monstera-propagation)
-- [Lighting 101 for Indoor Plants](/blog/lighting-101)
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots)
 
 </div>

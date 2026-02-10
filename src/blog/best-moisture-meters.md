@@ -1,17 +1,17 @@
 ---
+layout: base.njk
 title: "Best Moisture Meters for Houseplants"
-slug: "best-moisture-meters-houseplants"
-excerpt: "Stop guessing. Here's the truth about moisture meters, what they actually measure, and which ones are worth your money."
+description: "Stop guessing. Here's the truth about moisture meters, what they actually measure, and which ones are worth your money."
+slug: "best-moisture-meters"
 date: "2026-02-06"
 author: "Feral Foliage"
-tags: ["tools", "watering", "beginner-guide"]
 ---
 
 <div class="card">
 
 # Best Moisture Meters for Houseplants
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing. Here's the truth about moisture meters, what they actually measure, and which ones are worth your money.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop guessing about when to water—here's what moisture meters actually measure.</p>
 
 <img src="/images/best-moisture-meters-hero.png" alt="Collection of moisture meters including digital and analog models being tested on houseplant soil" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -32,7 +32,9 @@ Most affordable meters use two metal probes to measure electrical resistance in 
 **What they measure:** Electrical conductivity (EC) of the soil.
 **What they don't measure:** pH, nutrient levels, or exact water percentage. They are essentially fancy resistance testers.
 
-### The "Reality Check" on Accuracy
+---
+
+## The "Reality Check" on Accuracy
 
 - **Soil composition matters.** Pure potting mix reads differently than a mix with perlite or bark.
 - **Mineral buildup ruins them.** If you use tap water with high mineral content (common in hard water areas), residue builds up on the probes within weeks, causing false "dry" readings.
@@ -41,7 +43,7 @@ Most affordable meters use two metal probes to measure electrical resistance in 
 
 **Rule of thumb:** Treat the reading as a *suggestion*, not a fact. Always do the finger test or use a weight test (lift the pot—dry soil is light) alongside the meter.
 
-**Learn the fundamentals:** [Watering Guide](/blog/watering-guide.md)
+---
 
 ## Calibration Tips & Tricks
 
@@ -49,6 +51,8 @@ If you want to extend the life of your meter:
 1. **Clean probes monthly.** Dip them in distilled vinegar for 10 seconds, then wipe clean.
 2. **Rotate probes.** If you have a two-prong meter, alternate which side faces the pot wall.
 3. **Test in known conditions.** Water a plant until water drains from the bottom. The meter should read "wet" (1-3). Let it dry completely (days later) and it should read "dry" (8-10). If it doesn't, recalibration is impossible—replace it.
+
+---
 
 ## Top Picks
 
@@ -72,6 +76,8 @@ If you want to extend the life of your meter:
 - Digital display is easier to read than analog dials.
 - *Caveat:* Requires AAA batteries.
 
+---
+
 ## When to Trust (and Ignore) the Readings
 
 **Trust it if:**
@@ -84,16 +90,17 @@ If you want to extend the life of your meter:
 - The soil is very compact or root-bound.
 - The plant is wilting but the meter says "wet" (likely root rot).
 
+---
+
 ## The Verdict
 
 For $15, a moisture meter is a useful training wheel. It helps you learn the "feel" of dry vs. wet soil. But don't let a $12 gadget replace your intuition. Combine the meter with observation—your plants will thank you.
 
-*Happy growing!*
-
 ---
-**Related Reading:**
-- [How to Quarantine a New Plant (14-Day Protocol)](quarantine-new-plant.md)
-- [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
-- [Plant ER: Emergency Diagnosis & Treatment](/blog/plant-er.md)
+
+**Related Articles:**
+- [How to Quarantine a New Plant](/blog/quarantine-new-plant)
+- [Leaves Falling Off: Normal vs Problem](/blog/leaves-falling-off)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
 
 </div>

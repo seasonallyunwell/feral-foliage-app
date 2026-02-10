@@ -1,18 +1,17 @@
 ---
+layout: base.njk
 title: "Why Is My Pothos Not Trailing?"
+description: "Is your Pothos looking more like a bush than a vine? Here is a diagnosis guide to help your Pothos achieve those long, cascading trails you dream of."
 slug: "pothos-not-trailing"
-excerpt: "Is your Pothos looking more like a bush than a vine? Here is a diagnosis guide to help your Pothos achieve those long, cascading trails you dream of."
 date: "2026-02-06"
 author: "Feral Foliage"
-category: "Pothos Care"
-tags: ["Pothos", "Troubleshooting", "Trailing", "Vines", "Pruning"]
 ---
 
 <div class="card">
 
 # Why Is My Pothos Not Trailing?
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Is your Pothos looking more like a bush than a vine? Here is a diagnosis guide to help your Pothos achieve those long, cascading trails you dream of.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Is your Pothos looking more like a bush than a vine? Here's how to fix it.</p>
 
 <img src="/images/pothos-not-trailing-hero.png" alt="Bushy Pothos plant that needs encouragement to trail, with multiple vines growing upright" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -114,10 +113,8 @@ If the stems are turning black, mushy, or the leaves are yellowing and dropping,
 
 ---
 
-## Related Articles
-
-- [Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade](/blog/pothos-varieties)
-- [Propagating Pothos in Water: A Step-by-Step Guide](/blog/pothos-propagation)
-- [Beginner's Guide to Indoor Lighting](/blog/lighting-101)
+**Related Articles:**
+- [Pothos Varieties Compared](/blog/pothos-varieties)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
 
 </div>

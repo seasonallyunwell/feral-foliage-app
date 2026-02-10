@@ -1,18 +1,17 @@
 ---
+layout: base.njk
 title: "When Will My Monstera Fenestrate?"
-slug: "monstera-fenestration-guide"
+description: "Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations."
+slug: "monstera-fenestrations"
 date: "2026-02-06"
 author: "Feral Foliage"
-category: "Plant Care Guides"
-tags: ["Monstera", "Houseplants", "Fenestration", "Plant Care"]
-description: "Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations."
 ---
 
 <div class="card">
 
 # When Will My Monstera Fenestrate?
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Understanding the timeline and conditions for Monstera leaf holes, plus practical tips to encourage fenestrations.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Understanding the timeline and conditions for Monstera leaf holes.</p>
 
 <img src="/images/monstera-fenestrations-hero.png" alt="Mature Monstera leaf showcasing dramatic fenestrations and splits against bright indirect light" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -32,6 +31,8 @@ You've fallen in love with those dramatic, swiss-cheese leaves. You brought your
 
 Here is the reality: Fenestration is a sign of maturity. It's your Monstera's way of saying, "I've got enough energy to spare on these elaborate holes." The good news? You can absolutely influence this timeline. Let's break down exactly when to expect those beautiful splits and, more importantly, what you can do to encourage them.
 
+---
+
 ## The Timeline: When Does It Happen?
 
 There is no exact date on the calendar, but here are the general timelines you can expect based on how your Monstera is grown:
@@ -41,6 +42,8 @@ There is no exact date on the calendar, but here are the general timelines you c
 - **From a Small Nursery Plant (4"–6" pot):** 1–2 years. This is the most common starting point. Your plant needs time to outgrow its juvenile phase and develop the hormonal signals that trigger hole formation.
 
 - **From a Large, Mature Plant (1'+" leaves already):** Potentially immediately or within months. If you buy a plant that already has fenestrated leaves, it will likely continue to do so in your home (provided conditions are good). If you buy a plant with *large* leaves but no holes, it may fenestrate in the next growth cycle.
+
+---
 
 ## The Real Factors: What Actually Controls Fenestration?
 
@@ -57,15 +60,21 @@ This is the most actionable factor you can control. Monsteras need **bright, ind
 
 **The encouragement tip:** Move your Monstera closer to your brightest window (but not in direct sun, which burns leaves). A sheer curtain filtering strong light is perfect.
 
+---
+
 ### Root Health and Pot Size
 
 A root-bound Monstera is often a *happier* Monstera in the short term for fenestration. When roots are slightly crowded, the plant can feel "established" enough to focus on elaborate new leaves. However, if the roots are *strangled* and the soil is depleted, growth will stall.
 
 Conversely, a freshly repotted Monstera often focuses on root establishment before pushing out new leaf growth. If you just repotted and the new leaves are small or hole-free, be patient—it might need a few cycles to settle in.
 
+---
+
 ### Humidity and Temperature
 
 While Monsteras tolerate average household humidity, they are tropical plants. Consistent warmth (above 65°F/18°C) and moderate humidity (40–60%) keep the metabolic processes running efficiently. Cold drafts or very dry air can cause the plant to "pause" and produce smaller, simpler leaves.
+
+---
 
 ## Common Mistakes That Delay Fenestration
 
@@ -74,6 +83,8 @@ While Monsteras tolerate average household humidity, they are tropical plants. C
 2. **Under-fertilizing:** Monsteras are heavy feeders during the growing season. A nutrient-depleted plant lacks the building blocks for complex leaves. Use a balanced liquid fertilizer monthly during spring and summer.
 
 3. **Pruning the Wrong Part:** Never cut the aerial roots! These are vital for nutrient absorption and stability. Also, avoid cutting a leaf that is in the process of unfurling, even if it's plain. Let it fully open first.
+
+---
 
 ## How to Encourage Fenestrations: Practical Tips
 
@@ -89,22 +100,18 @@ You want those splits? Here is your action plan:
 
 - **Be Patient:** If your plant is young or was recently repotted, give it time. It is building the foundation for those beautiful leaves.
 
+---
+
 ## When *Not* to Worry
 
 Some Monsteras, particularly *Monstera adansonii*, naturally have smaller, more delicate holes even when mature. If you have an adansonii and expect huge splits like a deliciosa, you may be waiting forever. Know your species!
 
 Also, a single plain leaf at the top of a mature plant isn't a failure. Sometimes the plant experiments. As long as subsequent leaves develop holes, you're on the right track.
 
-## The Bottom Line
-
-The wait for fenestrations tests your patience, but it is part of the journey. Focus on creating the conditions for your Monstera to thrive—abundant light, healthy roots, and consistent care. When it is ready, those signature splits will appear, often when you least expect it. Trust the process, keep caring for your plant, and enjoy watching it transform from a simple heart-leaf vine into the dramatic statement piece it was always meant to be.
-
-Happy growing!
-
 ---
+
 **Related Articles:**
-- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support-moss-pole-vs-trellis-vs-stake)
-- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots-guide)
-- [Lighting 101 for Indoor Plants](/blog/lighting-101)
+- [Monstera Support: Moss Pole vs Trellis vs Stake](/blog/monstera-support)
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots)
 
 </div>

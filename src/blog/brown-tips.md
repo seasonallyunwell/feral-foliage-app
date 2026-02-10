@@ -1,17 +1,17 @@
 ---
+layout: base.njk
 title: "Brown Tips on Houseplants: The Real Causes"
-date: 2026-02-06
-slug: "brown-tips-houseplants"
-author: "Feral Foliage"
 description: "Stop the crispy tips! We break down the real causes of brown leaf tips—humidity, water quality, and fertilizer burn—and give you a clear checklist to fix them."
-tags: ["Brown Tips", "Plant Care", "Humidity", "Water Quality"]
+slug: "brown-tips"
+date: "2026-02-06"
+author: "Feral Foliage"
 ---
 
 <div class="card">
 
 # Brown Tips on Houseplants: The Real Causes
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Stop the crispy tips! We break down the real causes of brown leaf tips—humidity, water quality, and fertilizer burn—and give you a clear checklist to fix them.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Stop the crispy tips with this clear diagnostic checklist.</p>
 
 <img src="/images/brown-tips-hero.png" alt="Houseplant leaves with crispy brown tips showing common issues from low humidity and water quality" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -24,17 +24,6 @@ tags: ["Brown Tips", "Plant Care", "Humidity", "Water Quality"]
 </div>
 
 ---
-
-**Related Articles:**
-- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
-- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
-- [How to Treat Root Rot](/blog/how-to-treat-root-rot)
-
----
-
-Brown tips are the most common complaint among houseplant parents. They make your lush jungle look "off," and they can be frustratingly hard to diagnose because the causes are often interconnected. Is it low humidity? Too much fertilizer? Bad water?
-
-Here is a **unified approach** to fixing brown tips, ranked by the most likely culprit.
 
 ## The Rule-Out Order Checklist
 
@@ -50,7 +39,7 @@ Tap water contains minerals like fluoride, chlorine, and salts. While harmless t
 *   **Switch to Filtered or Distilled Water.** This is the easiest fix.
 *   **Leach the Soil:** Once a month, run plain water through the pot for 5 minutes to flush out salts. Make sure water drains out the bottom!
 
-**[Check out our Watering Guide for more tips on water quality](/guides/watering-guide).**
+---
 
 ### 2. Humidity
 **The Symptom:** Very dry, crispy tips. Often affects new growth first or the most exposed leaves. The rest of the leaf looks healthy, just the edges are brown and papery.
@@ -64,7 +53,7 @@ Most tropical houseplants (Monstera, Pothos, Fiddle Leaf Fig) want 40-60% humidi
 *   **Pebble Tray:** Place the pot on a tray of rocks and water. As the water evaporates, humidity rises around the leaves.
 *   **Mist?:** Misting provides only temporary relief. It's better than nothing, but a humidifier is the real fix.
 
-**[Learn how to boost humidity the right way in our Humidity Guide](/guides/humidity-guide).**
+---
 
 ### 3. Fertilizer Burn (Salts)
 **The Symptom:** Brown tips that look "burnt" or scorched, often accompanied by a white crust on the soil.
@@ -77,9 +66,7 @@ Over-fertilizing. When you feed your plant too often, or the concentration is to
 *   **Hold Off:** Stop fertilizing for a few weeks or until the plant recovers.
 *   **Follow the Schedule:** Less is more. Fertilize only during active growing season (Spring/Summer) and dilute the dose.
 
-<div class="callout tip">
-<strong>Calculate the right amount:</strong> Use our [Fertilizer Dilution Calculator](/tools/fertilizer-calculator/) to avoid over-fertilizing and prevent salt buildup.
-</div>
+---
 
 ### 4. Underwatering
 **The Symptom:** The whole leaf turns brown and crispy, usually starting at the edges or tips. The plant looks droopy.
@@ -111,9 +98,14 @@ Sometimes it's not just one thing. A plant with low humidity *and* hard water wi
 ## Can You Fix the Existing Damage?
 
 Unfortunately, **brown tips do not turn green again.** The tissue is dead.
-*   **Cosmetic Trim:** You can carefully trim with scissors. the brown edges Try to follow the shape of the leaf.
+*   **Cosmetic Trim:** You can carefully trim the brown edges with scissors. Try to follow the shape of the leaf.
 *   **Prevention:** The only way to stop it is to fix the environmental cause.
 
-**[Need help with the watering balance? See our Overwatering vs Underwatering guide](/guides/overwatering-underwatering).**
+---
+
+**Related Articles:**
+- [Hydrophobic Soil Fix](/blog/hydrophobic-soil)
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [How to Treat Root Rot](/blog/treat-root-rot)
 
 </div>

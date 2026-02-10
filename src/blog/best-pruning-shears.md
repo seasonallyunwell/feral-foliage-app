@@ -1,17 +1,17 @@
 ---
+layout: base.njk
 title: "Best Pruning Shears for Houseplants"
-slug: "best-pruning-shears-houseplants"
-excerpt: "Not all shears are created equal. Learn the difference between bypass and anvil styles, and how to maintain your blades so they last a lifetime."
+description: "Not all shears are created equal. Learn the difference between bypass and anvil styles, and how to maintain your blades so they last a lifetime."
+slug: "best-pruning-shears"
 date: "2026-02-06"
 author: "Feral Foliage"
-tags: ["tools", "pruning", "maintenance"]
 ---
 
 <div class="card">
 
 # Best Pruning Shears for Houseplants
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Not all shears are created equal. Learn the difference between bypass and anvil styles, and how to maintain your blades so they last a lifetime.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Not all shears are created equal—learn the difference between bypass and anvil styles.</p>
 
 <img src="/images/best-pruning-shears-hero.png" alt="Quality pruning shears including Felco bypass pruners and precision micro-tip shears with clean cutting demonstration" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -36,6 +36,8 @@ Anvil shears have one sharp blade that closes onto a flat metal "anvil." They cr
 **3. Micro-Tip Shears (Best for Precision)**
 These are small, sharp shears for bonsai, succulents, or intricate trimming. If you have tiny props or delicate work, these are worth it.
 
+---
+
 ## Top Picks
 
 *We earn a commission on links below.*
@@ -58,6 +60,8 @@ These are small, sharp shears for bonsai, succulents, or intricate trimming. If 
 - Perfect for succulents, herbs, and tiny cuttings.
 - Don't use these on thick branches—they will bend.
 
+---
+
 ## What Ruins Shears (And How to Avoid It)
 
 **1. Cutting Wet Sap**
@@ -72,6 +76,8 @@ A little surface rust is okay to clean off. Deep rust weakens the metal and caus
 **4. Dropping Them**
 Shears are precision tools. Dropping them onto concrete can chip the blade edge.
 
+---
+
 ## Cleaning & Sterilizing Protocol
 
 **Do this after EVERY pruning session.**
@@ -82,6 +88,8 @@ Shears are precision tools. Dropping them onto concrete can chip the blade edge.
 4. **Oil:** Apply a drop of mineral oil to the blade hinge and the flat side of the blade.
 
 *Pro Tip:* Keep a small bottle of rubbing alcohol and cotton balls in your pruning kit. Sterilizing between plants prevents spreading viral or fungal diseases (like mosaic virus or powdery mildew).
+
+---
 
 ## Sharpening Your Shears (Yes, You Can Do It)
 
@@ -95,22 +103,21 @@ You don't need to buy new shears every year. You can sharpen them.
 1. Open the shears so the blade is flat against the stone.
 2. Draw the blade across the stone at a 10-15 degree angle (match the existing bevel).
 3. Do 5-10 strokes.
-5. Close the shears and test the sharpness on a piece of paper. If it tears, keep sharpening. If it slices, you're done.
+4. Close the shears and test the sharpness on a piece of paper. If it tears, keep sharpening. If it slices, you're done.
 
 For anvil shears, only sharpen the beveled edge. The anvil is soft metal—you want to preserve its shape, not grind it down.
 
-**Master your technique:** [How to Prune Houseplants](/blog/how-to-prune.md)
+---
 
 ## The Verdict
 
 Buy a quality pair of bypass shears (Felco or Gonicc). Take care of them. Sterilize them. Sharpen them. A good pair of shears is the one tool you will use more than any other in your plant journey.
 
-*Happy trimming!*
-
 ---
-**Related Reading:**
-- [Leaves Falling Off Houseplants: When It's Normal vs a Problem](leaves-falling-off.md)
-- [Best Moisture Meters for Houseplants](best-moisture-meters.md)
-- [Treat Root Rot: Step-by-Step Guide](/blog/treat-root-rot.md)
+
+**Related Articles:**
+- [Leaves Falling Off: Normal vs Problem](/blog/leaves-falling-off)
+- [Best Moisture Meters for Houseplants](/blog/best-moisture-meters)
+- [How to Treat Root Rot](/blog/treat-root-rot)
 
 </div>

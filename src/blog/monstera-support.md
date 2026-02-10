@@ -1,18 +1,17 @@
 ---
+layout: base.njk
 title: "Monstera Support: Moss Pole vs Trellis vs Stake"
-slug: "monstera-support-moss-pole-vs-trellis-vs-stake"
-excerpt: "Confused about how to train your Monstera? We break down moss poles, trellises, and stakes to help you choose the right support for healthy, upright growth."
+description: "Confused about how to train your Monstera? We break down moss poles, trellises, and stakes to help you choose the right support for healthy, upright growth."
+slug: "monstera-support"
 date: "2026-02-06"
 author: "Feral Foliage"
-category: "Monstera Care"
-tags: ["Monstera", "Support", "Moss Pole", "Trellis", "Training"]
 ---
 
 <div class="card">
 
 # Monstera Support: Moss Pole vs Trellis vs Stake
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Confused about how to train your Monstera? We break down moss poles, trellises, and stakes to help you choose the right support for healthy, upright growth.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Confused about how to train your Monstera? We break down moss poles, trellises, and stakes.</p>
 
 <img src="/images/monstera-support-hero.png" alt="Monstera climbing a moss pole with aerial roots visibly attached to the textured surface" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -52,6 +51,8 @@ The basic stake is exactly what it sounds like: a single sturdy rod—often bamb
 
 **Best For:** Beginners, small plants, or those on a tight budget. If your Monstera is still small (under 2 feet), a basic stake buys you time while the plant matures.
 
+---
+
 ### The Trellis (The Lattice Option)
 
 A trellis provides a wider vertical surface, usually made of wood lattice, metal grid, or plastic. The plant's vines can be woven through the grid openings or tied to the crossbars.
@@ -67,6 +68,8 @@ A trellis provides a wider vertical surface, usually made of wood lattice, metal
 - Still lacks the organic texture that encourages aerial root attachment
 
 **Best For:** Larger floor specimens or gardeners who want a vertical green wall effect.
+
+---
 
 ### The Moss Pole (The Premium Option)
 
@@ -136,10 +139,8 @@ No, but it will grow differently. Trailing Monsteras can live long, happy lives 
 
 ---
 
-## Related Articles
-
-- [Monstera Variegation Types: Albo vs Thai Constellation vs Aurea](/blog/monstera-variegation)
-- [Monstera Repotting Guide: When and How to Do It](/blog/monstera-repotting)
-- [Understanding Aerial Roots on Monsteras](/blog/mstera-aerial-roots)
+**Related Articles:**
+- [Monstera Variegation Types](/blog/monstera-variegation)
+- [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots)
 
 </div>

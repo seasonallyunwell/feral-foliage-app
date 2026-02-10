@@ -1,17 +1,17 @@
 ---
+layout: base.njk
 title: "Hydrophobic Soil: Fix It Fast"
-date: "2026-02-06"
-slug: "hydrophobic-soil"
-author: "Feral Foliage"
 description: "Does water sit on top of your soil instead of soaking in? You have hydrophobic soil. Learn the step-by-step soak method, wetting agents, and when to just repot."
-tags: ["Soil", "Watering", "Hydrophobic", "Plant Care"]
+slug: "hydrophobic-soil"
+date: "2026-02-06"
+author: "Feral Foliage"
 ---
 
 <div class="card">
 
 # Hydrophobic Soil: Fix It Fast
 
-<p style="margin:0 0 16px 0;color:#a7a7a7">Does water sit on top of your soil instead of soaking in? You have hydrophobic soil. Learn the step-by-step soak method, wetting agents, and when to just repot.</p>
+<p style="margin:0 0 16px 0;color:#a7a7a7">Does water sit on top of your soil instead of soaking in? You have hydrophobic soil.</p>
 
 <img src="/images/hydrophobic-soil-hero.png" alt="Water beading on top of dry hydrophobic soil instead of soaking in, showing the problem clearly" style="width:100%;border-radius:10px;margin:16px 0">
 
@@ -25,9 +25,11 @@ tags: ["Soil", "Watering", "Hydrophobic", "Plant Care"]
 
 ---
 
----
+## What Is Hydrophobic Soil?
 
 You water your plant, and the water just... sits there. It beads up on the surface and refuses to go down. This isn't a drainage problem—it's a **hydrophobic soil** problem. Soil becomes hydrophobic when it has been allowed to dry out completely for too long. The organic matter in the soil repels water, creating a barrier that starves your roots.
+
+---
 
 ## Step 1: The Soak Method (Rescue Operation)
 
@@ -42,6 +44,8 @@ Do not just water it again and hope for the best. You need to force hydration.
 
 **Note:** While soaking, check if the soil has actually expanded and filled the pot. If there is a large gap between the soil and the pot wall, the soil has shrunk away from the pot, which is a sign it needs to be repotted.
 
+---
+
 ## Step 2: Wetting Agents (Prevention & Maintenance)
 
 If your soil won't absorb water even after a soak, or if you want to prevent this in the future, use a wetting agent.
@@ -52,12 +56,16 @@ If your soil won't absorb water even after a soak, or if you want to prevent thi
 *   **Dish Soap Solution:** Mix a few drops of mild dish soap in a spray bottle of water. Spray the soil surface and wait 5 minutes before watering.
 *   **Commercial Wetting Agents:** Available at garden centers.
 
+---
+
 ## Step 3: When to Repot vs. Rescue
 
 **Rescue (The Soak):** If this is a one-time issue and the plant isn't root-bound, the soak will fix it.
 
 **Repot (The Fix):** If the soil is extremely compacted, has poor structure (just peat moss that has shrunk), or if the plant is root-bound, it's time to refresh the soil.
 *   **Mix:** Add perlite or orchid bark to your new soil to improve structure and prevent future hydrophobicity.
+
+---
 
 ## Prevention Tips
 
@@ -67,8 +75,8 @@ If your soil won't absorb water even after a soak, or if you want to prevent thi
 
 ---
 
-**Need help with chronic watering issues?**
-*   [Signs of Overwatering vs Underwatering](/guides/overwatering-underwatering)
-*   [Brown Tips on Houseplants](/guides/brown-tips)
+**Related Articles:**
+- [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
+- [Brown Tips on Houseplants](/blog/brown-tips)
 
 </div>
