@@ -16,11 +16,7 @@ author: "Feral Foliage Team"
 <img src="/images/top-10-best-houseplants-for-mental-health-hero.png" alt="Top 10 houseplants for mental health" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-<strong>Quick Win:</strong> Start with 2-3 low-maintenance plants like pothos, snake plant, or ZZ plant. Even 1-3 plants can measurably reduce cortisol (stress hormone) and blood pressure.
-</div>
-
-<div class="callout">
-<strong>The Mindfulness Angle:</strong> Watering a plant forces you to slow down. That's mindfulness without the meditation app. Turn basic care into a stress-relief ritual.
+<strong>TL;DR:</strong> Start with 2-3 low-maintenance plants (pothos, snake plant, ZZ plant) to reduce cortisol and blood pressure. Turn watering into mindfulness—caring for plants forces you to slow down and stay present.
 </div>
 
 ---
@@ -186,6 +182,9 @@ Grows slowly — you notice small changes over months. Teaches patience and pres
 ---
 
 
+
+---
+
 ## Best Plants for Anxiety: Calming Varieties to Reduce Stress
 
 ### Why Certain Plants Reduce Anxiety
@@ -205,6 +204,9 @@ Other options: jasmine or scented geraniums (lemon, rose, mint varieties).
 Green light wavelengths reduce stress. Your eyes literally relax when looking at green.
 
 Place plants in your direct line of sight: desk, bedside table, or across from your couch. Passive exposure adds up.
+
+
+---
 
 ## Plants for Depression: Uplifting Greenery to Boost Your Mood
 
@@ -226,6 +228,9 @@ Propagating pothos or rotating succulents creates visible results. This fights t
 
 Even watering becomes a win. You kept something alive today.
 
+
+---
+
 ## How to Use Plant Care as a Mindfulness Practice
 
 ### Watering Rituals as Meditation
@@ -245,6 +250,9 @@ For people healing from trauma or depression, it's literally watching resilience
 Talking to plants helps *you*. Speaking gently activates self-compassion pathways in your brain.
 
 Practice saying kind things to your plants. It rewires how you talk to yourself.
+
+
+---
 
 ## Room-by-Room Guide: Where to Place Plants for Maximum Mental Health Benefits
 
