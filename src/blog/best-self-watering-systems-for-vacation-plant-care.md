@@ -144,7 +144,7 @@ Here's what you actually need to do before leaving, in order:
 
 3. **Move plants away from windows.** Direct sun heats pots, dries soil faster. Indirect light is fine for vacation mode.
 
-4. [Check your moisture levels](/blog/how-often-water/) with a meter. Know baseline before you leave so you can assess damage (or lack thereof) when you return.
+4. [Check your moisture levels](/blog/watering-guide/) with a meter. Know baseline before you leave so you can assess damage (or lack thereof) when you return.
 
 5. **Trim dead leaves.** They stress the plant and can attract pests while you're gone.
 
