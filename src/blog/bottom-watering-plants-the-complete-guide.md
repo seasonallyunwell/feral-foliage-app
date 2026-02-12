@@ -13,7 +13,7 @@ author: "Feral Foliage"
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">Also known as reverse watering, capillary watering, or "butt chugging" plants (yes, that's really what some people call it).</p>
 
-<img src="/images/bottom-watering-plants-hero.png" alt="Terracotta pots sitting in a tray of water, soil visibly absorbing water from bottom up" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/bottom-watering-plants-the-complete-guide-hero.png" alt="Terracotta pots sitting in a tray of water, soil visibly absorbing water from bottom up" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
 <strong>TL;DR:</strong> Bottom watering works by capillary action. Great for fuzzy-leaved plants and fungus gnat prevention. Useless for large pots and quick watering. 15-30 minutes per plant session. Don't skip top watering entirely—salts will build up.

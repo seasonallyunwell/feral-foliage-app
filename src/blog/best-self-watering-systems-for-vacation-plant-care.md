@@ -7,7 +7,7 @@ date: 2026-02-11
 author: "Feral Foliage"
 ---
 
-<img src="/images/best-self-watering-systems-hero.png" alt="Self-watering systems arranged in attractive display showing variety of methods" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/best-self-watering-systems-for-vacation-plant-care-hero.png" alt="Self-watering systems arranged in attractive display showing variety of methods" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
@@ -116,7 +116,7 @@ The bath method is underrated. Close the drain, lay down towels, soak everything
 ### Premium ($75+)
 
 - **[Blumat Digital System](https://www.amazon.com/dp/B07V2Z2L4M?tag=feralfoliage-20)** — Sensor-based watering, no programming needed, plants get exactly what they need. Expensive but worth it for frequent travelers.
-- **[Automated systems with app control](https://.amazon.com/dp/B0CLX8H5QY?tag=feralfoliage-20)** — WiFi-enabled, phone notifications, precise control. Overkill for most, essential for some.
+- **[Automated systems with app control](https://www.amazon.com/dp/B0CLX8H5QY?tag=feralfoliage-20)** — WiFi-enabled, phone notifications, precise control. Overkill for most, essential for some.
 
 ---
 
