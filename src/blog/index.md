@@ -133,6 +133,18 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/bottom-watering-plants-the-complete-guide/">Bottom Watering Plants: The Complete Guide</a></h2>
+    <div class="meta">Guide • watering techniques</div>
+    <p>Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it's useless (large pots).</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-self-watering-systems-for-vacation-plant-care/">Best Self-Watering Systems for Vacation Plant Care</a></h2>
+    <div class="meta">Guide • vacation care • affiliate links</div>
+    <p>Keep your plants alive while you're away. Self-watering systems, globes, and DIY solutions tested and ranked.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
     <div class="meta">Guide • affiliate links</div>
     <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>
@@ -285,6 +297,24 @@ permalink: /blog/
   </div>
 
   <h2 class="section-title">More Troubleshooting</h2>
+
+  <div class="card">
+    <h2><a href="/blog/how-to-get-rid-of-fungus-gnats-in-houseplants/">How to Get Rid of Fungus Gnats in Houseplants (Finally)</a></h2>
+    <div class="meta">Troubleshooting • pest control</div>
+    <p>Those tiny flying jerks ruining your plants? Here's exactly how to murder fungus gnats—with ranked methods, timeline expectations, and the stuff the internet gets wrong.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/why-is-my-snake-plant-turning-yellow/">Why Is My Snake Plant Turning Yellow?</a></h2>
+    <div class="meta">Troubleshooting • snake plant</div>
+    <p>Yellow snake plant leaves can mean overwatering, underwatering, or pests. Here's how to diagnose and fix it.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/brown-spots-on-fiddle-leaf-fig-causes-solutions/">Brown Spots on Fiddle Leaf Fig: Causes & Solutions</a></h2>
+    <div class="meta">Troubleshooting • fiddle leaf fig</div>
+    <p>Brown spots on your fiddle leaf fig? Could be root rot, fungal disease, or pests. Diagnosis guide with photos and fixes.</p>
+  </div>
 
   <div class="card">
     <h2><a href="/blog/brown-tips/">Brown Tips on Houseplants: The Real Causes</a></h2>
