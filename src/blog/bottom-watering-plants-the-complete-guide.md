@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Bottom Watering Plants: When It Helps & When It Doesn't
-description: Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it's useless (large pots).
+title: "Bottom Watering Plants: When It Helps & When It Doesn't"
+description: "Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it's useless (large pots)."
 slug: bottom-watering-plants-the-complete-guide
 date: 2026-02-11
 author: "Feral Foliage"
