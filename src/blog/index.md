@@ -121,6 +121,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/winter-houseplant-care-checklist/">Winter Houseplant Care Checklist: Keep Plants Alive Through Cold Months</a></h2>
+    <div class="meta">Guide • seasonal • winter care</div>
+    <p>Keep your houseplants alive all winter with this month-by-month checklist. November through March care tips for watering, humidity, light & pest prevention.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
     <div class="meta">Guide • grow lights • affiliate links</div>
     <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
