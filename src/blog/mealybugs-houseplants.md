@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Mealybugs on Houseplants — Complete Treatment Guide
-description: Mealybugs keep coming back? Here's why and how to actually get rid of them for good. Plus: the secret weapon most people miss.
+title: "Mealybugs on Houseplants — Complete Treatment Guide"
+description: "Mealybugs keep coming back? Here's why and how to actually get rid of them for good. Plus: the secret weapon most people miss."
 slug: mealybugs-houseplants
 date: 2026-02-13
 author: "Feral Foliage"

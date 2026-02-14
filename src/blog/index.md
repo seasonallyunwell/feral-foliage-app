@@ -311,6 +311,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/mealybugs-houseplants/">Mealybugs on Houseplants — Complete Treatment Guide</a></h2>
+    <div class="meta">Troubleshooting • pest control</div>
+    <p>Mealybugs keep coming back? Here's why and how to actually get rid of them for good. Plus: the secret weapon most people miss.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/why-is-my-snake-plant-turning-yellow/">Why Is My Snake Plant Turning Yellow?</a></h2>
     <div class="meta">Troubleshooting • snake plant</div>
     <p>Yellow snake plant leaves can mean overwatering, underwatering, or pests. Here's how to diagnose and fix it.</p>
