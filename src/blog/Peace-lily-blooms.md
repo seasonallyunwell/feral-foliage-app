@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: " "Peace Lily Not Blooming? Here's How to Get Flowers""
-description: " "Is your peace lily not blooming? Learn why store-bought plants bloom but yours doesn't, plus simple steps to encourage flowers at home.""
+title: "Peace Lily Not Blooming? Here's How to Get Flowers"
+description: "Is your peace lily not blooming? Learn why store-bought plants bloom but yours doesn't, plus simple steps to encourage flowers at home."
 slug: Peace-lily-blooms
 date: 2026-02-14
 author: "Feral Foliage"
