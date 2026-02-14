@@ -364,7 +364,13 @@ permalink: /blog/
     <p>Don't let one infected plant take down your entire collection. Quarantine saves lives.</p>
   </div>
 
-  <h2 class="section-title">Monstera Guides</h2>
+  
+  <div class="card">
+    <h2><a href="/blog/Peace-lily-blooms/">Peace Lily Not Blooming? Here's How to Get Flowers</a></h2>
+    <div class="meta">Troubleshooting • Peace lily</div>
+    <p>Is your peace lily not blooming? Learn why store-bought plants bloom but yours doesn't, plus simple steps to encourage flowers at home.</p>
+  </div>
+<h2 class="section-title">Monstera Guides</h2>
 
   <div class="card">
     <h2><a href="/blog/monstera-propagation/">Propagating Monstera: Water vs Soil Success Rates</a></h2>
