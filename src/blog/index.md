@@ -127,6 +127,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/spring-repotting-guide/">Spring Repotting Guide — When & How to Repot Houseplants</a></h2>
+    <div class="meta">Guide • seasonal • repotting</div>
+    <p>Discover why spring is the best time to repot your houseplants. Learn the signs your plant needs repotting, plus our complete spring checklist.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
     <div class="meta">Guide • grow lights • affiliate links</div>
     <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>

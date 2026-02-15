@@ -49,6 +49,8 @@ Fall and winter repotting? Only if it's an emergency. Root-bound plants stressed
 
 Not every plant needs repotting every spring. Here's how to tell if yours actually needs it:
 
+<img src="/images/spring-repotting-roots.png" alt="Close-up of root-bound plant with roots escaping drainage holes" style="width:100%;border-radius:10px;margin:16px 0">
+
 ### 1. Roots Escaping the Drainage Holes
 This is the most obvious sign. If you see white or tan roots poking out the bottom, poking through the sides, or circling the base of the pot, the plant is root-bound and desperate for more space.
 
@@ -123,6 +125,8 @@ If a plant looks unhappy, figure out why before you make things worse.
 ## Spring Repotting Prep Checklist
 
 Don't just yank plants out of pots and hope for the best. Be prepared:
+
+<img src="/images/spring-repotting-supplies.png" alt="Flat lay of repotting supplies including pots, soil, scissors and tools" style="width:100%;border-radius:10px;margin:16px 0">
 
 - [ ] **Fresh soil** — don't reuse old soil. It's depleted and might harbor pests or fungus. Buy a good potting mix.
 - [ ] **Clean pots** — scrub old pots with 10% bleach solution, or use brand new ones. Skip this and you might transfer pests.
