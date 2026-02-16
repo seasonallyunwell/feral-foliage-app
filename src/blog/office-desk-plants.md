@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Office Desk Plants: The Practical Guide to Greening Your Workspace
+title: "Office Desk Plants: The Practical Guide to Greening Your Workspace"
 description: Find the perfect office desk plants for your workspace. Our expert guide covers low-maintenance, low-light, and pet-friendly options.
 slug: office-desk-plants
 date: 2026-02-16
