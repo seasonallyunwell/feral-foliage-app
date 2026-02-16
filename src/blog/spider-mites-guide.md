@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Spider Mites: Complete Guide to ID, Treatment & Prevention
-description: How to identify, treat, and prevent spider mites on houseplants. Emergency treatment protocol, natural remedies, and proven prevention strategies.
+title: "Spider Mites: Complete Guide to ID, Treatment & Prevention"
+description: "How to identify, treat, and prevent spider mites on houseplants. Emergency treatment protocol, natural remedies, and proven prevention strategies."
 slug: spider-mites-guide
 date: 2026-02-16
 author: "Feral Foliage"
