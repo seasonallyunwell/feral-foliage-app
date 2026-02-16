@@ -205,6 +205,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/office-desk-plants/">Office Desk Plants: The Practical Guide to Greening Your Workspace</a></h2>
+    <div class="meta">Guide • desk plants • workspace</div>
+    <p>Find the perfect office desk plants for your workspace. Our expert guide covers low-maintenance, low-light, and pet-friendly options.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pet-safe-plants/">Pet-Safe Houseplants — The Complete Guide</a></h2>
     <div class="meta">Safety guide • pet-friendly</div>
     <p>Beautiful plants that won't hurt your furry friends. Includes photos and care tips.</p>
