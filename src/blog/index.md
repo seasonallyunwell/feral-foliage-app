@@ -382,6 +382,13 @@ permalink: /blog/
     <div class="meta">Troubleshooting • Peace lily</div>
     <p>Is your peace lily not blooming? Learn why store-bought plants bloom but yours doesn't, plus simple steps to encourage flowers at home.</p>
   </div>
+
+  <div class="card">
+    <h2><a href="/blog/calathea-crispy-edges/">Calathea Crispy Edges: Causes & Fixes to Save Your Plant</a></h2>
+    <div class="meta">Troubleshooting • calathea • humidity</div>
+    <p>Calathea crispy edges? Learn the 6 causes of brown edges and proven fixes. Expert humidity, water quality, and care tips to restore healthy leaves.</p>
+  </div>
+
 <h2 class="section-title">Monstera Guides</h2>
 
   <div class="card">

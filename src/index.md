@@ -194,7 +194,7 @@ permalink: /
     </div></div>
 
   <div style="text-align:center;margin:40px 0">
-    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 58 Guides →</a>
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 59 Guides →</a>
   </div>
 </div>
 
