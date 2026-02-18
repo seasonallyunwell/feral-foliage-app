@@ -139,6 +139,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/succulent-care/">Succulent Care — The No-Nonsense Guide to Not Killing Them</a></h2>
+    <div class="meta">Guide • succulents • care basics</div>
+    <p>Succulents are marketed as unkillable, but they die in homes every day. Here's how to actually keep them alive.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
     <div class="meta">Guide • affiliate links</div>
     <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
