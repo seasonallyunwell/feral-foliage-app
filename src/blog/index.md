@@ -103,6 +103,12 @@ permalink: /blog/
   <h2 class="section-title">Guides</h2>
 
   <div class="card">
+    <h2><a href="/blog/10-moody-dark-houseplants/">10 moody dark houseplants</a></h2>
+    <div class="meta">Guide • dark foliage • plant recommendations</div>
+    <p>Dark foliage is having a moment. Here are 10 plants that won't make your space look like a cheerful nursery.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/fertilizer-guide/">Fertilizer Guide — When, What, and How Much</a></h2>
     <div class="meta">Guide • nutrients • affiliate links</div>
     <p>The no-nonsense guide to NPK ratios, feeding schedules, and not killing your plants with kindness.</p>
