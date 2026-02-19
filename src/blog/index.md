@@ -395,6 +395,12 @@ permalink: /blog/
     <p>Calathea crispy edges? Learn the 6 causes of brown edges and proven fixes. Expert humidity, water quality, and care tips to restore healthy leaves.</p>
   </div>
 
+  <div class="card">
+    <h2><a href="/blog/alocasia-dying/">Alocasia Dying? 10 Causes & How to Save Your Plant</a></h2>
+    <div class="meta">Troubleshooting • alocasia • emergency care</div>
+    <p>Your stunning Alocasia looking worse for wear? Here's exactly why—and how to bring it back from the brink.</p>
+  </div>
+
 <h2 class="section-title">Monstera Guides</h2>
 
   <div class="card">
