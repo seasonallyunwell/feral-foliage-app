@@ -17,6 +17,10 @@ category: "Plant Care Guides"
 <strong>Quick Answer:</strong> Both methods work well, but **water propagation has a higher success rate for beginners** because you can monitor root development daily. Soil propagation has advantages too — no transition shock and faster establishment once roots form. Your choice depends on how hands-on you want to be.
 </div>
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
 ## The Success Rates
 
 Based on community data and our own testing:

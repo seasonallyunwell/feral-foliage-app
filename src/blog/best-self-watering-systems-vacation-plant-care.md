@@ -354,29 +354,4 @@ Even with self-watering, having a backup human check-in can save expensive plant
 | Aroids (Monstera, Pothos) | Medium-High | Wicking stakes, self-watering pots |
 | Snake Plant | Low | Pre-water, skip complex systems |
 | Calathea | High + Humidity | Humidity tray + wicking system |
-
----
-
-## The Affiliate Disclosure
-
-<div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
-</div>
-
----
-
-## Products Mentioned
-
-- <a href="https://www.amazon.com/dp/B08G87PZLS?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">REMIAWY Plant Watering Globes</a>
-- <a href="https://www.amazon.com/dp/B07W5TCY9S?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Blumat Wicking Stakes</a>
-- <a href="https://www.amazon.com/dp/B07V2K7D1D?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Lechy Self-Watering Planter</a>
-- <a href="https://www.amazon.com/dp/B07BZ8ZL5G?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Water-Rite Absorbent Polymers</a>
-- <a href="https://www.amazon.com/dp/B07RNL7W3V?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Rachio Smart Sprinkler</a>
-- <a href="https://www.amazon.com/dp/B01MZCBMR7?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Kazeila Watering Timer</a>
-
----
-
-<p class="meta">Last updated: 2026-02-11</p>
-
-</div>
 </div>

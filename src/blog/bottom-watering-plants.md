@@ -25,6 +25,10 @@ A bright, clean workspace showing the bottom watering technique: a terracotta po
 - Takes 15-45 minutes depending on pot size
 - Best for tropical plants, not a replacement for all watering
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
 ---
 
 ## What Even Is Bottom Watering?

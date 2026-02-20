@@ -208,11 +208,6 @@ Most fertilizer packages tell you to use the full strength. Ignore that.
 - **Worm castings** [Amazon](https://www.amazon.com/dp/B004JOD0Y2?tag=feralfoliage-20) — mix into soil, gentle and slow-release
 - **Seaweed extract** [Amazon](https://www.amazon.com/dp/B08G1GBH1D?tag=feralfoliage-20) — foliar feed or soil drench, micronutrient boost
 - **Fish emulsion** [Amazon](https://www.amazon.com/dp/B00CJJ0BA4?tag=feralfoliage-20) — smells terrible, plants love it
-
-<div class="callout">
-<strong>Affiliate Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
-</div>
-
 ---
 
 *Need help diagnosing what's wrong with your plant? Start with our [Plant ER Troubleshooting Guide](/blog/plant-er/).*
