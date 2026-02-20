@@ -78,17 +78,17 @@ permalink: /blog/
         <p>What to buy first (and what to skip) to stop pests without nuking your plants.</p>
       </div>
       <div class="pinned-card">
-        <h3><a href="/blog/level-up-basics/">Level Up Your Basics</a></h3>
+        <h3><a href="/blog/level-up-basics/">Level Up Your Basics: Gear Worth the Upgrade</a></h3>
         <div class="meta">Gear upgrades • affiliate links</div>
         <p>When cheap tools aren't cutting it anymore. The gear worth spending more on.</p>
       </div>
       <div class="pinned-card">
-        <h3><a href="/blog/aesthetic-gear/">Aesthetic Gear Guide</a></h3>
+        <h3><a href="/blog/aesthetic-gear/">Aesthetic Gear Guide: Stylish Stuff That Actually Works</a></h3>
         <div class="meta">Style + function • affiliate links</div>
         <p>Plant gear that looks good on your shelf and actually helps your plants thrive.</p>
       </div>
       <div class="pinned-card">
-        <h3><a href="/blog/splurge-edition/">Splurge Edition</a></h3>
+        <h3><a href="/blog/splurge-edition/">Splurge Edition: Gear Worth the Investment</a></h3>
         <div class="meta">Premium gear • affiliate links</div>
         <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
       </div>
@@ -103,7 +103,7 @@ permalink: /blog/
   <h2 class="section-title">Guides</h2>
 
   <div class="card">
-    <h2><a href="/blog/10-moody-dark-houseplants/">10 moody dark houseplants</a></h2>
+    <h2><a href="/blog/10-moody-dark-houseplants/">10 Moody Dark Houseplants for a Dramatic Indoor Look</a></h2>
     <div class="meta">Guide • dark foliage • plant recommendations</div>
     <p>Dark foliage is having a moment. Here are 10 plants that won't make your space look like a cheerful nursery.</p>
   </div>
@@ -127,7 +127,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/winter-houseplant-care-checklist/">Winter Houseplant Care Checklist: Keep Plants Alive Through Cold Months</a></h2>
+    <h2><a href="/blog/winter-houseplant-care-checklist/">Winter Houseplant Care Checklist — Keep Plants Alive Through Cold Months</a></h2>
     <div class="meta">Guide • seasonal • winter care</div>
     <p>Keep your houseplants alive all winter with this month-by-month checklist. November through March care tips for watering, humidity, light & pest prevention.</p>
   </div>
@@ -157,13 +157,13 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/bottom-watering-plants-the-complete-guide/">Bottom Watering Plants: The Complete Guide</a></h2>
+    <h2><a href="/blog/bottom-watering-plants-the-complete-guide/">Bottom Watering Plants: When It Helps & When It Doesn't</a></h2>
     <div class="meta">Guide • watering techniques</div>
     <p>Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it's useless (large pots).</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/best-self-watering-systems-for-vacation-plant-care/">Best Self-Watering Systems for Vacation Plant Care</a></h2>
+    <h2><a href="/blog/best-self-watering-systems-for-vacation-plant-care/">Best Self-Watering Systems for Vacation Plant Care (2026)</a></h2>
     <div class="meta">Guide • vacation care • affiliate links</div>
     <p>Keep your plants alive while you're away. Self-watering systems, globes, and DIY solutions tested and ranked.</p>
   </div>
@@ -217,7 +217,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/office-desk-plants/">Office Desk Plants: The Practical Guide to Greening Your Workspace</a></h2>
+    <h2><a href="/blog/office-desk-plants/">Office Desk Plants: Best Picks for Productivity & Clean Air</a></h2>
     <div class="meta">Guide • desk plants • workspace</div>
     <p>Find the perfect office desk plants for your workspace. Our expert guide covers low-maintenance, low-light, and pet-friendly options.</p>
   </div>
@@ -277,7 +277,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/top-10-best-houseplants-for-mental-health/">Top 10 Best Houseplants for Mental Health</a></h2>
+    <h2><a href="/blog/top-10-best-houseplants-for-mental-health/">10 Best Houseplants for Mental Health & Stress Relief</a></h2>
     <div class="meta">Guide • mental health • stress relief</div>
     <p>Discover the top 10 houseplants for mental health, including plants for anxiety, stress relief, and depression. Learn care routines as mindfulness practices.</p>
   </div>
@@ -297,7 +297,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/splurge-edition/">Splurge Edition: Premium Plant Gear</a></h2>
+    <h2><a href="/blog/splurge-edition/">Splurge Edition: Gear Worth the Investment</a></h2>
     <div class="meta">Gear guide • premium • affiliate links</div>
     <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
   </div>
@@ -359,7 +359,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/overwatering-underwatering/">Overwatering vs Underwatering: Tell the Difference</a></h2>
+    <h2><a href="/blog/overwatering-underwatering/">Signs of Overwatering vs Underwatering: Decision Tree</a></h2>
     <div class="meta">Troubleshooting • diagnosis</div>
     <p>They look eerily similar. Here's how to tell which one is killing your plant.</p>
   </div>
@@ -377,13 +377,13 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/treat-root-rot/">Root Rot Treatment Guide</a></h2>
+    <h2><a href="/blog/treat-root-rot/">How to Treat Root Rot</a></h2>
     <div class="meta">Troubleshooting • emergency care</div>
     <p>Act fast. Root rot spreads quickly, but it's not always a death sentence.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/quarantine-new-plant/">Quarantine New Plants: Why and How</a></h2>
+    <h2><a href="/blog/quarantine-new-plant/">How to Quarantine a New Plant (14-Day Protocol)</a></h2>
     <div class="meta">Prevention • pest control</div>
     <p>Don't let one infected plant take down your entire collection. Quarantine saves lives.</p>
   </div>
@@ -402,7 +402,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/alocasia-dying/">Alocasia Dying? 10 Causes & How to Save Your Plant</a></h2>
+    <h2><a href="/blog/alocasia-dying/">Alocasia Dying? 10 Causes & How to Save Your Plant (Expert Guide)</a></h2>
     <div class="meta">Troubleshooting • alocasia • emergency care</div>
     <p>Your stunning Alocasia looking worse for wear? Here's exactly why—and how to bring it back from the brink.</p>
   </div>
