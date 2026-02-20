@@ -111,8 +111,8 @@ For $15, a moisture meter is a useful training wheel. It helps you learn the "fe
 
 We use these products ourselves and recommend them:
 
-- **[Dr. Meter Soil Moisture Meter](https://amzn.to/4gHxmMk)** - Affordable, no batteries needed, works great for most houseplants
-- **[XLUX Soil Moisture Meter](https://amzn.to/3ZyHQRk)** - Simple analog design, very reliable, no batteries required
-- **[Govee WiFi Soil Moisture Sensor](https://amzn.to/4iKkLxM)** - Digital option with app alerts for your smartphone
+- **[Dr. Meter Soil Moisture Meter](https://www.amazon.com/dp/B00PTLGKSQ?tag=feralfoliage-20)** - Affordable, no batteries needed, works great for most houseplants
+- **[XLUX Soil Moisture Meter](https://www.amazon.com/dp/B014MJ8J2U?tag=feralfoliage-20)** - Simple analog design, very reliable, no batteries required
+- **[Govee WiFi Soil Moisture Sensor](https://www.amazon.com/dp/B0BMLK1G27?tag=feralfoliage-20)** - Digital option with app alerts for your smartphone
 
 *We may earn a commission from Amazon links above - thanks for supporting Feral Foliage!*

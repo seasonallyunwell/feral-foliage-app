@@ -166,10 +166,4 @@ Enjoy your plants for what they are — beautiful, calming, alive. They're not a
 ## Our Favorite Air-Purifying Plants Tools
 
 We use these products ourselves:
-
-- **[Dr. Moisture Meter](https://amzn.to/4gHxmMk)** - Keep your plants perfectly watered
-- **[Mister Bottle](https://amzn.to/4iMKpPL)** - Fine mist for humidity-loving plants
-
-*We may earn a commission from Amazon links above - thanks for supporting Feral Foliage!*
-
 </div>

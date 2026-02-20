@@ -197,14 +197,4 @@ But if you want those white spathes, now you know what to do.
 *Want more bloom-boosting tips? Check out our [fertilizer guide](/blog/fertilizer-guide/) for feeding schedules that actually work. Need more light info? Our [light guide](/blog/light-guide/) covers everything from low to bright indirect. Got a peace lily that's more drama queen than blooming beauty? Our [watering guide](/blog/watering-guide/) will help you figure out if it's thirsty or just dramatic.*
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

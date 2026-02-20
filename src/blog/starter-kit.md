@@ -89,14 +89,4 @@ They can be effective, but follow labels, avoid edibles, and don't use them on p
 <p class="meta">Last updated: 2026-02-03</p>
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

@@ -76,14 +76,4 @@ This is the "I have a life" option. Use responsibly, avoid edibles, and be mindf
 <p class="meta">Last updated: 2026-02-04</p>
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

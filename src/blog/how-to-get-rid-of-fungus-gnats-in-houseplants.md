@@ -280,14 +280,4 @@ Let soil dry more between waterings, quarantine new plants for 2 weeks, inspect 
 ---
 
 *Still fighting fungus gnats? The key is consistency. Treat for the full three weeks, even when you think they're gone. The life cycle will get you if you stop early.*
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

@@ -193,21 +193,21 @@ Most fertilizer packages tell you to use the full strength. Ignore that.
 ## Quick Fertilizer Recommendations
 
 **For beginners:**
-- **Jack's Classic 20-20-20** [Amazon](https://amzn.to/41YJcKc) — balanced, widely available, reliable
-- **Dyna-Gro Grow 7-9-5** [Amazon](https://amzn.to/3CqYBVL) — good for foliage, includes micronutrients
+- **Jack's Classic 20-20-20** [Amazon](https://www.amazon.com/dp/B005LKUHVS?tag=feralfoliage-20) — balanced, widely available, reliable
+- **Dyna-Gro Grow 7-9-5** [Amazon](https://www.amazon.com/dp/B003SUT6MY?tag=feralfoliage-20) — good for foliage, includes micronutrients
 
 **For flowering plants:**
-- **Jack's Blossom Booster 10-30-20** [Amazon](https://amzn.to/4hFPoqc) — higher phosphorus for blooms
-- **Orchid fertilizer** [Amazon](https://amzn.to/4hFPw9C) — formulated for epiphytes
+- **Jack's Blossom Booster 10-30-20** [Amazon](https://www.amazon.com/dp/B005LKUHR4?tag=feralfoliage-20) — higher phosphorus for blooms
+- **Orchid fertilizer** [Amazon](https://www.amazon.com/dp/B000BX4QFE?tag=feralfoliage-20) — formulated for epiphytes
 
 **For succulents/cacti:**
-- **Dyna-Gro Foliage-Pro 9-3-6** [Amazon](https://amzn.to/4iMKpPL) — lower nitrogen
+- **Dyna-Gro Foliage-Pro 9-3-6** [Amazon](https://www.amazon.com/dp/B08G1GBH1D?tag=feralfoliage-20) — lower nitrogen
 - **Succulent-specific formulas** [[link:succulent-formula]] — available at most garden centers
 
 **Organic options:**
-- **Worm castings** [Amazon](https://amzn.to/4hFPKCn) — mix into soil, gentle and slow-release
-- **Seaweed extract** [Amazon](https://amzn.to/4iMKpPL) — foliar feed or soil drench, micronutrient boost
-- **Fish emulsion** [Amazon](https://amzn.to/4hFPMQc) — smells terrible, plants love it
+- **Worm castings** [Amazon](https://www.amazon.com/dp/B004JOD0Y2?tag=feralfoliage-20) — mix into soil, gentle and slow-release
+- **Seaweed extract** [Amazon](https://www.amazon.com/dp/B08G1GBH1D?tag=feralfoliage-20) — foliar feed or soil drench, micronutrient boost
+- **Fish emulsion** [Amazon](https://www.amazon.com/dp/B00CJJ0BA4?tag=feralfoliage-20) — smells terrible, plants love it
 
 <div class="callout">
 <strong>Affiliate Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases.
@@ -216,15 +216,4 @@ Most fertilizer packages tell you to use the full strength. Ignore that.
 ---
 
 *Need help diagnosing what's wrong with your plant? Start with our [Plant ER Troubleshooting Guide](/blog/plant-er/).*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

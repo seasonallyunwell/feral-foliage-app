@@ -360,14 +360,4 @@ For more plant care guidance tailored to beginners, check out our full library o
 Now go get yourself a plant. Your brain will thank you.
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

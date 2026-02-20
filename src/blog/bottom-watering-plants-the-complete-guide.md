@@ -263,14 +263,4 @@ Want a complete breakdown of watering fundamentals? Check out [our complete wate
 ---
 
 *Bottom watering your African violets and still seeing problems? Our [troubleshooting guide](/blog/overwatering-underwatering.md) helps you figure out if you're overdoing it—or if something else is wrong.*
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

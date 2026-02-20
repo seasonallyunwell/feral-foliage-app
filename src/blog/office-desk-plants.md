@@ -261,14 +261,4 @@ Start with a snake plant. It's boring, but it won't die, and that's the entire p
 ---
 
 *Want more hard-to-kill options? Check out our [Easiest Houseplants](/blog/easiest-houseplants/) guide for plants that survive neglect.*
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

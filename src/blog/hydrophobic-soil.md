@@ -80,14 +80,4 @@ If your soil won't absorb water even after a soak, or if you want to prevent thi
 - [Brown Tips on Houseplants](/blog/brown-tips)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

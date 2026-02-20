@@ -280,14 +280,4 @@ Brown spots on your Fiddle Leaf Fig aren't a death sentence—they're a message.
 - [Brown Tips on Houseplants](/blog/brown-tips)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

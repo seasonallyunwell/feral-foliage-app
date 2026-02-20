@@ -275,15 +275,4 @@ When repotting, only go up 1-2 inches in diameter.
 ---
 
 *Ready to repot? Check our [How to Repot](/blog/how-to-repot/) guide for step-by-step instructions.*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

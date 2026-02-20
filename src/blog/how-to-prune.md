@@ -241,15 +241,4 @@ Pruning makes your plants healthier AND gives you free plants. It's the ultimate
 ---
 
 *Want to propagate your pruning cuts? Check our [Propagation Guide](/blog/propagation-guide/).*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

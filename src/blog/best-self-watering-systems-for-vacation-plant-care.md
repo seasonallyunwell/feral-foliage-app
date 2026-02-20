@@ -211,14 +211,4 @@ Start testing 2-3 days before you leave. Have a backup plan. And maybe don't own
 - [Blumat Classic Automatic Plant Waterers](https://www.amazon.com/dp/B000E58F1M?tag=feralfoliage-20)
 - [RAINPOINT Automatic Drip Irrigation Kit](https://www.amazon.com/dp/B0CZX8L8JQ?tag=feralfoliage-20)
 - [Blumat Digital Watering System](https://www.amazon.com/dp/B07V2Z2L4M?tag=feralfoliage-20)
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

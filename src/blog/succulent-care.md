@@ -259,14 +259,4 @@ Fix those three things and your succulents will thrive. They're still the easies
 *Want more hard-to-kill plants? Check out our [Easiest Houseplants for Beginners](/blog/easiest-houseplants/) guide — plants that actually tolerate neglect.*
 
 *Got a succulent that's struggling? Drop by our [Troubleshooting Hub](/blog/troubleshooting/) for diagnosis help.*
-
----
-
-## Products We Love
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential for getting watering right
-- **[Quality Potting Mix](https://amzn.to/4iMKpPL)** - Well-draining for healthy roots
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

@@ -271,14 +271,4 @@ The real secret? Accept that calatheas are high-maintenance. If you can keep the
 *Want more help with troubleshooting? Check out our [humidity guide](/blog/humidity/) for solutions that actually work, or dive into our [watering guide](/blog/watering-guide/) to master your watering routine. If you're not sure whether you're overwatering or underwatering, our [overwatering vs underwatering](/blog/overwatering-underwatering/) decision tree will help you figure it out.*
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

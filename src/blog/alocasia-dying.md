@@ -321,14 +321,4 @@ These tropical divas demand a bit more attention than your average pothos—but 
 *Got a different plant drama? Check out our guides on [brown tips](/blog/brown-tips/), [calathea crispy edges](/blog/calathea-crispy-edges/), or [fungus gnats](/blog/fungus-gnats/) for more plant-saving tips.*
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

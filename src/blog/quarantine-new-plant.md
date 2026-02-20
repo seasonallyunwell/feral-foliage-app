@@ -111,14 +111,4 @@ But be honest with yourself: is the plant clean, or are you just excited to disp
 - [Best Pruning Shears for Houseplants](/blog/best-pruning-shears)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

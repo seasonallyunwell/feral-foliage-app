@@ -105,14 +105,4 @@ Plants are living things. They lose parts. Think of a deciduous tree in your yar
 - [How to Quarantine a New Plant](/blog/quarantine-new-plant)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

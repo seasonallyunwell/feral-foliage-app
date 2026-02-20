@@ -187,15 +187,4 @@ South-facing windows can get 85°F+ in summer. Monitor for heat stress and water
 ---
 
 *Need help diagnosing plant problems? Check our [Plant ER](/blog/plant-er/).*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

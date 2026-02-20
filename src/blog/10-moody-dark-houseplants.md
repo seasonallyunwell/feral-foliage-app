@@ -278,14 +278,4 @@ Ready to explore more dark-space-friendly options? Check out our [best low light
 ---
 
 *Want to level up your plant care game? Read our [watering guide](/blog/watering-guide/) to stop killing plants with kindness.*
-
----
-
-## Products We Love
-
-- **[Dr. Moisture Meter](https://amzn.to/4gHxmMk)** - Essential for learning your plant's needs
-- **[Quality Potting Mix](https://amzn.to/4iMKpPL)** - Well-draining mix for healthy roots
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

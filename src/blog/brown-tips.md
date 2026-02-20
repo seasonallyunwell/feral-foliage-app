@@ -113,10 +113,4 @@ Unfortunately, **brown tips do not turn green again.** The tissue is dead.
 ---
 
 ## Products We Recommend
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Takes the guesswork out of watering
-- **[Premium Potting Mix](https://amzn.to/4iMKpPL)** - Gives plants the drainage they need
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

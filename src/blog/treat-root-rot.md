@@ -115,14 +115,4 @@ Root rot is a setback, but with quick action and a little patience, your plant c
 - [Best Moisture Meters for Houseplants](/blog/best-moisture-meters)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

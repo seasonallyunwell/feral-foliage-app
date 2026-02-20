@@ -276,15 +276,4 @@ Repotting isn't hard. The plant will tell you when it needs it. Listen to the ro
 ---
 
 *Need help diagnosing what's wrong after repotting? Check our [Plant ER](/blog/plant-er/).*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

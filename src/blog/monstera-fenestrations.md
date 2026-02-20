@@ -115,14 +115,4 @@ Also, a single plain leaf at the top of a mature plant isn't a failure. Sometime
 - [Monstera Aerial Roots: What to Do](/blog/monstera-aerial-roots)
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

@@ -289,14 +289,4 @@ You got this. These tiny jerks are beatable.
 *Humidity keeping your plants happy? Our [Humidity Guide](/blog/humidity/) has everything you need to know.*
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

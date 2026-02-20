@@ -207,14 +207,4 @@ Bookmark this page. Set monthly reminders. Your plants will thank you by not dyi
 *Struggling with a specific winter problem? Check out our guides on [brown tips](/blog/brown-tips/), [overwatering issues](/blog/overwatering-underwatering/), [leaves falling off](/blog/leaves-falling-off/), and [treating root rot](/blog/treat-root-rot/) for more targeted help.*
 
 </div>
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

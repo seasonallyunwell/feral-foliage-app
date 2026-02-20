@@ -203,15 +203,4 @@ Drooping is your plant screaming for help. Listen before it's too late.
 ---
 
 *Need help with diagnosis? Check our [Plant ER](/blog/plant-er/) for more troubleshooting.*
-
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>

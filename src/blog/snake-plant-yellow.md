@@ -200,14 +200,4 @@ If you've ruled out overwatering and your plant still looks off, check for pests
 - [Plant ER: Quick Diagnosis Guide](/blog/plant-er/)
 - [Overwatering vs. Underwatering](/blog/overwatering-underwatering/)
 - [How to Repot Your Plants Right](/blog/how-to-repot/)
-
----
-
-## Our Picks
-
-- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
-- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
-
-*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
-
 </div>
