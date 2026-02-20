@@ -16,6 +16,10 @@ author: "Feral Foliage"
 <img src="/images/mealybugs-houseplants-hero.png" alt="Mealybugs on houseplant stem - white cottony masses at leaf joints" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+<div class="callout">
 <strong>TL;DR:</strong> Mealybugs hide in leaf joints, reproduce fast, and leave sticky honeydew. Treatment: isolate → dab visible bugs with alcohol → spray with insecticidal soap weekly for 3-4 weeks → check roots if it keeps coming back. Root mealybugs need systemic granules or repotting.
 </div>
 
@@ -130,11 +134,6 @@ Once you've eradicated mealybugs, keep them from coming back:
 | <a href="https://www.amazon.com/dp/B000BQL8UY?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Insecticidal soap</a> | Main treatment, repeat weekly |
 | <a href="https://www.amazon.com/dp/B09L5CCCHC?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Neem oil</a> | Preventive spraying, stubborn cases |
 | <a href="https://www.amazon.com/dp/B000BX1HKI?tag=feralfoliage-20" target="_blank" rel="nofollow noopener">Systemic granules</a> | Root mealybugs only |
-
-<div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
-</div>
-
 ---
 
 ## The Secret Weapon: Hydrogen Peroxide

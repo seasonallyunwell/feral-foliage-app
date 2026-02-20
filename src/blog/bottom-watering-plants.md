@@ -18,17 +18,16 @@ author: "Feral Foliage"
 A bright, clean workspace showing the bottom watering technique: a terracotta pot sitting in a shallow white tray filled with clear water, sunlight streaming through, roots visible in a transparent pot insert, educational and inviting atmosphere
 ```
 
+<div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
 **TL;DR:**
 - Bottom watering lets roots absorb water from the drainage holes up
 - Solves hydrophobic soil by forcing hydration from below
 - Prevents fungus gnats by keeping the top soil dry
 - Takes 15-45 minutes depending on pot size
 - Best for tropical plants, not a replacement for all watering
-
-<div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
-</div>
-
 ---
 
 ## What Even Is Bottom Watering?

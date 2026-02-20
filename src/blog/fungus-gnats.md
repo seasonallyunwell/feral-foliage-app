@@ -14,6 +14,10 @@ author: "Feral Foliage"
 <p style="margin:0 0 16px 0;color:#a7a7a7">Why these tiny flies keep showing up—and how to make them leave for good.</p>
 
 <div class="callout">
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+</div>
+
+<div class="callout">
 <strong>TL;DR:</strong>
 - Fungus gnats come from overwatered soil (stop watering so much)
 - Yellow sticky traps catch adults immediately
@@ -260,11 +264,6 @@ Yes, absolutely. Plants recover quickly once the infestation is under control. Y
 - <a href="/blog/pest-id/">Pest ID Guide</a> — Identify what's actually on your plants
 - <a href="/blog/pest-control-kit/">Pest Control Starter Kit</a> — The minimal gear you need
 - <a href="/blog/watering-guide/">Watering Guide</a> — Master proper watering techniques
-
-<div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
-</div>
-
 <p class="meta">Last updated: 2026-02-11</p>
 
 </div>
