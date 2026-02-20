@@ -193,3 +193,14 @@ description: Don't make these mistakes at the plant store. Here's how to choose 
 
 *Ready to care for your new plant? Check our [Care Guides](/blog/) for specific plant instructions.*
 
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

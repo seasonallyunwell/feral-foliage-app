@@ -168,3 +168,14 @@ Once you've kept one alive for six months, then worry about the next one.
 ---
 
 *Still killing everything? The problem might not be you — it might be your light. Check our [Light Guide](/blog/light-guide/) before you blame yourself.*
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

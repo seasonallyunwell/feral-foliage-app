@@ -19,6 +19,18 @@ author: "Feral Foliage"
 <strong>TL;DR:</strong> Bottom watering works by capillary action. Great for fuzzy-leaved plants and fungus gnat prevention. Useless for large pots and quick watering. 15-30 minutes per plant session. Don't skip top watering entirely—salts will build up.
 </div>
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/bottom-vs-top-watering.png" alt="Side-by-side of top watering vs bottom watering method" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Top watering floods from above; bottom watering lets the soil pull up only what it needs.</figcaption>
+</figure>
+
+
+<figure style="margin:16px 0;">
+  <img src="/images/bottom-watering-process.png" alt="Step-by-step bottom watering process from dry pot to saturated soil" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Capillary action does the heavy lifting—set it in water, wait 15-20 minutes, drain.</figcaption>
+</figure>
+
 ---
 
 ## Bottom Watering Is Trendy—But Is It Worth It?
@@ -112,6 +124,11 @@ All water contains dissolved minerals. Fertilizer adds more. Over time, these sa
 Top watering flushes salts out through the bottom drainage holes. Bottom watering doesn't flush anything—it just moves water around inside the closed system of the pot.
 
 **If you only bottom water, you'll eventually get salt buildup.** Even if you love bottom watering, do a monthly top water with thorough flushing to keep salts from accumulating.
+
+<figure style="margin:16px 0;">
+  <img src="/images/plants-not-for-bottom-watering.png" alt="Large pots and deep-rooted plants that don't benefit from bottom watering" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Big pots, deep roots, and rush jobs — save bottom watering for the plants that actually benefit.</figcaption>
+</figure>
 
 ---
 
@@ -246,3 +263,14 @@ Want a complete breakdown of watering fundamentals? Check out [our complete wate
 ---
 
 *Bottom watering your African violets and still seeing problems? Our [troubleshooting guide](/blog/overwatering-underwatering.md) helps you figure out if you're overdoing it—or if something else is wrong.*
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

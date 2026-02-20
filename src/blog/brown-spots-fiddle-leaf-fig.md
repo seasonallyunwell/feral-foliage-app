@@ -27,6 +27,11 @@ Before we dive in: **Fiddle Leaf Figs are dramatic.** They'll drop three leaves 
 
 The key is **pattern recognition**. Where are the spots? How big are they? What's the color? These clues tell you exactly what's happening.
 
+<figure style="margin:16px 0;">
+  <img src="/images/brown-spots-fiddle-leaf-fig-diagnosis.png" alt="Infographic showing different brown spot patterns on fiddle leaf figs" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Match the pattern: yellow halos scream root rot, crisp edges mean drought, pinholes point to pests.</figcaption>
+</figure>
+
 ---
 
 ## The Main Culprits: What's Causing Those Spots?
@@ -56,6 +61,11 @@ Root rot happens when roots sit in water too long. Fiddle Leaf Figs like to dry 
 - Always check soil before watering—stick your finger in
 - Use a pot with drainage holes (terracotta is great)
 - In winter, water less frequently
+
+<figure style="margin:16px 0;">
+  <img src="/images/brown-spots-fiddle-leaf-fig-roots.png" alt="Comparison of healthy white fiddle leaf fig roots and rotted brown roots" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Healthy roots are firm and pale—brown mushy roots confirm root rot as the culprit.</figcaption>
+</figure>
 
 ---
 
@@ -268,5 +278,16 @@ Brown spots on your Fiddle Leaf Fig aren't a death sentence—they're a message.
 - [Root Rot Treatment & Prevention](/blog/treat-root-rot)
 - [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
 - [Brown Tips on Houseplants](/blog/brown-tips)
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

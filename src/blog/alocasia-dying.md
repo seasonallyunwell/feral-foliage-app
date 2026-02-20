@@ -52,6 +52,11 @@ If your Alocasia is dying, overwatering is the prime suspect in most cases. Thes
 
 > Pro tip: If you're second-guessing your watering, read our [how to tell when to water your plants](/blog/drooping-plant/) guide.
 
+<figure style="margin:16px 0;">
+  <img src="/images/alocasia-overwatering.png" alt="Comparison of soaked vs properly dried Alocasia soil in moisture meter" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">If the meter still reads wet, wait—your Alocasia would rather dry out halfway than sit soggy.</figcaption>
+</figure>
+
 ### 2. Underwatering - Leaves Drooping and Curling
 
 Just as dangerous as overwatering, underwatering causes an Alocasia to decline rapidly. These plants are thirsty—and they'll let you know.
@@ -84,6 +89,11 @@ Here's where many plant parents struggle: **Alocasias need 60-80% humidity minim
 - Consider a terrarium or glass cabinet for severe cases
 
 Need more details? Our [humidity guide](/blog/humidity/) has everything you need.
+
+<figure style="margin:16px 0;">
+  <img src="/images/alocasia-humidity.png" alt="Alocasia next to humidifier, grouped plants, and pebble tray" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Humidifiers and pebble trays pull their weight—Alocasia wants rainforest air, not apartment dryness.</figcaption>
+</figure>
 
 ### 4. Incorrect Lighting - Too Much or Too Little
 
@@ -133,6 +143,11 @@ Root rot is what happens when overwatering goes on too long—roots die and deca
 7. Consider using a pot with better drainage or a terracotta pot
 
 Need a soil upgrade? Our [best pots for plants](/blog/best-pots/) guide has recommendations.
+
+<figure style="margin:16px 0;">
+  <img src="/images/alocasia-root-rot.png" alt="Diagram labeling healthy vs rotting Alocasia roots once unpotted" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Healthy roots are firm and pale—anything black and mushy needs to be cut away before repotting.</figcaption>
+</figure>
 
 ### 7. Pest Infestations - Hidden Invaders
 
@@ -240,6 +255,11 @@ Recovery depends on the severity of the problem:
 
 Patience is key. Alocasias are slow to recover but can make remarkable comebacks once healthy again.
 
+<figure style="margin:16px 0;">
+  <img src="/images/alocasia-recovery.png" alt="Timeline of Alocasia producing new leaves after severe pruning" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Recovery takes weeks—track new growth unfurling to stay motivated.</figcaption>
+</figure>
+
 ---
 
 ## Signs Your Alocasia Is Making a Comeback
@@ -299,5 +319,16 @@ These tropical divas demand a bit more attention than your average pothos—but 
 ---
 
 *Got a different plant drama? Check out our guides on [brown tips](/blog/brown-tips/), [calathea crispy edges](/blog/calathea-crispy-edges/), or [fungus gnats](/blog/fungus-gnats/) for more plant-saving tips.*
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

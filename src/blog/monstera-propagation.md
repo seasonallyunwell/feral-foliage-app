@@ -32,6 +32,12 @@ Based on community data and our own testing:
 - **Light:** Bright indirect light promotes rooting
 - **Cutting health:** Use healthy stems, not diseased or stressed ones
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/monstera-propagation-hero.png" alt="Monstera cutting with node ready for propagation" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">A clean cut below the node is step one—everything else follows from getting this right.</figcaption>
+</figure>
+
 ---
 
 ## Water Propagation
@@ -207,5 +213,15 @@ Based on community data and our own testing:
 - Patience
 
 <p class="meta">Last updated: 2026-02-06</p>
+
+</div>
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

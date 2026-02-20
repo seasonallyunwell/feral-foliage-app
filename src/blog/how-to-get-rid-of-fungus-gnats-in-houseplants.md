@@ -13,7 +13,7 @@ author: "Rue"
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">Those tiny flying jerks ruining your plants? Here's exactly how to murder fungus gnats—with ranked methods, timeline expectations, and the stuff the internet gets wrong.</p>
 
-<img src="/images/fungus-gnats-hero.png" alt="Close-up of a houseplant pot with yellow sticky traps catching tiny flying fungus gnats" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/how-to-get-rid-of-fungus-gnats-in-houseplants-hero.png" alt="Close-up of a houseplant pot with yellow sticky traps catching tiny flying fungus gnats" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
 <strong>TL;DR:</strong> To get rid of fungus gnats, you need to attack from two angles: kill adults with sticky traps to stop egg-laying, and kill larvae in soil with hydrogen peroxide (1:4 ratio) or mosquito bits. Full eradication takes 2-3 weeks because you have to break the life cycle—adults live about a week, but eggs hatch every 3 days.
@@ -40,6 +40,11 @@ Fungus gnats go through four stages: egg, larva, pupa, and adult. The entire cyc
 **Adults** emerge and immediately mate. The females start laying eggs within 48 hours of emerging. And then the whole terrible cycle starts again.
 
 This is why you can't just kill the adults and expect to be done. If any eggs or larvae remain, you'll have a new generation within weeks. The life cycle is the reason most people fail to eradicate fungus gnats—they stop treatment too early.
+
+<figure style="margin:16px 0;">
+  <img src="/images/fungus-gnat-lifecycle-2.png" alt="Diagram of fungus gnat life cycle from egg to adult" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Egg → larva → pupa → adult takes about four weeks—treat every stage or they bounce back.</figcaption>
+</figure>
 
 ### Where They Come From (It's Not Your Fault... Mostly)
 
@@ -110,6 +115,11 @@ Mosquito bits contain Bacillus thuringiensis israelensis (Bti), a naturally occu
 Sprinkle the granules on top of your soil according to package directions, then water them in. Alternatively, you can make a "tea" by soaking the bits in water for 30 minutes and using that water to water your plants.
 
 Mosquito bits are effective, but they're not instant. It takes 24-48 hours for the bacteria to work. This is why combining bits with sticky traps gives you the best results—you kill adults immediately while waiting for the bits to kill larvae.
+
+<figure style="margin:16px 0;">
+  <img src="/images/fungus-gnat-treatment-flatlay.png" alt="Flat lay of sticky traps, peroxide mixture, mosquito bits, and yellow cards" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Sticky traps + peroxide drenches + mosquito bits = the combo that actually ends a gnat infestation.</figcaption>
+</figure>
 
 ---
 
@@ -252,6 +262,11 @@ Adults are harmless, but larvae feed on fine root hairs, reducing nutrient uptak
 
 Let soil dry more between waterings, quarantine new plants for 2 weeks, inspect potting mix before use, and avoid leaving standing water in saucers. The key is making your soil less attractive for egg-laying while staying vigilant about new plant introductions.
 
+<figure style="margin:16px 0;">
+  <img src="/images/watering-for-gnat-prevention.png" alt="Watering schedule chart showing dry soil thresholds to prevent gnats" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Keep the top couple inches dry between waterings and gnats stop seeing your pots as day care.</figcaption>
+</figure>
+
 ---
 
 ## Related Guides
@@ -265,3 +280,14 @@ Let soil dry more between waterings, quarantine new plants for 2 weeks, inspect 
 ---
 
 *Still fighting fungus gnats? The key is consistency. Treat for the full three weeks, even when you think they're gone. The life cycle will get you if you stop early.*
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

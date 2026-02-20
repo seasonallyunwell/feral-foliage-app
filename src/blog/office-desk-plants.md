@@ -63,6 +63,11 @@ Be honest about your schedule. A plant that matches your idealized plant parent 
 
 If your desk is more cave than conservatory, these are your options:
 
+<figure style="margin:16px 0;">
+  <img src="/images/office-desk-plants-low-light.png" alt="Low light office desk with snake plant and ZZ plant" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Match the plant to the light you actually have—not the light you wish you had.</figcaption>
+</figure>
+
 ### Snake Plant (Sansevieria / Dracaena trifasciata)
 
 The survivor. Tolerates everything: low light, irregular watering, temperature fluctuations, neglect.
@@ -106,6 +111,11 @@ The flexible one. Actually prefers bright indirect light but tolerates low light
 ## Best Pet-Friendly Desk Plants
 
 If your office has a pet policy or coworkers bring furry visitors, these won't send anyone to the vet. See our [Pet Safe Plants](/blog/pet-safe-plants/) guide for more options.
+
+<figure style="margin:16px 0;">
+  <img src="/images/office-desk-plants-pet-friendly.png" alt="Non-toxic desk plants safe for office pets" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Pet-friendly picks keep curious office mascots safe.</figcaption>
+</figure>
 
 ### Spider Plant (Chlorophytum comosum)
 
@@ -192,6 +202,11 @@ You have actual work to do. Here's a care routine that fits around your job:
 - Look for pests hiding under leaves
 - Assess if plant needs repotting
 
+<figure style="margin:16px 0;">
+  <img src="/images/office-desk-plants-watering.png" alt="Weekly, bi-weekly, monthly desk plant care checklist" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Screenshot this checklist—it's the bare minimum to keep desk plants alive.</figcaption>
+</figure>
+
 ### The Vacation Problem
 
 One week without watering kills most desk plants. Solutions:
@@ -246,3 +261,14 @@ Start with a snake plant. It's boring, but it won't die, and that's the entire p
 ---
 
 *Want more hard-to-kill options? Check out our [Easiest Houseplants](/blog/easiest-houseplants/) guide for plants that survive neglect.*
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

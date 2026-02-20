@@ -34,6 +34,11 @@ Water flows through the soil. Without holes:
 
 **Root rot is the number one killer of houseplants.** Bad drainage is the number one cause of root rot.
 
+<figure style="margin:16px 0;">
+  <img src="/images/pot-drainage-diagram.png" alt="Cross-section diagram showing drainage hole placement and gravel layer in a pot" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Drainage holes + a gravel layer at the bottom keeps roots out of standing water.</figcaption>
+</figure>
+
 ---
 
 ### Pots WITH Drainage Holes
@@ -271,3 +276,14 @@ When repotting, only go up 1-2 inches in diameter.
 
 *Ready to repot? Check our [How to Repot](/blog/how-to-repot/) guide for step-by-step instructions.*
 
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

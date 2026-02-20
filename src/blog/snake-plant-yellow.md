@@ -11,6 +11,8 @@ Your snake plant was supposed to be bulletproof. The plant that survives neglect
 
 Here's the thing: yellow leaves aren't random. Your snake plant is trying to tell you something, and once you know what to look for, fixing it is usually straightforward.
 
+<img src="/images/snake-plant-yellow-hero.png" alt="Snake plant with yellowing lower leaves next to healthy green growth" style="width:100%;border-radius:10px;margin:16px 0">
+
 ## TL;DR
 
 - **Overwatering** is the #1 cause—snake plants hate wet feet
@@ -39,6 +41,11 @@ Snake plants are succulents. They store water in those thick, handsome leaves an
 
 Get your watering schedule sorted. During growing season (spring/summer), every 2-3 weeks is plenty. In winter, monthly might be too often for some homes.
 
+<figure style="margin:16px 0;">
+  <img src="/images/snake-plant-care.png" alt="Snake plant watering guide showing soil dryness levels" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Use soil dryness—not the calendar—to decide when your snake plant needs water.</figcaption>
+</figure>
+
 ---
 
 ## Root Rot: The Silent Killer
@@ -57,6 +64,11 @@ Your snake plant's roots should be firm and white or light tan. If they're brown
 7. Wait at least a week before watering
 
 Prevention is easier than the cure. Always use pots with drainage holes. Never let water sit in the saucer. And for the love of all things green, check soil moisture before watering.
+
+<figure style="margin:16px 0;">
+  <img src="/images/snake-plant-roots.png" alt="Side-by-side photo of healthy white snake plant roots and rotting brown roots" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Healthy snake plant roots are firm and pale—anything brown and mushy needs to go.</figcaption>
+</figure>
 
 ---
 
@@ -188,3 +200,14 @@ If you've ruled out overwatering and your plant still looks off, check for pests
 - [Plant ER: Quick Diagnosis Guide](/blog/plant-er/)
 - [Overwatering vs. Underwatering](/blog/overwatering-underwatering/)
 - [How to Repot Your Plants Right](/blog/how-to-repot/)
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

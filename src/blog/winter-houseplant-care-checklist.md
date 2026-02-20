@@ -50,6 +50,12 @@ November is the polite transition nobody told you about. Your plants are slowly 
 
 **Why it matters:** Plants are entering their transition phase. Less light = slower growth = less water demand. Miss this shift and you'll be dealing with [overwatering vs. underwatering](/blog/overwatering-underwatering/) issues by December.
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/winter-houseplant-finger-test.png" alt="Finger test checking soil moisture in a houseplant pot during winter" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">The finger test never lies—if the top inch is still damp, put the watering can down.</figcaption>
+</figure>
+
 ---
 
 ## December: Deep Winter Begins
@@ -70,6 +76,11 @@ Welcome to the desert season. Your furnace is running, the air is drier than a p
 
 **Common mistake:** Misting leaves like it does something. It doesn't. You're just making the surface wet for 5 minutes while the air around the plant remains bone-dry. If you want real humidity, [fix your brown tips](/blog/brown-tips/) by addressing the actual problem.
 
+<figure style="margin:16px 0;">
+  <img src="/images/winter-houseplant-humidity-solutions.png" alt="Humidifier and pebble trays set up near houseplants in winter" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Heating dries the air fast—humidifiers and pebble trays keep your plants from crisping.</figcaption>
+</figure>
+
 ---
 
 ## January: Survival Mode
@@ -89,6 +100,12 @@ January is the cold, dark month where your plants are essentially napping. They'
 **Dormant vs. dying—this is important:** If your plant has no new growth but stems are firm and leaves aren't dropping like confetti, it's dormant. If stems are mushy, leaves are yellowing or falling off, or roots smell like rot, that's a problem. Learn the difference before you panic-repot something that's just taking a winter nap.
 
 If your plant is dropping leaves and you're not sure why, [check our guide on leaves falling off](/blog/leaves-falling-off/) before you assume the worst.
+
+
+<figure style="margin:16px 0;">
+  <img src="/images/winter-houseplant-roots.png" alt="Healthy white roots vs cold-damaged brown roots in winter" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Check roots when repotting—white and firm means healthy; brown and mushy means cold damage.</figcaption>
+</figure>
 
 ---
 
@@ -188,5 +205,16 @@ Bookmark this page. Set monthly reminders. Your plants will thank you by not dyi
 ---
 
 *Struggling with a specific winter problem? Check out our guides on [brown tips](/blog/brown-tips/), [overwatering issues](/blog/overwatering-underwatering/), [leaves falling off](/blog/leaves-falling-off/), and [treating root rot](/blog/treat-root-rot/) for more targeted help.*
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

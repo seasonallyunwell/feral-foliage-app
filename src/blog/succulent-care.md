@@ -54,6 +54,11 @@ This is the gold standard for succulent watering:
 
 When you water, water deeply. A light sprinkle just encourage weak surface roots.
 
+<figure style="margin:16px 0;">
+  <img src="/images/succulent-care-watering.png" alt="Succulent watering schedule infographic showing soak-and-dry timeline" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Soak, wait until bone-dry, repeat. That's it. Screenshot it if you must.</figcaption>
+</figure>
+
 ### Signs You're Messing It Up
 
 **Overwatering:**
@@ -101,6 +106,11 @@ If your succulent is more than 3 feet from a window, it's probably not getting e
 
 Moving a succulent from low to bright light? Do it gradually — they need to acclimate, or they'll burn.
 
+<figure style="margin:16px 0;">
+  <img src="/images/succulent-care-etiolation.png" alt="Compact succulent vs etiolated stretched succulent comparison" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Stretchy pale growth = not enough light. Compact colorful rosettes = you nailed it.</figcaption>
+</figure>
+
 ### Low-Light Apartments
 
 If you live in a cave (no good windows), you have two options:
@@ -140,6 +150,11 @@ The goal is fast drainage. Water should pour through and drain out within second
 No exceptions. No "but it looks so cute in this cachepot." If there's no hole, water sits at the bottom and roots rot.
 
 Use a nursery pot that fits inside your decorative pot if you must.
+
+<figure style="margin:16px 0;">
+  <img src="/images/succulent-care-soil-pots.png" alt="Cross-section showing fast-draining succulent soil and terracotta pot" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Fast-draining mix + terracotta + drainage holes is the holy trinity of succulent pots.</figcaption>
+</figure>
 
 ---
 
@@ -244,3 +259,14 @@ Fix those three things and your succulents will thrive. They're still the easies
 *Want more hard-to-kill plants? Check out our [Easiest Houseplants for Beginners](/blog/easiest-houseplants/) guide — plants that actually tolerate neglect.*
 
 *Got a succulent that's struggling? Drop by our [Troubleshooting Hub](/blog/troubleshooting/) for diagnosis help.*
+
+---
+
+## Products We Love
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential for getting watering right
+- **[Quality Potting Mix](https://amzn.to/4iMKpPL)** - Well-draining for healthy roots
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

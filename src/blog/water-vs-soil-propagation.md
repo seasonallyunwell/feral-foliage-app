@@ -239,3 +239,14 @@ Plant a cutting directly into soil. Roots grow in the soil from day one.
 
 *Ready to propagate? Check our [Propagation Guide](/blog/propagation-guide/) for more details.*
 
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

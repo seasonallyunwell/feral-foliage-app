@@ -189,3 +189,14 @@ If you want anything else: Get a grow light. It's cheaper than repeatedly killin
 ---
 
 *Need help diagnosing what's killing your plants? Start with our [Troubleshooting Guide](/blog/plant-er/). Light problems often look like watering problems — learn to tell the difference.*
+
+---
+
+## Products We Love
+
+- **[Dr. Moisture Meter](https://amzn.to/4gHxmMk)** - Essential for learning your plant's needs
+- **[Quality Potting Mix](https://amzn.to/4iMKpPL)** - Well-draining mix for healthy roots
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

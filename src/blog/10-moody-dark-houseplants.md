@@ -51,6 +51,11 @@ The Raven ZZ is the entrance drug for dark plant addicts. It's got near-black, a
 
 **Styling:** Works anywhere. Bedroom, living room, bathroom that doesn't get much light. Pairs beautifully with light-colored walls or white ceramic pots.
 
+<figure style="margin:16px 0;">
+  <img src="/images/10-moody-dark-houseplants-raven-zz.png" alt="Close-up of Raven ZZ leaves showing glossy near-black foliage with fresh lime growth" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Raven ZZ new growth emerges lime before curing into that inky finish.</figcaption>
+</figure>
+
 ---
 
 ### 2. Black Velvet Alocasia — Difficulty: Advanced
@@ -68,6 +73,11 @@ Look, I'm not going to pretend this plant is easy. It's not. But it's also one o
 **Styling:** Keep it somewhere you can see it up close. A shelf, a bedside table, somewhere the velvety texture is visible. This isn't a plant you tuck in a corner.
 
 > <strong>Pro tip:</strong> Alocasia go dormant in winter. If leaves die back, don't panic—they'll come back in spring. This is normal, not failure.
+
+<figure style="margin:16px 0;">
+  <img src="/images/10-moody-dark-houseplants-black-velvet.png" alt="Black Velvet Alocasia leaf showing velvety texture and bright white venation" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Black Velvet Alocasia: those chalk-white veins are why we put up with the drama.</figcaption>
+</figure>
 
 ---
 
@@ -132,6 +142,11 @@ Here's your entry-level dark plant. The Burgundy Rubber Plant has deep, wine-col
 **Why it works:** Big, bold, architectural leaves that make an impact. It's the "dark plant for people who kill plants" that still looks expensive.
 
 **Styling:** Floor plant. This gets big—3-4 feet easily indoors. Put it in a corner, next to a couch, anywhere you need height. Works in living rooms, bedrooms, entryways.
+
+<figure style="margin:16px 0;">
+  <img src="/images/10-moody-dark-houseplants-burgundy-rubber.png" alt="Burgundy rubber plant with deep wine leaves in a neutral ceramic pot" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Burgundy rubber plant leaves read almost black in low light but glow wine-red near a window.</figcaption>
+</figure>
 
 ---
 
@@ -213,6 +228,12 @@ Here's where most people mess up. You can't just put one dark plant in a room an
 
 **Consider the pot.** White, cream, or natural terracotta pots let dark plants shine. Black pots on dark plants = visual void. Don't do it.
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/leaf-moody.png" alt="Close-up of a dark moody leaf with dramatic lighting" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Dark foliage photographs like a dream—lean into the drama.</figcaption>
+</figure>
+
 ---
 
 ## Care Tips for Dark Foliage Plants
@@ -257,3 +278,14 @@ Ready to explore more dark-space-friendly options? Check out our [best low light
 ---
 
 *Want to level up your plant care game? Read our [watering guide](/blog/watering-guide/) to stop killing plants with kindness.*
+
+---
+
+## Products We Love
+
+- **[Dr. Moisture Meter](https://amzn.to/4gHxmMk)** - Essential for learning your plant's needs
+- **[Quality Potting Mix](https://amzn.to/4iMKpPL)** - Well-draining mix for healthy roots
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

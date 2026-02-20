@@ -213,3 +213,14 @@ Match your care to the season, and you'll avoid 80% of houseplant problems.
 
 *Need help with specific problems year-round? Check our [Plant ER](/blog/plant-er/) for troubleshooting.*
 
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

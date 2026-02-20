@@ -35,6 +35,12 @@ description: Bedroom plants, bathroom plants, office plants, and dark corner sol
 - Strongly scented plants (some hoyas can be overpowering at night)
 - Plants that drop lots of leaves (messy in sleeping space)
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/indoor-jungle.png" alt="Lush indoor jungle with plants filling every corner of a bright room" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Every room has a plant personality—match the right species to the right space.</figcaption>
+</figure>
+
 ---
 
 ## Bathroom Plants
@@ -182,3 +188,14 @@ South-facing windows can get 85°F+ in summer. Monitor for heat stress and water
 
 *Need help diagnosing plant problems? Check our [Plant ER](/blog/plant-er/).*
 
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

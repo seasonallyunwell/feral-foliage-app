@@ -197,3 +197,20 @@ Going on vacation? These slowly release water over 1-2 weeks. Not perfect, but b
 <p class="meta">Last updated: 2026-02-04</p>
 
 </div>
+
+
+<figure style="margin:16px 0;">
+  <img src="/images/watering-methods-comparison.png" alt="Visual comparison of top watering, bottom watering, and self-watering methods" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Top, bottom, and self-watering each have their sweet spot—match the method to the plant.</figcaption>
+</figure>
+
+---
+
+## Products We Recommend
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Takes the guesswork out of watering
+- **[Premium Potting Mix](https://amzn.to/4iMKpPL)** - Gives plants the drainage they need
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

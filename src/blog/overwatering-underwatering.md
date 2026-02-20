@@ -123,3 +123,14 @@ The best way to fix watering issues is to **water based on the plant's needs, no
 - [How to Treat Root Rot](/blog/treat-root-rot)
 
 </div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

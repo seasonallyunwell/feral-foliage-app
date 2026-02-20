@@ -119,3 +119,14 @@ Affordable way to light an entire shelf unit.
 | Ferns | Low to Med | Bright indirect works, no direct |
 
 </div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

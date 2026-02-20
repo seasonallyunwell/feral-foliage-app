@@ -102,3 +102,14 @@ This gear isn't for everyone. But if you are serious about turning your home int
 - [Aesthetic Gear Guide](/blog/aesthetic-gear)
 
 </div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

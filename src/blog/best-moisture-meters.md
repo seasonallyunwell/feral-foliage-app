@@ -104,3 +104,15 @@ For $15, a moisture meter is a useful training wheel. It helps you learn the "fe
 - [Signs of Overwatering vs Underwatering](/blog/overwatering-underwatering)
 
 </div>
+
+---
+
+## Our Favorite Moisture Meters
+
+We use these products ourselves and recommend them:
+
+- **[Dr. Meter Soil Moisture Meter](https://amzn.to/4gHxmMk)** - Affordable, no batteries needed, works great for most houseplants
+- **[XLUX Soil Moisture Meter](https://amzn.to/3ZyHQRk)** - Simple analog design, very reliable, no batteries required
+- **[Govee WiFi Soil Moisture Sensor](https://amzn.to/4iKkLxM)** - Digital option with app alerts for your smartphone
+
+*We may earn a commission from Amazon links above - thanks for supporting Feral Foliage!*

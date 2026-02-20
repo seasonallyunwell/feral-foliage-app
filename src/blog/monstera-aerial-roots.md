@@ -111,3 +111,14 @@ If the look truly bothers you, the cleanest aesthetic is usually a moss pole wit
 - [When Will My Monstera Fenestrate?](/blog/monstera-fenestrations)
 
 </div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
+
+</div>

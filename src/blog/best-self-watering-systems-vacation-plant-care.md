@@ -13,7 +13,7 @@ author: "Feral Foliage"
 
 <p style="margin:0 0 16px 0;color:#a7a7a7">Leave your plants knowing they'll survive while you're gone</p>
 
-<img src="/images/self-watering-vacation-hero.png" alt="Various self-watering systems for houseplants: wicking stakes, self-watering pots, and smart watering devices" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/best-self-watering-systems-for-vacation-plant-care-hero.png" alt="Various self-watering systems for houseplants: wicking stakes, self-watering pots, and smart watering devices" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
 <strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
@@ -79,6 +79,11 @@ These are the classic glass bulbs you fill with water and stick in the soil. Wat
 
 **Best for:** Small potted plants, short trips, as backup to other methods
 
+<figure style="margin:16px 0;">
+  <img src="/images/self-watering-globes.png" alt="Watering globes inserted in small terracotta pots" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Watering globes drip-feed moisture for a week or so—perfect for long weekends away.</figcaption>
+</figure>
+
 ---
 
 ### Wicking Stakes
@@ -124,6 +129,11 @@ Save your wine bottles, fill with water, invert into soil. The soil draws water 
 - Not the prettiest
 
 **Best for:** Budget-conscious plant parents, medium pots
+
+<figure style="margin:16px 0;">
+  <img src="/images/wine-bottle-watering.png" alt="Upside-down wine bottles irrigating a grouping of plants" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Last-minute getaway? Flip a wine bottle into a watering spike and buy yourself a week.</figcaption>
+</figure>
 
 ---
 
@@ -231,6 +241,11 @@ Professional-grade drip system you can program and control from your phone.
 - Overkill for 5 plants
 
 **Best for:** Serious plant collectors, large collections, tech enthusiasts
+
+<figure style="margin:16px 0;">
+  <img src="/images/drip-irrigation-system.png" alt="Smart drip irrigation tubing feeding multiple houseplants" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Smart drip kits keep entire plant walls alive while you check the schedule from your phone.</figcaption>
+</figure>
 
 ---
 
@@ -362,5 +377,16 @@ Even with self-watering, having a backup human check-in can save expensive plant
 ---
 
 <p class="meta">Last updated: 2026-02-11</p>
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

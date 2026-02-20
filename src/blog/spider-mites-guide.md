@@ -19,6 +19,12 @@ author: "Feral Foliage"
 <strong>TL;DR:</strong> Spider mites are microscopic arachnids that suck plant sap and reproduce at terrifying speed. Found them? Quarantine immediately, blast with water, treat with neem oil or insecticidal soap, and repeat every 5-7 days for 2-4 weeks. Prevention: keep humidity high, inspect regularly, quarantine new plants. Some plants are basically spider mite magnets — know which ones to watch.
 </div>
 
+
+<figure style="margin:16px 0;">
+  <img src="/images/spider-mites-macro.png" alt="Macro close-up of spider mites and their webbing on a leaf underside" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Those tiny dots and fine webbing on leaf undersides are the calling card of spider mites.</figcaption>
+</figure>
+
 ---
 
 ## What Are Spider Mites, Actually?
@@ -281,5 +287,16 @@ You got this. These tiny jerks are beatable.
 *Want more pest-fighting intel? Check out our [Pest ID Guide](/blog/pest-id/) for identifying other uninvited guests, or grab our [Pest Control Kit](/blog/pest-control-kit/) for the products you need.*
 
 *Humidity keeping your plants happy? Our [Humidity Guide](/blog/humidity/) has everything you need to know.*
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

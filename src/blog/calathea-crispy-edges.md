@@ -55,6 +55,11 @@ Quick humidity wins:
 - Run a humidifier near your plants
 - Move them to a bathroom or kitchen (naturally more humid rooms)
 
+<figure style="margin:16px 0;">
+  <img src="/images/calathea-humidity-solutions.png" alt="Calathea setup with humidifier, pebble tray, and grouped plants" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Humidifier + pebble tray + plant cluster = the trifecta for happy calatheas.</figcaption>
+</figure>
+
 ---
 
 ### Tap Water Quality Issues
@@ -67,6 +72,11 @@ Calatheas are incredibly sensitive to the minerals and chemicals in tap water. F
 - Affected leaves across the plant, not just old ones
 
 **The fix:** Switch to filtered, distilled, or rainwater. If you only have tap water, let it sit out overnight to off-gas some chlorine, but that doesn't remove the minerals. A basic TDS meter can tell you if your water is in the safe zone — under 100 ppm is ideal.
+
+<figure style="margin:16px 0;">
+  <img src="/images/calathea-water-quality-test.png" alt="TDS meter testing tap water vs filtered water" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">A cheap TDS meter shows you exactly why your calathea hates your tap water.</figcaption>
+</figure>
 
 ---
 
@@ -195,6 +205,11 @@ Okay, here's where I give you permission to be a little aggressive. Those crispy
 
 **Pro tip:** Clean your scissors with rubbing alcohol between plants to avoid spreading any potential issues.
 
+<figure style="margin:16px 0;">
+  <img src="/images/calathea-trimming-crispy-edges.png" alt="Step-by-step trimming of calathea leaf edges" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Trim along the natural curve and leave a hairline of brown for the cleanest look.</figcaption>
+</figure>
+
 ---
 
 ## Prevention Protocol — Keep Crispy Edges From Returning
@@ -254,5 +269,16 @@ The real secret? Accept that calatheas are high-maintenance. If you can keep the
 ---
 
 *Want more help with troubleshooting? Check out our [humidity guide](/blog/humidity/) for solutions that actually work, or dive into our [watering guide](/blog/watering-guide/) to master your watering routine. If you're not sure whether you're overwatering or underwatering, our [overwatering vs underwatering](/blog/overwatering-underwatering/) decision tree will help you figure it out.*
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>

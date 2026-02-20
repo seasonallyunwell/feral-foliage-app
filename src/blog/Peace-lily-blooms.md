@@ -51,6 +51,11 @@ Let me break down what's happening:
 
 Here's your action plan:
 
+<figure style="margin:16px 0;">
+  <img src="/images/peace-lily-blooms-5steps.png" alt="Peace lily bloom checklist infographic" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Light, water, food, warmth, and a slightly tight pot—that's the real bloom recipe.</figcaption>
+</figure>
+
 ### 1. Give It Bright Indirect Light
 
 **This is the #1 factor.** Peace lilies are low-light tolerant, but they won't bloom in a dark corner.
@@ -60,6 +65,11 @@ Here's your action plan:
 - If your plant hasn't bloomed in years, light is probably why
 
 > **Pro tip:** If your peace lily has grown lots of big dark green leaves but no flowers, it's basically saying "I'm too comfortable in this low-light spot." Give it more light and it'll start working on reproduction.
+
+<figure style="margin:16px 0;">
+  <img src="/images/peace-lily-blooms-light-comparison.png" alt="Peace lily side-by-side in low light vs bright indirect light" style="width:100%;border-radius:10px;">
+  <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Bright indirect light = blooms; dark corners = endless leaves.</figcaption>
+</figure>
 
 ### 2. Water Consistently (Not Excessively)
 
@@ -185,5 +195,16 @@ But if you want those white spathes, now you know what to do.
 ---
 
 *Want more bloom-boosting tips? Check out our [fertilizer guide](/blog/fertilizer-guide/) for feeding schedules that actually work. Need more light info? Our [light guide](/blog/light-guide/) covers everything from low to bright indirect. Got a peace lily that's more drama queen than blooming beauty? Our [watering guide](/blog/watering-guide/) will help you figure out if it's thirsty or just dramatic.*
+
+</div>
+
+---
+
+## Our Picks
+
+- **[Moisture Meter](https://amzn.to/4gHxmMk)** - Essential tool
+- **[Potting Mix](https://amzn.to/4iMKpPL)** - Quality soil
+
+*We may earn a commission from Amazon links - thanks for supporting Feral Foliage!*
 
 </div>
