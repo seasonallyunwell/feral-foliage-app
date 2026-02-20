@@ -73,11 +73,6 @@ permalink: /blog/
         <p>The essentials to prevent the most common plant disasters.</p>
       </div>
       <div class="pinned-card">
-        <h3><a href="/blog/pest-control-kit/">Pest Control Starter Kit</a></h3>
-        <div class="meta">Minimal kit • affiliate links</div>
-        <p>What to buy first (and what to skip) to stop pests without nuking your plants.</p>
-      </div>
-      <div class="pinned-card">
         <h3><a href="/blog/level-up-basics/">Level Up Your Basics: Gear Worth the Upgrade</a></h3>
         <div class="meta">Gear upgrades • affiliate links</div>
         <p>When cheap tools aren't cutting it anymore. The gear worth spending more on.</p>
@@ -93,110 +88,39 @@ permalink: /blog/
         <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
       </div>
       <div class="pinned-card">
+        <h3><a href="/blog/best-moisture-meters/">Best Moisture Meters for Houseplants</a></h3>
+        <div class="meta">Tool guide • affiliate links</div>
+        <p>Stop guessing when to water. The best moisture meters tested and ranked.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/best-pruning-shears/">Best Pruning Shears for Houseplants</a></h3>
+        <div class="meta">Tool guide • affiliate links</div>
+        <p>Sharp, clean cuts prevent disease. Here's what actually works.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/best-pots/">Best Pots for Houseplants</a></h3>
+        <div class="meta">Gear guide • drainage • affiliate links</div>
+        <p>The complete guide to choosing the right pot. Drainage holes matter more than you think.</p>
+      </div>
+      <div class="pinned-card">
         <h3><a href="/blog/best-gifts-plant-lovers/">Best Gifts for Plant Lovers</a></h3>
         <div class="meta">Gift guide • affiliate links</div>
         <p>What to buy the plant person in your life. From practical to delightfully weird.</p>
       </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/pest-control-kit/">Pest Control Starter Kit: The Minimal Gear That Works</a></h3>
+        <div class="meta">Pest gear • affiliate links</div>
+        <p>Sticky traps, BTI, insecticidal soap, and a loupe. The short list that actually works.</p>
+      </div>
+      <div class="pinned-card">
+        <h3><a href="/blog/best-online-plant-shops/">Best Online Plant Shops</a></h3>
+        <div class="meta">Shopping guide • curated</div>
+        <p>Where to buy healthy plants online without getting scammed or receiving mush.</p>
+      </div>
     </div>
   </div>
 
-  <h2 class="section-title">Guides</h2>
-
-  <div class="card">
-    <h2><a href="/blog/10-moody-dark-houseplants/">10 Moody Dark Houseplants for a Dramatic Indoor Look</a></h2>
-    <div class="meta">Guide • dark foliage • plant recommendations</div>
-    <p>Dark foliage is having a moment. Here are 10 plants that won't make your space look like a cheerful nursery.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/fertilizer-guide/">Fertilizer Guide — When, What, and How Much</a></h2>
-    <div class="meta">Guide • nutrients • affiliate links</div>
-    <p>The no-nonsense guide to NPK ratios, feeding schedules, and not killing your plants with kindness.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/plant-er/">Plant ER: Troubleshooting Guide</a></h2>
-    <div class="meta">Diagnosis • troubleshooting • affiliate links</div>
-    <p>Yellow leaves? Brown tips? Drooping? Diagnose the problem before it's too late with this symptom checker.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/seasonal-care-calendar/">Seasonal Care Calendar</a></h2>
-    <div class="meta">Guide • seasonal • maintenance</div>
-    <p>A month-by-month checklist of what your houseplants actually need from you right now.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/winter-houseplant-care-checklist/">Winter Houseplant Care Checklist — Keep Plants Alive Through Cold Months</a></h2>
-    <div class="meta">Guide • seasonal • winter care</div>
-    <p>Keep your houseplants alive all winter with this month-by-month checklist. November through March care tips for watering, humidity, light & pest prevention.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/spring-repotting-guide/">Spring Repotting Guide — When & How to Repot Houseplants</a></h2>
-    <div class="meta">Guide • seasonal • repotting</div>
-    <p>Discover why spring is the best time to repot your houseplants. Learn the signs your plant needs repotting, plus our complete spring checklist.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
-    <div class="meta">Guide • grow lights • affiliate links</div>
-    <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/succulent-care/">Succulent Care — The No-Nonsense Guide to Not Killing Them</a></h2>
-    <div class="meta">Guide • succulents • care basics</div>
-    <p>Succulents are marketed as unkillable, but they die in homes every day. Here's how to actually keep them alive.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
-    <div class="meta">Guide • affiliate links</div>
-    <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/bottom-watering-plants-the-complete-guide/">Bottom Watering Plants: When It Helps & When It Doesn't</a></h2>
-    <div class="meta">Guide • watering techniques</div>
-    <p>Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it's useless (large pots).</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/best-self-watering-systems-for-vacation-plant-care/">Best Self-Watering Systems for Vacation Plant Care (2026)</a></h2>
-    <div class="meta">Guide • vacation care • affiliate links</div>
-    <p>Keep your plants alive while you're away. Self-watering systems, globes, and DIY solutions tested and ranked.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
-    <div class="meta">Guide • affiliate links</div>
-    <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/humidity/">Humidity Guide: Why Your Tropicals Hate Your Apartment</a></h2>
-    <div class="meta">Guide • affiliate links • NEW</div>
-    <p>Which plants need humidity, signs they're struggling, and how to actually fix it (spoiler: get a humidifier).</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/pest-id/">Pest ID Guide: What's Eating Your Plant</a></h2>
-    <div class="meta">Pest control • affiliate links</div>
-    <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/pest-control-kit/">Pest Control Starter Kit: The Minimal Gear That Works</a></h2>
-    <div class="meta">Gear guide • affiliate links</div>
-    <p>The short list: sticky traps, BTI, insecticidal soap, and a loupe. Plus add-ons if you're ready to escalate.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/repotting/">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
-    <div class="meta">Calculator • guide • affiliate links</div>
-    <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
-  </div>
+  <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
     <h2><a href="/blog/easiest-houseplants/">10 Easiest Houseplants to Keep Alive</a></h2>
@@ -219,7 +143,7 @@ permalink: /blog/
   <div class="card">
     <h2><a href="/blog/office-desk-plants/">Office Desk Plants: Best Picks for Productivity & Clean Air</a></h2>
     <div class="meta">Guide • desk plants • workspace</div>
-    <p>Find the perfect office desk plants for your workspace. Our expert guide covers low-maintenance, low-light, and pet-friendly options.</p>
+    <p>Find the perfect office desk plants for your workspace. Low-maintenance, low-light, and pet-friendly options.</p>
   </div>
 
   <div class="card">
@@ -235,33 +159,15 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/how-to-repot/">How to Repot a Plant — Step by Step</a></h2>
-    <div class="meta">Care guide • affiliate links</div>
-    <p>The complete guide to repotting houseplants without causing transplant shock or root damage.</p>
+    <h2><a href="/blog/10-moody-dark-houseplants/">10 Moody Dark Houseplants for a Dramatic Indoor Look</a></h2>
+    <div class="meta">Plant picks • dark foliage</div>
+    <p>Dark foliage is having a moment. Here are 10 plants that won't make your space look like a cheerful nursery.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/how-to-prune/">How to Prune Houseplants</a></h2>
-    <div class="meta">Care guide • pruning</div>
-    <p>Pruning isn't just cutting — it's shaping, encouraging, and multiplying your plants the right way.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/drooping-plant/">Why Is My Plant Drooping?</a></h2>
-    <div class="meta">Troubleshooting • diagnosis</div>
-    <p>Drooping isn't always death. Here's how to tell what's wrong and fix it.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/water-vs-soil-propagation/">Water Propagation vs Soil Propagation</a></h2>
-    <div class="meta">Propagation • comparison</div>
-    <p>Step-by-step comparison of propagating houseplants in water versus soil.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/best-pots/">Best Pots for Houseplants</a></h2>
-    <div class="meta">Gear guide • drainage • affiliate links</div>
-    <p>The complete guide to choosing the right pot for your plants. Drainage holes matter more than you think.</p>
+    <h2><a href="/blog/top-10-best-houseplants-for-mental-health/">10 Best Houseplants for Mental Health & Stress Relief</a></h2>
+    <div class="meta">Guide • mental health • stress relief</div>
+    <p>The top houseplants for anxiety, stress relief, and depression. Care routines as mindfulness practices.</p>
   </div>
 
   <div class="card">
@@ -276,86 +182,146 @@ permalink: /blog/
     <p>Your plants aren't trying to kill you. Here are the lies the internet told you.</p>
   </div>
 
-  <div class="card">
-    <h2><a href="/blog/top-10-best-houseplants-for-mental-health/">10 Best Houseplants for Mental Health & Stress Relief</a></h2>
-    <div class="meta">Guide • mental health • stress relief</div>
-    <p>Discover the top 10 houseplants for mental health, including plants for anxiety, stress relief, and depression. Learn care routines as mindfulness practices.</p>
-  </div>
-
-  <h2 class="section-title">More Gear Guides</h2>
+  <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
-    <h2><a href="/blog/aesthetic-gear/">Aesthetic Gear Guide: Stylish Stuff That Actually Works</a></h2>
-    <div class="meta">Gear guide • aesthetic • affiliate links</div>
-    <p>Plant gear that looks good on your shelf and actually helps your plants thrive.</p>
+    <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
+    <div class="meta">Guide • grow lights • affiliate links</div>
+    <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/level-up-basics/">Level Up Your Basics: Gear Worth the Upgrade</a></h2>
-    <div class="meta">Gear guide • upgrades • affiliate links</div>
-    <p>When cheap tools aren't cutting it anymore. The gear worth spending more on.</p>
+    <h2><a href="/blog/humidity/">Humidity Guide: Why Your Tropicals Hate Your Apartment</a></h2>
+    <div class="meta">Guide • affiliate links</div>
+    <p>Which plants need humidity, signs they're struggling, and how to actually fix it (spoiler: get a humidifier).</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/splurge-edition/">Splurge Edition: Gear Worth the Investment</a></h2>
-    <div class="meta">Gear guide • premium • affiliate links</div>
-    <p>The fancy stuff for serious plant parents. Worth it or just expensive?</p>
+    <h2><a href="/blog/fertilizer-guide/">Fertilizer Guide — When, What, and How Much</a></h2>
+    <div class="meta">Guide • nutrients • affiliate links</div>
+    <p>The no-nonsense guide to NPK ratios, feeding schedules, and not killing your plants with kindness.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/best-moisture-meters/">Best Moisture Meters for Houseplants</a></h2>
-    <div class="meta">Gear guide • tools • affiliate links</div>
-    <p>Stop guessing when to water. The best moisture meters tested and ranked.</p>
+    <h2><a href="/blog/how-to-prune/">How to Prune Houseplants</a></h2>
+    <div class="meta">Care guide • pruning</div>
+    <p>Pruning isn't just cutting — it's shaping, encouraging, and multiplying your plants the right way.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/best-pruning-shears/">Best Pruning Shears for Houseplants</a></h2>
-    <div class="meta">Gear guide • tools • affiliate links</div>
-    <p>Sharp, clean cuts prevent disease. Here's what actually works.</p>
+    <h2><a href="/blog/how-to-repot/">How to Repot a Plant — Step by Step</a></h2>
+    <div class="meta">Care guide • affiliate links</div>
+    <p>The complete guide to repotting houseplants without causing transplant shock or root damage.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/best-online-plant-shops/">Best Online Plant Shops</a></h2>
-    <div class="meta">Shopping guide • online • curated</div>
-    <p>Where to buy healthy plants online without getting scammed or receiving mush.</p>
+    <h2><a href="/blog/succulent-care/">Succulent Care — The No-Nonsense Guide to Not Killing Them</a></h2>
+    <div class="meta">Guide • succulents • care basics</div>
+    <p>Succulents are marketed as unkillable, but they die in homes every day. Here's how to actually keep them alive.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/best-gifts-plant-lovers/">Best Gifts for Plant Lovers</a></h2>
-    <div class="meta">Gift guide • affiliate links</div>
-    <p>What to buy the plant person in your life. From practical to delightfully weird.</p>
+    <h2><a href="/blog/seasonal-care-calendar/">Seasonal Care Calendar</a></h2>
+    <div class="meta">Guide • seasonal • maintenance</div>
+    <p>A month-by-month checklist of what your houseplants actually need from you right now.</p>
   </div>
 
-  <h2 class="section-title">More Troubleshooting</h2>
+  <div class="card">
+    <h2><a href="/blog/winter-houseplant-care-checklist/">Winter Houseplant Care Checklist — Keep Plants Alive Through Cold Months</a></h2>
+    <div class="meta">Guide • seasonal • winter care</div>
+    <p>November through March care tips for watering, humidity, light & pest prevention.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/spring-repotting-guide/">Spring Repotting Guide — When & How to Repot Houseplants</a></h2>
+    <div class="meta">Guide • seasonal • repotting</div>
+    <p>Why spring is the best time to repot. Signs your plant needs it, plus a complete spring checklist.</p>
+  </div>
+
+  <h2 class="section-title">💧 Watering & Soil</h2>
+
+  <div class="card">
+    <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
+    <div class="meta">Guide • affiliate links</div>
+    <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/bottom-watering-plants-the-complete-guide/">Bottom Watering Plants: When It Helps & When It Doesn't</a></h2>
+    <div class="meta">Guide • watering techniques</div>
+    <p>Learn how to bottom water plants the right way. When it actually helps vs when it's useless.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/best-self-watering-systems-for-vacation-plant-care/">Best Self-Watering Systems for Vacation Plant Care (2026)</a></h2>
+    <div class="meta">Guide • vacation care • affiliate links</div>
+    <p>Keep your plants alive while you're away. Self-watering systems, globes, and DIY solutions tested and ranked.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/hydrophobic-soil/">Hydrophobic Soil: Fix It Fast</a></h2>
+    <div class="meta">Troubleshooting • soil issues</div>
+    <p>Water rolls off instead of soaking in? Your soil is hydrophobic. Here's the fix.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/repotting/">Repotting Roulette: Pot Size + Soil Mix Calculator</a></h2>
+    <div class="meta">Calculator • guide • affiliate links</div>
+    <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
+  </div>
+
+  <h2 class="section-title">🔬 Propagation</h2>
+
+  <div class="card">
+    <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
+    <div class="meta">Guide • affiliate links</div>
+    <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/water-vs-soil-propagation/">Water Propagation vs Soil Propagation</a></h2>
+    <div class="meta">Propagation • comparison</div>
+    <p>Step-by-step comparison of propagating houseplants in water versus soil.</p>
+  </div>
+
+  <h2 class="section-title">🐛 Pest Control</h2>
+
+  <div class="card">
+    <h2><a href="/blog/pest-id/">Pest ID Guide: What's Eating Your Plant</a></h2>
+    <div class="meta">Pest control • affiliate links</div>
+    <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
+  </div>
 
   <div class="card">
     <h2><a href="/blog/how-to-get-rid-of-fungus-gnats-in-houseplants/">How to Get Rid of Fungus Gnats in Houseplants (Finally)</a></h2>
-    <div class="meta">Troubleshooting • pest control</div>
-    <p>Those tiny flying jerks ruining your plants? Here's exactly how to murder fungus gnats—with ranked methods, timeline expectations, and the stuff the internet gets wrong.</p>
+    <div class="meta">Pest control • treatment guide</div>
+    <p>Those tiny flying jerks ruining your plants? Ranked methods, timeline expectations, and the stuff the internet gets wrong.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/spider-mites-guide/">Spider Mites: Complete Guide to ID, Treatment & Prevention</a></h2>
+    <div class="meta">Pest control • treatment guide</div>
+    <p>How to identify, treat, and prevent spider mites on houseplants. Emergency protocol, natural remedies, and pro tips.</p>
   </div>
 
   <div class="card">
     <h2><a href="/blog/mealybugs-houseplants/">Mealybugs on Houseplants — Complete Treatment Guide</a></h2>
-    <div class="meta">Troubleshooting • pest control</div>
-    <p>Mealybugs keep coming back? Here's why and how to actually get rid of them for good. Plus: the secret weapon most people miss.</p>
+    <div class="meta">Pest control • treatment guide</div>
+    <p>Mealybugs keep coming back? Here's why and how to actually get rid of them for good.</p>
   </div>
 
   <div class="card">
-    <h2><a href="/blog/why-is-my-snake-plant-turning-yellow/">Why Is My Snake Plant Turning Yellow?</a></h2>
-    <div class="meta">Troubleshooting • snake plant</div>
-    <p>Yellow snake plant leaves can mean overwatering, underwatering, or pests. Here's how to diagnose and fix it.</p>
+    <h2><a href="/blog/quarantine-new-plant/">How to Quarantine a New Plant (14-Day Protocol)</a></h2>
+    <div class="meta">Prevention • pest control</div>
+    <p>Don't let one infected plant take down your entire collection. Quarantine saves lives.</p>
   </div>
 
-  <div class="card">
-    <h2><a href="/blog/brown-spots-on-fiddle-leaf-fig-causes-solutions/">Brown Spots on Fiddle Leaf Fig: Causes & Solutions</a></h2>
-    <div class="meta">Troubleshooting • fiddle leaf fig</div>
-    <p>Brown spots on your fiddle leaf fig? Could be root rot, fungal disease, or pests. Diagnosis guide with photos and fixes.</p>
-  </div>
+  <h2 class="section-title">🩺 Troubleshooting</h2>
 
   <div class="card">
-    <h2><a href="/blog/brown-tips/">Brown Tips on Houseplants: The Real Causes</a></h2>
-    <div class="meta">Troubleshooting • diagnosis</div>
-    <p>Brown tips aren't always underwatering. Here's what's really going on.</p>
+    <h2><a href="/blog/plant-er/">Plant ER: Troubleshooting Guide</a></h2>
+    <div class="meta">Diagnosis • troubleshooting • affiliate links</div>
+    <p>Yellow leaves? Brown tips? Drooping? Diagnose the problem before it's too late with this symptom checker.</p>
   </div>
 
   <div class="card">
@@ -365,9 +331,15 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/hydrophobic-soil/">Hydrophobic Soil: Fix It Fast</a></h2>
-    <div class="meta">Troubleshooting • soil issues</div>
-    <p>Water rolls off instead of soaking in? Your soil is hydrophobic. Here's the fix.</p>
+    <h2><a href="/blog/brown-tips/">Brown Tips on Houseplants: The Real Causes</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>Brown tips aren't always underwatering. Here's what's really going on.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/drooping-plant/">Why Is My Plant Drooping?</a></h2>
+    <div class="meta">Troubleshooting • diagnosis</div>
+    <p>Drooping isn't always death. Here's how to tell what's wrong and fix it.</p>
   </div>
 
   <div class="card">
@@ -382,37 +354,18 @@ permalink: /blog/
     <p>Act fast. Root rot spreads quickly, but it's not always a death sentence.</p>
   </div>
 
-  <div class="card">
-    <h2><a href="/blog/quarantine-new-plant/">How to Quarantine a New Plant (14-Day Protocol)</a></h2>
-    <div class="meta">Prevention • pest control</div>
-    <p>Don't let one infected plant take down your entire collection. Quarantine saves lives.</p>
-  </div>
-
-  
-  <div class="card">
-    <h2><a href="/blog/Peace-lily-blooms/">Peace Lily Not Blooming? Here's How to Get Flowers</a></h2>
-    <div class="meta">Troubleshooting • Peace lily</div>
-    <p>Is your peace lily not blooming? Learn why store-bought plants bloom but yours doesn't, plus simple steps to encourage flowers at home.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/calathea-crispy-edges/">Calathea Crispy Edges: Causes & Fixes to Save Your Plant</a></h2>
-    <div class="meta">Troubleshooting • calathea • humidity</div>
-    <p>Calathea crispy edges? Learn the 6 causes of brown edges and proven fixes. Expert humidity, water quality, and care tips to restore healthy leaves.</p>
-  </div>
-
-  <div class="card">
-    <h2><a href="/blog/alocasia-dying/">Alocasia Dying? 10 Causes & How to Save Your Plant (Expert Guide)</a></h2>
-    <div class="meta">Troubleshooting • alocasia • emergency care</div>
-    <p>Your stunning Alocasia looking worse for wear? Here's exactly why—and how to bring it back from the brink.</p>
-  </div>
-
-<h2 class="section-title">Monstera Guides</h2>
+  <h2 class="section-title">🌿 Monstera Hub</h2>
 
   <div class="card">
     <h2><a href="/blog/monstera-propagation/">Propagating Monstera: Water vs Soil Success Rates</a></h2>
     <div class="meta">Monstera • propagation</div>
     <p>Step-by-step guide to propagating Monsteras. Success rates, pros, cons, and troubleshooting.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/monstera-yellow-leaves/">Why Is My Monstera Turning Yellow?</a></h2>
+    <div class="meta">Monstera • troubleshooting</div>
+    <p>Decode every shade of yellow on your Monstera. Monstera-specific diagnostic guide.</p>
   </div>
 
   <div class="card">
@@ -439,13 +392,7 @@ permalink: /blog/
     <p>The crown jewels of indoor gardening. Compare variegated Monstera types and care needs.</p>
   </div>
 
-  <div class="card">
-    <h2><a href="/blog/monstera-yellow-leaves/">Why Is My Monstera Turning Yellow?</a></h2>
-    <div class="meta">Monstera • troubleshooting</div>
-    <p>Decode every shade of yellow on your Monstera. Monstera-specific diagnostic guide.</p>
-  </div>
-
-  <h2 class="section-title">Pothos Guides</h2>
+  <h2 class="section-title">🪴 Pothos Hub</h2>
 
   <div class="card">
     <h2><a href="/blog/pothos-varieties/">Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade</a></h2>
@@ -458,7 +405,38 @@ permalink: /blog/
     <div class="meta">Pothos • troubleshooting</div>
     <p>Pothos looking more like a bush than a vine? Here's how to get those cascading trails.</p>
   </div>
-</div>
+
+  <h2 class="section-title">🌸 Plant Spotlights</h2>
+
+  <div class="card">
+    <h2><a href="/blog/Peace-lily-blooms/">Peace Lily Not Blooming? Here's How to Get Flowers</a></h2>
+    <div class="meta">Peace lily • blooming</div>
+    <p>Why store-bought peace lilies bloom but yours doesn't, plus simple steps to encourage flowers at home.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/snake-plant-yellow/">Why Is My Snake Plant Turning Yellow? (Causes & Fixes)</a></h2>
+    <div class="meta">Snake plant • troubleshooting</div>
+    <p>Your snake plant's yellow leaves are screaming for help. Here's exactly what's wrong and how to fix it.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/calathea-crispy-edges/">Calathea Crispy Edges: Causes & Fixes to Save Your Plant</a></h2>
+    <div class="meta">Calathea • humidity</div>
+    <p>The 6 causes of brown edges and proven fixes. Expert humidity, water quality, and care tips.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/alocasia-dying/">Alocasia Dying? 10 Causes & How to Save Your Plant (Expert Guide)</a></h2>
+    <div class="meta">Alocasia • emergency care</div>
+    <p>Your stunning Alocasia looking worse for wear? Here's exactly why — and how to bring it back.</p>
+  </div>
+
+  <div class="card">
+    <h2><a href="/blog/brown-spots-fiddle-leaf-fig/">Brown Spots on Fiddle Leaf Fig: Causes & Solutions</a></h2>
+    <div class="meta">Fiddle leaf fig • diagnosis</div>
+    <p>Every cause — from root rot to pests — and a step-by-step fix for your FLF's brown spots.</p>
+  </div>
 
 <div class="footer">
   <p>🌿 Feral Foliage — unapologetically practical plant care</p>
