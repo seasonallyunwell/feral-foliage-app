@@ -92,46 +92,6 @@ Quick humidity wins:
 - Group plants together (they create a microclimate)
 - Use a pebble tray with water
 - Run a humidifier near your plants
-
-<div class="affiliate-cta" style="background: linear-gradient(135deg, #1a472a 0%, #2d5a3d 100%); border-radius: 12px; padding: 24px; margin: 32px 0; border: 1px solid #3d7a52;">
-  <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;">🌫️ Give Your Calathea the Humidity It Craves</h3>
-  <p style="color: #e0e0e0; margin: 0 0 16px 0; line-height: 1.5;">Want to give your calathea the humidity it craves? Here are our tested humidifiers that keep tropical plants happy:</p>
-  
-  <div class="affiliate-products" style="display: grid; gap: 12px;">
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">LEVOIT 6L Ultrasonic</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Top Pick • Cool & Warm Mist • 60hr Runtime</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B09V3KXJPB?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">MIRO NR08M Modular</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Premium • Easiest to Clean • Code: OHIOTROPICS (15% off)</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B08HR3YVGG?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">TaoTronics 4L Cool Mist</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Budget Pick • LED Display • Great for Beginners</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B085VLJJPH?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-size: 0.75rem; margin: 16px 0 0 0; text-align: center;">*As an Amazon Associate, we earn from qualifying purchases.</p>
-</div>
-
 - Move them to a bathroom or kitchen (naturally more humid rooms)
 
 <figure style="margin:16px 0;">
@@ -259,45 +219,6 @@ Answer these three questions to narrow it down:
 
 **Question 3:** What does your tap water test at? (If you can test it.)
 
-<div class="affiliate-cta" style="background: linear-gradient(135deg, #1e3a5f 0%, #2d4a6f 100%); border-radius: 12px; padding: 24px; margin: 32px 0; border: 1px solid #3d5a7f;">
-  <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;">💧 Test Your Water Quality</h3>
-  <p style="color: #e0e0e0; margin: 0 0 16px 0; line-height: 1.5;">Not sure if your water is safe for your calathea? A TDS meter takes the guesswork out — under 100 ppm is the sweet spot for calatheas:</p>
-  
-  <div class="affiliate-products" style="display: grid; gap: 12px;">
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">HM Digital TDS Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Professional Pick • Factory Calibrated • ±3% Accuracy</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B01DKC8DTE?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">iPstyle Digital TDS Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Budget Pick • Temp Compensation • Pocket-Sized</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B085VLJJPH?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">Lxuemlu TDS/EC/Temp Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Multi-Function • Measures TDS, EC & Temperature</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B0BGYFJ6Q1?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-size: 0.75rem; margin: 16px 0 0 0; text-align: center;">*As an Amazon Associate, we earn from qualifying purchases.</p>
-</div>
-
 - **Over 150 ppm** → likely water quality
 - **Under 100 ppm** → probably not the water
 
@@ -312,51 +233,9 @@ Still not sure? It's probably humidity. It's always humidity.
 If humidity is your issue (and it probably is), here's your action plan:
 
 1. **Get a humidifier** — The most reliable solution. Place it near your plants.
-
-<div class="affiliate-cta" style="background: linear-gradient(135deg, #1a472a 0%, #2d5a3d 100%); border-radius: 12px; padding: 24px; margin: 32px 0; border: 1px solid #3d7a52;">
-  <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;">🌫️ Give Your Calathea the Humidity It Craves</h3>
-  <p style="color: #e0e0e0; margin: 0 0 16px 0; line-height: 1.5;">Want to give your calathea the humidity it craves? Here are our tested humidifiers that keep tropical plants happy:</p>
-  
-  <div class="affiliate-products" style="display: grid; gap: 12px;">
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">LEVOIT 6L Ultrasonic</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Top Pick • Cool & Warm Mist • 60hr Runtime</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B09V3KXJPB?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">MIRO NR08M Modular</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Premium • Easiest to Clean • Code: OHIOTROPICS (15% off)</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B08HR3YVGG?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">TaoTronics 4L Cool Mist</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Budget Pick • LED Display • Great for Beginners</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B085VLJJPH?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-size: 0.75rem; margin: 16px 0 0 0; text-align: center;">*As an Amazon Associate, we earn from qualifying purchases.</p>
-</div>
-
 2. **Make a pebble tray** — Fill a tray with pebbles and water, set the pot on top. The evaporating water increases local humidity.
 3. **Group plants together** — Plants release moisture through transpiration, so clustering them creates a humid microclimate.
 4. **Move locations** — Bathrooms and kitchens naturally have higher humidity.
-
----
 
 ### Switch to Filtered or Distilled Water
 
@@ -365,47 +244,6 @@ For water quality issues:
 1. **Start using filtered water** — A basic pitcher filter is fine, or just use distilled water.
 2. **Rainwater works great** — If you can collect it, your plants will thank you.
 3. **Flush soil regularly** — Every few weeks, run plain water through the soil to flush out mineral buildup.
-
-<div class="affiliate-cta" style="background: linear-gradient(135deg, #1e3a5f 0%, #2d4a6f 100%); border-radius: 12px; padding: 24px; margin: 32px 0; border: 1px solid #3d5a7f;">
-  <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;">💧 Test Your Water Quality</h3>
-  <p style="color: #e0e0e0; margin: 0 0 16px 0; line-height: 1.5;">Not sure if your water is safe for your calathea? A TDS meter takes the guesswork out — under 100 ppm is the sweet spot for calatheas:</p>
-  
-  <div class="affiliate-products" style="display: grid; gap: 12px;">
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">HM Digital TDS Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Professional Pick • Factory Calibrated • ±3% Accuracy</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B01DKC8DTE?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">iPstyle Digital TDS Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Budget Pick • Temp Compensation • Pocket-Sized</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B085VLJJPH?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dadd4; font-size: 1rem;">Lxuemlu TDS/EC/Temp Meter</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Multi-Function • Measures TDS, EC & Temperature</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B0BGYFJ6Q1?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-size: 0.75rem; margin: 16px 0 0 0; text-align: center;">*As an Amazon Associate, we earn from qualifying purchases.</p>
-</div>
-
----
 
 ### Adjust Your Watering Routine
 
@@ -453,46 +291,6 @@ Okay, here's where I give you permission to be a little aggressive. Those crispy
 An ounce of prevention, right?
 
 1. **Keep humidity consistent** — Don't let it drop below 50%. A humidifier with a timer helps.
-
-<div class="affiliate-cta" style="background: linear-gradient(135deg, #1a472a 0%, #2d5a3d 100%); border-radius: 12px; padding: 24px; margin: 32px 0; border: 1px solid #3d7a52;">
-  <h3 style="color: #fff; margin: 0 0 12px 0; font-size: 1.25rem;">🌫️ Give Your Calathea the Humidity It Craves</h3>
-  <p style="color: #e0e0e0; margin: 0 0 16px 0; line-height: 1.5;">Want to give your calathea the humidity it craves? Here are our tested humidifiers that keep tropical plants happy:</p>
-  
-  <div class="affiliate-products" style="display: grid; gap: 12px;">
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">LEVOIT 6L Ultrasonic</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Top Pick • Cool & Warm Mist • 60hr Runtime</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B09V3KXJPB?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">MIRO NR08M Modular</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Premium • Easiest to Clean • Code: OHIOTROPICS (15% off)</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B08HR3YVGG?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-    
-    <div class="affiliate-product" style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 16px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 8px;">
-        <div>
-          <strong style="color: #7dcea0; font-size: 1rem;">TaoTronics 4L Cool Mist</strong>
-          <span style="display: block; color: #a0a0a0; font-size: 0.875rem;">Budget Pick • LED Display • Great for Beginners</span>
-        </div>
-        <a href="https://www.amazon.com/dp/B085VLJJPH?tag=feralfoliage-20" target="_blank" rel="nofollow" style="background: #ff9900; color: #000; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.875rem;">View on Amazon →</a>
-      </div>
-    </div>
-  </div>
-  
-  <p style="color: #888; font-size: 0.75rem; margin: 16px 0 0 0; text-align: center;">*As an Amazon Associate, we earn from qualifying purchases.</p>
-</div>
-
 2. **Use filtered water** — Make it a habit from day one.
 3. **Monitor seasonally** — Winter heating dries out air significantly. This is when most crispy edge problems reappear.
 4. **Check your plants weekly** — Catching issues early means easier fixes.
