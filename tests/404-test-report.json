@@ -1,0 +1,52 @@
+{
+  "testDate": "2026-02-23T18:21:00-05:00",
+  "testType": "404 Page Rendering",
+  "serverUrl": "http://localhost:8080",
+  "tests": [
+    {
+      "route": "/nonexistent",
+      "statusCode": 404,
+      "templateRenders": true,
+      "errorMessage": "Lost in the foliage?",
+      "stylingMatchesTheme": true,
+      "passed": true
+    },
+    {
+      "route": "/missing-page-path",
+      "statusCode": 404,
+      "templateRenders": true,
+      "errorMessage": "Lost in the foliage?",
+      "stylingMatchesTheme": true,
+      "passed": true
+    },
+    {
+      "route": "/fake route",
+      "statusCode": 404,
+      "templateRenders": true,
+      "errorMessage": "Lost in the foliage?",
+      "stylingMatchesTheme": true,
+      "passed": true
+    },
+    {
+      "route": "/404.html",
+      "statusCode": 200,
+      "templateRenders": true,
+      "errorMessage": "Lost in the foliage?",
+      "stylingMatchesTheme": true,
+      "passed": true,
+      "note": "Direct 404 page access"
+    }
+  ],
+  "stylingVerification": {
+    "background": "#0f1110",
+    "textColor": "#e7e7e7",
+    "accentColor": "#7ee081",
+    "borderColor": "#2a2f2c",
+    "matchesMainSite": true
+  },
+  "summary": {
+    "totalTests": 4,
+    "passed": 4,
+    "failed": 0
+  }
+}

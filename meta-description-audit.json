@@ -1,0 +1,46 @@
+{
+  "auditDate": "2026-02-23",
+  "totalMetaDescriptionsFound": 75,
+  "totalOverLimit": 6,
+  "limit": 160,
+  "overLimitDescriptions": [
+    {
+      "path": "./blog/how-to-get-rid-of-fungus-gnats-in-houseplants/index.html",
+      "description": "Those tiny flying jerks ruining your plants? Here&#39;s exactly how to murder fungus gnats\u2014with ranked methods, timeline expectations, and the stuff the internet gets wrong. Science-backed, snark included.",
+      "charCount": 205,
+      "overBy": 45
+    },
+    {
+      "path": "./_site/blog/fungus-gnats/index.html",
+      "description": "The complete guide to eliminating fungus gnats from your indoor plants. Learn why they show up, how to kill them at every life stage, and proven prevention strategies that actually work.",
+      "charCount": 186,
+      "overBy": 26
+    },
+    {
+      "path": "./_site/blog/overwatering-underwatering/index.html",
+      "description": "Stop guessing! Use this visual decision tree to diagnose your plant&#39;s watering issues. Check soil, leaves, and roots to determine if you&#39;re overdoing it or neglecting your plant.",
+      "charCount": 186,
+      "overBy": 26
+    },
+    {
+      "path": "./_site/blog/monstera-yellow-leaves/index.html",
+      "description": "Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide.",
+      "charCount": 177,
+      "overBy": 17
+    },
+    {
+      "path": "./_site/blog/monstera-variegation/index.html",
+      "description": "Variegated Monsteras are the crown jewels of indoor gardening\u2014but they&#39;re not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose.",
+      "charCount": 170,
+      "overBy": 10
+    },
+    {
+      "path": "./_site/blog/bottom-watering-plants-the-complete-guide/index.html",
+      "description": "Learn how to bottom water plants the right way. Discover when bottom watering actually helps (African violets, fungus gnats) vs when it&#39;s useless (large pots).",
+      "charCount": 163,
+      "overBy": 3
+    }
+  ],
+  "withinLimit": 69,
+  "summary": "Found 6 meta descriptions exceeding 160 characters (1 in /blog, 5 in /_site/blog). The longest is 'how-to-get-rid-of-fungus-gnats-in-houseplants' at 205 chars."
+}

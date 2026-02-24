@@ -1,0 +1,31 @@
+{
+  "analysis_date": "2026-02-22",
+  "total_over_limit": 5,
+  "over_limit_tags": [
+    {
+      "page_url": "/blog/how-to-get-rid-of-fungus-gnats-in-houseplants/",
+      "character_count": 201,
+      "description": "Those tiny flying jerks ruining your plants? Here's exactly how to murder fungus gnats—with ranked methods, timeline expectations, and the stuff the internet gets wrong. Science-backed, snark included."
+    },
+    {
+      "page_url": "/blog/fungus-gnats/",
+      "character_count": 186,
+      "description": "The complete guide to eliminating fungus gnats from your indoor plants. Learn why they show up, how to kill them at every life stage, and proven prevention strategies that actually work."
+    },
+    {
+      "page_url": "/blog/overwatering-underwatering/",
+      "character_count": 178,
+      "description": "Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant."
+    },
+    {
+      "page_url": "/blog/monstera-yellow-leaves/",
+      "character_count": 177,
+      "description": "Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide."
+    },
+    {
+      "page_url": "/blog/monstera-variegation/",
+      "character_count": 166,
+      "description": "Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose."
+    }
+  ]
+}

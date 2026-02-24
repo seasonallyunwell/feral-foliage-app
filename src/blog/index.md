@@ -273,6 +273,12 @@ permalink: /blog/
   <h2 class="section-title">🔬 Propagation</h2>
 
   <div class="card">
+    <h2><a href="/blog/pothos-propagation-guide/">Pothos Propagation Guide</a></h2>
+    <div class="meta">Propagation • pothos • affiliate links</div>
+    <p>Turn one pothos into infinite plants. Complete guide to propagating pothos in water, soil, and by division.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/propagation/">Propagation Guide: Turn One Plant Into Many</a></h2>
     <div class="meta">Guide • affiliate links</div>
     <p>Water vs soil propagation, finding nodes, which plants are easiest, and common problems solved.</p>

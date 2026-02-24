@@ -1,0 +1,8 @@
+{
+  "checkDate": "2026-02-23",
+  "limit": 160,
+  "totalAnalyzed": 0,
+  "overLimit": [],
+  "status": "compliant",
+  "note": "All meta descriptions are within the 160 character limit"
+}

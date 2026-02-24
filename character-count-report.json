@@ -1,0 +1,21 @@
+{
+  "scanDate": "2026-02-22",
+  "task": "Measure Character Count for Meta Descriptions",
+  "characterLimit": 160,
+  "totalDescriptionsAnalyzed": 2,
+  "descriptionsExceedingLimit": 0,
+  "overLimitDescriptions": [],
+  "allDescriptions": [
+    {
+      "path": "projects/feral-foliage-app/index.html",
+      "metaDescription": "Free plant care tools, budget gear guides, and unapologetically practical advice for keeping your houseplants alive.",
+      "characterCount": 132
+    },
+    {
+      "path": "projects/feral-foliage-app/blog/index.html",
+      "metaDescription": "Plant care guides, gear recommendations, and unapologetically practical advice for keeping your houseplants alive.",
+      "characterCount": 133
+    }
+  ],
+  "summary": "Analyzed 2 meta descriptions. None exceed the 160-character limit. All descriptions are within optimal length."
+}

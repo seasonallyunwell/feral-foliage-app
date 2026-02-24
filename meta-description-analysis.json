@@ -1,0 +1,36 @@
+{
+  "analysisDate": "2026-02-23T00:00:00-05:00",
+  "characterLimit": 160,
+  "files": [
+    {
+      "file": "projects/feral-foliage-app/index.html",
+      "metaDescription": "Free plant care tools, budget gear guides, and unapologetically practical advice for keeping your houseplants alive.",
+      "characterCount": 116,
+      "exceedsLimit": false
+    },
+    {
+      "file": "projects/feral-foliage-app/blog/index.html",
+      "metaDescription": "Plant care guides, gear recommendations, and unapologetically practical advice for keeping your houseplants alive.",
+      "characterCount": 114,
+      "exceedsLimit": false
+    },
+    {
+      "file": "projects/feral-foliage-app/blog/post-1.html",
+      "error": "File not found"
+    },
+    {
+      "file": "projects/feral-foliage-app/blog/post-2.html",
+      "error": "File not found"
+    },
+    {
+      "file": "projects/feral-foliage-app/blog/post-3.html",
+      "error": "File not found"
+    }
+  ],
+  "summary": {
+    "totalFiles": 5,
+    "filesAnalyzed": 2,
+    "filesNotFound": 3,
+    "filesExceedingLimit": 0
+  }
+}
