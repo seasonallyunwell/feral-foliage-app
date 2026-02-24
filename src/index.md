@@ -188,13 +188,13 @@ permalink: /
       <a href="/blog/" class="browse-btn">Browse Monstera Guides</a>
     </div><div class="category-card">
       <h3>🍃 Pothos Guides</h3>
-      <div class="count">2 guides</div>
+      <div class="count">3 guides</div>
       <p>Compare Pothos varieties (Golden, Marble, Neon, Jade) and troubleshoot non-trailing vines.</p>
       <a href="/blog/" class="browse-btn">Browse Pothos Guides</a>
     </div></div>
 
   <div style="text-align:center;margin:40px 0">
-    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 62 Guides →</a>
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 63 Guides →</a>
   </div>
 </div>
 

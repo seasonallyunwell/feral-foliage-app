@@ -395,6 +395,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Pothos Hub</h2>
 
   <div class="card">
+    <h2><a href="/blog/pothos-complete-care-guide/">Pothos Complete Care Guide</a></h2>
+    <div class="meta">Pothos • care guide</div>
+    <p>The only Pothos care guide you need—light, water, soil, pruning, propagation, and troubleshooting all in one place.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pothos-varieties/">Pothos Varieties Compared: Golden vs Marble vs Neon vs Jade</a></h2>
     <div class="meta">Pothos • varieties</div>
     <p>Which Pothos is right for you? Compare Golden, Marble, Neon, and Jade side-by-side.</p>
