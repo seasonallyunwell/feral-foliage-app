@@ -439,7 +439,7 @@ permalink: /blog/
   </div>
 
   <div class="card">
-    <h2><a href="/blog/alocasia-polly-vs-zebrina-vs-dragon-scale/">Alocasia Polly vs Zebrina vs Dragon Scale: Complete Care Guide</a></h2>
+    <h2><a href="/blog/alocasia-varieties-guide/">Alocasia Polly vs Zebrina vs Dragon Scale: Complete Care Guide</a></h2>
     <div class="meta">Alocasia • care guide • comparison</div>
     <p>Compare Alocasia Polly, Zebrina & Dragon Scale side-by-side. Learn which variety fits your space, skill level, and care routine.</p>
   </div>
