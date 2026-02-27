@@ -421,6 +421,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/alocasia-black-pink-variegated-care/">Alocasia Black Velvet Pink Variegated Care Guide</a></h2>
+    <div class="meta">Alocasia • variegated plants • care guide</div>
+    <p>Complete care guide for Alocasia Black Velvet Pink Variegated. Learn light, watering, humidity needs, soil mix, and how to maintain stunning pink variegation.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/Peace-lily-blooms/">Peace Lily Not Blooming? Here's How to Get Flowers</a></h2>
     <div class="meta">Peace lily • blooming</div>
     <p>Why store-bought peace lilies bloom but yours doesn't, plus simple steps to encourage flowers at home.</p>
