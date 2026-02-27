@@ -241,6 +241,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/indoor-plant-soil-mix-calculator/">Indoor Plant Soil Mix Calculator</a></h2>
+    <div class="meta">Calculator • soil mix • affiliate links</div>
+    <p>Calculate exact ingredient amounts for custom indoor plant soil mixes. Choose your pot size and plant type - get a personalized potting soil recipe.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
     <div class="meta">Guide • affiliate links</div>
     <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
