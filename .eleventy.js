@@ -1,4 +1,17 @@
+const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
+
 module.exports = function(eleventyConfig) {
+  // Add RSS plugin
+  eleventyConfig.addPlugin(pluginRss);
+  
+  // Add Sitemap plugin
+  eleventyConfig.addPlugin(pluginSitemap, {
+    sitemap: {
+      hostname: "https://feralfoliage.com"
+    }
+  });
+  
   // Copy images folder to output
   eleventyConfig.addPassthroughCopy("src/images");
   

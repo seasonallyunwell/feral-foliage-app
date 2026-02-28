@@ -48,7 +48,7 @@ The trick is knowing which Alocasia matches your actual lifestyle (not the lifes
 | **Max Size** | 2-3 feet | 2-3 feet | 1-2 feet |
 | **Special Feature** | African Mask pattern | Zebra-striped stems | Metallic scale texture |
 
-<img src="/images/alocasia-comparison-visual.jpg" alt="Visual comparison chart showing light, water, humidity needs for Polly, Zebrina, Dragon Scale" style="width:100%;border-radius:10px;margin:16px 0">
+<img src="/images/alocasia-comparison-visual.png" alt="Visual comparison chart showing light, water, humidity needs for Polly, Zebrina, Dragon Scale" style="width:100%;border-radius:10px;margin:16px 0">
 
 ---
 

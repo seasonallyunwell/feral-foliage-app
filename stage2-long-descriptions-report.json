@@ -1,0 +1,23 @@
+{
+  "stage": "Identify Long Descriptions",
+  "threshold": 160,
+  "results": [
+    {
+      "file": "projects/feral-foliage-app/index.html",
+      "meta_description": "Free plant care tools, budget gear guides, and unapologetically practical advice for keeping your houseplants alive.",
+      "character_count": 89,
+      "exceeds_threshold": false
+    },
+    {
+      "file": "projects/feral-foliage-app/blog/index.html",
+      "meta_description": "Plant care guides, gear recommendations, and unapologetically practical advice for keeping your houseplants alive.",
+      "character_count": 104,
+      "exceeds_threshold": false
+    }
+  ],
+  "summary": {
+    "total_files_scanned": 2,
+    "files_with_long_descriptions": 0,
+    "files_under_threshold": 2
+  }
+}

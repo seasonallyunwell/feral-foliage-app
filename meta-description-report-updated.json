@@ -1,0 +1,51 @@
+{
+  "scanDate": "2026-02-22",
+  "task": "Scan HTML Files for Meta Descriptions",
+  "updatedDate": "2026-02-27",
+  "updateTask": "Edit Meta Descriptions Exceeding 160 Characters",
+  "totalFilesFound": 5,
+  "filesScanned": [
+    {
+      "path": "projects/feral-foliage-app/src/blog/how-to-get-rid-of-fungus-gnats-in-houseplants.md",
+      "metaDescription": "Those tiny flying jerks ruining your plants? Here's how to kill fungus gnats—with ranked methods, timeline expectations. Science-backed, snark included.",
+      "characterCount": 154,
+      "edited": true,
+      "originalCharCount": 205
+    },
+    {
+      "path": "projects/feral-foliage-app/src/blog/fungus-gnats.md",
+      "metaDescription": "The complete guide to eliminating fungus gnats from your indoor plants. Learn why they show up, how to kill them at every life stage, and prevention strategies.",
+      "characterCount": 160,
+      "edited": true,
+      "originalCharCount": 186
+    },
+    {
+      "path": "projects/feral-foliage-app/src/blog/overwatering-underwatering.md",
+      "metaDescription": "Stop guessing! Use this visual decision tree to diagnose plant watering issues. Check soil, leaves, and roots to find out if you're overdoing it or neglecting.",
+      "characterCount": 159,
+      "edited": true,
+      "originalCharCount": 186
+    },
+    {
+      "path": "projects/feral-foliage-app/src/blog/monstera-yellow-leaves.md",
+      "metaDescription": "Decode every shade of yellow on your Monstera. Learn the causes of yellowing—from root-bound stress to variegation issues—with our diagnostic guide.",
+      "characterCount": 152,
+      "edited": true,
+      "originalCharCount": 177
+    },
+    {
+      "path": "projects/feral-foliage-app/src/blog/monstera-variegation.md",
+      "metaDescription": "Variegated Monsteras are the crown jewels of indoor gardening—but not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose.",
+      "characterCount": 160,
+      "edited": true,
+      "originalCharCount": 170
+    }
+  ],
+  "summary": "Edited 5 meta descriptions exceeding 160 characters. All descriptions now within optimal length (≤160 characters).",
+  "verification": {
+    "totalEdited": 5,
+    "allWithinLimit": true,
+    "maxCharCount": 160,
+    "minCharCount": 152
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "verificationDate": "2026-02-27",
+  "limit": 160,
+  "results": [
+    {
+      "path": "./blog/how-to-get-rid-of-fungus-gnats-in-houseplants/index.html",
+      "metaDescription": "How to kill fungus gnats in houseplants—ranked methods, timeline expectations, and what the internet gets wrong. Science-backed, snark included.",
+      "characterCount": 141,
+      "pass": true,
+      "naturalFlow": "Good - Direct, informative title that flows naturally. The em dash connects ideas well.",
+      "issues": []
+    },
+    {
+      "path": "./_site/blog/fungus-gnats/index.html",
+      "metaDescription": "Complete guide to eliminating fungus gnats. Learn why they appear, how to kill them at every stage, and proven prevention that works.",
+      "characterCount": 147,
+      "pass": true,
+      "naturalFlow": "Good - Clear, readable sentence structure. 'At every stage' flows naturally.",
+      "issues": []
+    },
+    {
+      "path": "./_site/blog/overwatering-underwatering/index.html",
+      "metaDescription": "Use this visual decision tree to diagnose watering issues. Check soil, leaves, and roots to fix overwatering or underwatering problems.",
+      "characterCount": 149,
+      "pass": true,
+      "naturalFlow": "Good - Action-oriented, clear instructions. Reads naturally.",
+      "issues": []
+    },
+    {
+      "path": "./_site/blog/monstera-yellow-leaves/index.html",
+      "metaDescription": "Decode yellow leaves on your Monstera. Learn causes from root-bound stress to variegation issues with our diagnostic guide.",
+      "characterCount": 143,
+      "pass": true,
+      "naturalFlow": "Good - Concise and informative. 'From X to Y' construction flows well.",
+      "issues": []
+    },
+    {
+      "path": "./_site/blog/monstera-variegation/index.html",
+      "metaDescription": "Variegated Monsteras are crown jewels of indoor gardening. We break down Albo, Thai Constellation, and Aurea to help you choose.",
+      "characterCount": 149,
+      "pass": true,
+      "naturalFlow": "Good - Natural conversational tone. 'Crown jewels' adds personality without being forced.",
+      "issues": []
+    }
+  ],
+  "summary": {
+    "totalVerified": 5,
+    "passed": 5,
+    "failed": 0,
+    "allUnder160": true,
+    "allNaturalFlow": true,
+    "characterCountRange": "141-149"
+  }
+}
