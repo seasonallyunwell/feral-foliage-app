@@ -421,6 +421,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/2026-the-year-of-the-ficus-fiddle-leaf-fig-alternatives/">2026 The 'Year of the Ficus' (Fiddle Leaf Fig Alternatives)</a></h2>
+    <div class="meta">Plant Spotlights • fiddle leaf fig • alternatives • rubber plant</div>
+    <p>Discover the best fiddle leaf fig alternatives for 2026. Compare rubber plants, Ficus Audrey, and more—plus care tips to keep them alive.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/alocasia-black-pink-variegated-care/">Alocasia Black Velvet Pink Variegated Care Guide</a></h2>
     <div class="meta">Alocasia • variegated plants • care guide</div>
     <p>Complete care guide for Alocasia Black Velvet Pink Variegated. Learn light, watering, humidity needs, soil mix, and how to maintain stunning pink variegation.</p>
