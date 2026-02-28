@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Strategy: About Page
+title: "Strategy: About Page"
 description: Strategic recommendations for Feral Foliage About page structure, messaging, and differentiation.
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Research: About Page Strategy
+title: "Research: About Page Strategy"
 description: Competitor analysis, E-E-A-T requirements, and brand voice considerations for the Feral Foliage About page.
 ---
 
