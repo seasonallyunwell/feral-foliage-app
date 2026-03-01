@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: How to Get Rid of Fungus Gnats in Houseplants (Finally)
-description: Those tiny flying jerks ruining your plants? Here's exactly how to murder fungus gnats—with ranked methods, timeline expectations, and the stuff the internet gets wrong. Science-backed, snark included.
+description: Here's exactly how to murder fungus gnats—ranked methods, timeline expectations, and the stuff the internet gets wrong. Science-backed, snark included.
 slug: how-to-get-rid-of-fungus-gnats-in-houseplants
 date: 2026-02-11
 author: "Rue"

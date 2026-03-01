@@ -1,6 +1,7 @@
 ---
 title: "Propagating Monstera: Water vs Soil Success Rates"
 slug: "monstera-propagation-water-vs-soil"
+description: "Compare water vs soil propagation for Monsteras. Success rates, step-by-step guides, pros and cons, and which method works best for beginners."
 excerpt: "Compare water and soil propagation for monsteras. Success rates, step-by-step guides, pros and cons, and which method works best for beginners."
 date: 2026-02-06
 author: "Feral Foliage"

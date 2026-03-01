@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Signs of Overwatering vs Underwatering: Decision Tree"
-description: "Stop guessing! Use this visual decision tree to diagnose your plant's watering issues. Check soil, leaves, and roots to determine if you're overdoing it or neglecting your plant."
+description: "Stop guessing. Use this decision tree to diagnose watering issues. Check soil, leaves, and roots to determine if you're overwatering or underwatering."
 slug: "overwatering-underwatering"
 date: "2026-02-06"
 author: "Feral Foliage"

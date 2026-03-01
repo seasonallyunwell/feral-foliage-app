@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Monstera Variegation Types: Albo vs Thai Constellation vs Aurea"
-description: "Variegated Monsteras are the crown jewels of indoor gardening—but they're not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose."
+description: "Variegated Monsteras: not all created equal. We break down Albo, Thai Constellation, and Aurea to help you choose the right one."
 slug: "monstera-variegation"
 date: "2026-02-06"
 author: "Feral Foliage"

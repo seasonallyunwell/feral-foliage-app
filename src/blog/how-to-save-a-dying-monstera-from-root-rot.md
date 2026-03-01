@@ -96,7 +96,7 @@ Here's the part you've been dreading. Let's do this.
 - Fresh, dry potting mix (chunky, well-draining)
 - A clean pot with drainage holes (terracotta is best — it breathes)
 - Optional: hydrogen peroxide (3% solution)
-- Optional: <a href="https://www.amazon.com/dp/B07QMW5C4C" class="product-link" target="_blank" rel="nofollow">Get a Moisture Meter</a> — for prevention going forward
+- Optional: <a href="https://www.amazon.com/dp/B07QMW5C4C?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Get a Moisture Meter</a> — for prevention going forward
 
 ### The Step-by-Step Treatment Process
 
@@ -167,7 +167,7 @@ Take a clean cutting with at least one node (the bumpy part where leaves and roo
 **Option 2: Moss propagation**
 Wrap the node in damp sphagnum moss, then wrap that in plastic wrap to hold in humidity. Keep it in bright, indirect light. Check weekly and mist if the moss dries out.
 
-<a href="https://www.amazon.com/dp/B000E52KCU" class="product-link" target="_blank" rel="nofollow">Get Rooting Hormone</a> can speed up root growth if you're using water or moss propagation — dip the node before placing it in your medium.
+<a href="https://www.amazon.com/dp/B000E52KCU?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Get Rooting Hormone</a> can speed up root growth if you're using water or moss propagation — dip the node before placing it in your medium.
 
 <figure>
 <img src="/images/monstera-save-vs-propagate-decision.jpg" alt="Decision tree diagram showing when to save vs propagate Monstera with root rot" style="width:100%;border-radius:10px;margin:16px 0">
@@ -217,7 +217,7 @@ Regular potting soil holds too much water. Monsteras need a chunky mix that drie
 - **Perlite** (20%) — extra drainage
 - **Worm castings** (10%) — optional, adds nutrients
 
-Or just grab a <a href="https://www.amazon.com/dp/B07QPKG5J6" class="product-link" target="_blank" rel="nofollow">Get Fast-Draining Soil Mix</a> — something labeled for aroids or orchids works great for Monsteras.
+Or just grab a <a href="https://www.amazon.com/dp/B07QPKG5J6?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Get Fast-Draining Soil Mix</a> — something labeled for aroids or orchids works great for Monsteras.
 
 ### Watering Schedule for Healthy Monsteras
 
@@ -230,7 +230,7 @@ The number one cause of root rot is overwatering. But here's the thing — "once
 
 **The finger test:** Stick your finger 2-3 inches into the soil. If it's dry, water. If it's damp, wait.
 
-**The best way to prevent root rot?** <a href="https://www.amazon.com/dp/B07QMW5C4C" class="product-link" target="_blank" rel="nofollow">Get a Moisture Meter</a>. It's the only way to know for sure what's happening at the root zone. No guessing, no "maybe it's dry enough."
+**The best way to prevent root rot?** <a href="https://www.amazon.com/dp/B07QMW5C4C?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Get a Moisture Meter</a>. It's the only way to know for sure what's happening at the root zone. No guessing, no "maybe it's dry enough."
 
 ---
 
@@ -251,10 +251,10 @@ And remember: the number one way to prevent root rot is understanding that Monst
 We use these products ourselves and recommend them for Monstera root rot treatment and prevention:
 
 <ul>
-<li><a href="https://www.amazon.com/dp/B07QMW5C4C" target="_blank" rel="nofollow">Moisture Meter</a> — Know exactly when your soil is dry</li>
-<li><a href="https://www.amazon.com/dp/B07QPKG5J6" target="_blank" rel="nofollow">Fast-Draining Soil Mix</a> — Chunkier than regular potting soil, perfect for Monsteras</li>
-<li><a href="https://www.amazon.com/dp/B00I3JR3G4" target="_blank" rel="nofollow">Clean Pruning Shears</a> — Sharp, clean cuts are critical when trimming rotted roots</li>
-<li><a href="https://www.amazon.com/dp/B000E52KCU" target="_blank" rel="nofollow">Rooting Hormone</a> — Speeds up root growth for propagation rescues</li>
+<li><a href="https://www.amazon.com/dp/B07QMW5C4C?tag=feralfoliage-20" target="_blank" rel="nofollow">Moisture Meter</a> — Know exactly when your soil is dry</li>
+<li><a href="https://www.amazon.com/dp/B07QPKG5J6?tag=feralfoliage-20" target="_blank" rel="nofollow">Fast-Draining Soil Mix</a> — Chunkier than regular potting soil, perfect for Monsteras</li>
+<li><a href="https://www.amazon.com/dp/B00I3JR3G4?tag=feralfoliage-20" target="_blank" rel="nofollow">Clean Pruning Shears</a> — Sharp, clean cuts are critical when trimming rotted roots</li>
+<li><a href="https://www.amazon.com/dp/B000E52KCU?tag=feralfoliage-20" target="_blank" rel="nofollow">Rooting Hormone</a> — Speeds up root growth for propagation rescues</li>
 </ul>
 
 </div>

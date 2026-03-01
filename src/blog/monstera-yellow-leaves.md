@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "Why Is My Monstera Turning Yellow?"
-description: "Decode every shade of yellow on your Monstera. Learn the specific causes of yellowing, from root-bound stress to variegation issues, with our Monstera-specific diagnostic guide."
+description: "Decode every shade of yellow on your Monstera. Learn the specific causes, from root-bound stress to variegation issues, with our diagnostic guide."
 slug: "monstera-yellow-leaves"
 date: "2026-02-06"
 author: "Feral Foliage"

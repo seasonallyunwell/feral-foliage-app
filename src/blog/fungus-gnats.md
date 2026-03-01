@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: How to Get Rid of Fungus Gnats in Houseplants
-description: The complete guide to eliminating fungus gnats from your indoor plants. Learn why they show up, how to kill them at every life stage, and proven prevention strategies that actually work.
+description: The complete guide to eliminating fungus gnats. Learn why they show up, how to kill them at every life stage, and prevention strategies that actually work.
 slug: fungus-gnats-houseplants
 date: 2026-02-11
 author: "Feral Foliage"
