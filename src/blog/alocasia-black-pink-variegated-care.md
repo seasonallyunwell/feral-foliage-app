@@ -68,7 +68,7 @@ If your pink is fading to pale yellow or white, move it closer to a light source
 
 ### Grow Light Recommendations
 
-If your space doesn't get enough natural light, a grow light is non-negotiable. We're fans of <a href="https://amzn.to/example-grow-light" class="product-link" target="_blank" rel="nofollow">Mars Hydro Grow Light</a> for serious plant parents, or if you just want something simple, <a href="https://amzn.to/example-sansi-bulb" class="product-link" target="_blank" rel="nofollow">Sansi LED Grow Bulb</a> screws into any regular lamp.
+If your space doesn't get enough natural light, a grow light is non-negotiable. We're fans of <a href="https://www.amazon.com/dp/B07VL8FZS1?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Mars Hydro Grow Light</a> for serious plant parents, or if you just want something simple, <a href="https://www.amazon.com/dp/B01NCVWFUE?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Sansi LED Grow Bulb</a> screws into any regular lamp.
 
 ---
 
@@ -82,7 +82,7 @@ Alocasia are notorious for two things: going dormant when they feel like it, and
 
 Don't trust a schedule. Your plant doesn't care that it's "supposed" to be watered every five days. In winter, it might be every 10-14 days. In summer growing season, it might be every 4-5 days.
 
-**Pro tip:** Grab a <a href="https://amzn.to/example-moisture-meter" class="product-link" target="_blank" rel="nofollow">Check Soil Moisture on Amazon</a>. These cheap little meters take the guesswork out of watering and might save you from killing a $300 plant.
+**Pro tip:** Grab a <a href="https://www.amazon.com/dp/B014MJ8J2U?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Check Soil Moisture on Amazon</a>. These cheap little meters take the guesswork out of watering and might save you from killing a $300 plant.
 
 ### Signs of Overwatering
 
@@ -114,8 +114,8 @@ What you need is a **chunky, well-draining mix** that dries out relatively quick
 ### Best Potting Mix Components
 
 - **Aroid mix** ( Orchid bark, perlite, charcoal)
-- **Perlite** — <a href="https://amzn.to/example-perlite" class="product-link" target="_blank" rel="nofollow">Get Perlite on Amazon</a> for drainage
-- **Orchid bark** — <a href="https://amzn.to/example-orchid-bark" class="product-link" target="_blank" rel="nofollow">View Orchid Bark on Amazon</a> for chunky structure
+- **Perlite** — <a href="https://www.amazon.com/dp/B08HPQMCDK?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Get Perlite on Amazon</a> for drainage
+- **Orchid bark** — <a href="https://www.amazon.com/dp/B09QYDJZFJ?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">View Orchid Bark on Amazon</a> for chunky structure
 - **Coco coir** or peat moss for moisture retention
 - **Horticultural charcoal** to prevent fungal issues
 
@@ -149,7 +149,7 @@ Below 60% and you'll start seeing:
 
 **The options, ranked:**
 
-1. **Humidifier** — <a href="https://amzn.to/example-humidifier" class="product-link" target="_blank" rel="nofollow">View on Amazon</a> is the most reliable solution. A 6L Levoit runs for about 20 hours and will keep your plant room in the sweet spot.
+1. **Humidifier** — <a href="https://www.amazon.com/dp/B08FHZTYJB?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">View on Amazon</a> is the most reliable solution. A 6L Levoit runs for about 20 hours and will keep your plant room in the sweet spot.
 
 2. **Pebble tray** — Set the pot on a tray filled with pebbles and water. The water evaporates and increases humidity right around the plant. Cheap and easy.
 
@@ -342,11 +342,11 @@ Just don't say we didn't warn you about the dormancy thing. Nothing gives new pl
 
 We use these products ourselves and recommend them for Alocasia Black Velvet Pink Variegated care:
 
-- <a href="https://amzn.to/example-moisture-meter" target="_blank" rel="nofollow">XLUX Soil Moisture Meter</a> — Essential for getting watering right
-- <a href="https://amzn.to/example-humidifier" target="_blank" rel="nofollow">Levoit Humidifier (6L)</a> — Keeps humidity in the sweet spot
-- <a href="https://amzn.to/example-perlite" target="_blank" rel="nofollow">Espoma Organic Perlite</a> — Key soil component for drainage
-- <a href="https://amzn.to/example-orchid-bark" target="_blank" rel="nofollow">Orchid Bark Mix</a> — Creates the chunky mix alocasias need
-- <a href="https://amzn.to/example-grow-light" target="_blank" rel="nofollow">Mars Hydro Grow Light</a> — For maintaining variegation
-- <a href="https://amzn.to/example-sansi-bulb" target="_blank" rel="nofollow">Sansi LED Grow Bulb</a> — Simple grow light solution
+- <a href="https://www.amazon.com/dp/B014MJ8J2U?tag=feralfoliage-20" target="_blank" rel="nofollow">XLUX Soil Moisture Meter</a> — Essential for getting watering right
+- <a href="https://www.amazon.com/dp/B08FHZTYJB?tag=feralfoliage-20" target="_blank" rel="nofollow">Levoit Humidifier (6L)</a> — Keeps humidity in the sweet spot
+- <a href="https://www.amazon.com/dp/B08HPQMCDK?tag=feralfoliage-20" target="_blank" rel="nofollow">Espoma Organic Perlite</a> — Key soil component for drainage
+- <a href="https://www.amazon.com/dp/B09QYDJZFJ?tag=feralfoliage-20" target="_blank" rel="nofollow">Orchid Bark Mix</a> — Creates the chunky mix alocasias need
+- <a href="https://www.amazon.com/dp/B07VL8FZS1?tag=feralfoliage-20" target="_blank" rel="nofollow">Mars Hydro Grow Light</a> — For maintaining variegation
+- <a href="https://www.amazon.com/dp/B01NCVWFUE?tag=feralfoliage-20" target="_blank" rel="nofollow">Sansi LED Grow Bulb</a> — Simple grow light solution
 
 </div>
