@@ -94,6 +94,8 @@ You want those splits? Here is your action plan:
 
 - **Consistent Care:** Stick to a watering schedule that lets the top 2–3 inches of soil dry out. Don't let it dry out completely, but don't keep it wet.
 
+{% include "cta-watering-tools.njk" %}
+
 - **Feed It:** During active growth, fertilize with a balanced (20-20-20) or slightly nitrogen-heavy fertilizer every 4–6 weeks.
 
 - **Provide Support:** Monsteras fenestrate more reliably when they have a moss pole or trellis to climb. The vertical growth mimics their natural rainforest environment, where fenestrations help light reach lower leaves.

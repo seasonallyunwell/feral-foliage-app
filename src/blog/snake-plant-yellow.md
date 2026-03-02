@@ -13,6 +13,8 @@ Here's the thing: yellow leaves aren't random. Your snake plant is trying to tel
 
 <img src="/images/snake-plant-yellow-hero.png" alt="Snake plant with yellowing lower leaves next to healthy green growth" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 ## TL;DR
 
 - **Overwatering** is the #1 cause—snake plants hate wet feet
@@ -45,6 +47,8 @@ Get your watering schedule sorted. During growing season (spring/summer), every 
   <img src="/images/snake-plant-care.png" alt="Snake plant watering guide showing soil dryness levels" style="width:100%;border-radius:10px;">
   <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Use soil dryness—not the calendar—to decide when your snake plant needs water.</figcaption>
 </figure>
+
+{% include "cta-watering-tools.njk" %}
 
 ---
 

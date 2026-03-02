@@ -121,6 +121,8 @@ If your Albo or Aurea starts producing solid green leaves, you have a few option
 - **Prune Back:** Cut the plant just above a node that produced a variegated leaf. This can redirect energy to variegated growth points.
 - **Accept It:** Sometimes, a plant just wants to survive. A solid green Monstera is still a beautiful plant, just much cheaper to care for!
 
+{% include "cta-grow-light.njk" %}
+
 ---
 
 **Related Articles:**

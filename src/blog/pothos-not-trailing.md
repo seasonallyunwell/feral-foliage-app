@@ -105,6 +105,8 @@ If you want a long-trailing Pothos, follow these rules:
 4. 🪴 **Repot When Root Bound:** Plants can't grow tall if their feet are cramped.
 5. 🌱 **Fertilize Monthly (Spring/Summer):** A balanced houseplant fertilizer boosts growth during the active season.
 
+{% include "cta-soil.njk" %}
+
 ---
 
 ## When to Worry

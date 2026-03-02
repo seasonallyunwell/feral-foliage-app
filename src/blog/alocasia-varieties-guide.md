@@ -16,11 +16,11 @@ author: "Feral Foliage"
 <img src="/images/alocasia-varieties-hero.jpg" alt="Side-by-side comparison of Alocasia Polly, Zebrina, and Dragon Scale showing distinct leaf shapes, colors, and patterns" style="width:100%;border-radius:10px;margin:16px 0">
 
 <div class="callout">
-<strong>TL;DR:</strong> Polly is the beginner-friendly classic. Zebrina is the Instagram star with dramatic stems. Dragon Scale is the collector's dream with stunning textured leaves. All three need 60-80% humidity, bright indirect light, and chunky soil. All three will drop leaves dramatically when unhappy. Don't say we didn't warn you.
+<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
 </div>
 
 <div class="callout">
-<strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+<strong>TL;DR:</strong> Polly is the beginner-friendly classic. Zebrina is the Instagram star with dramatic stems. Dragon Scale is the collector's dream with stunning textured leaves. All three need 60-80% humidity, bright indirect light, and chunky soil. All three will drop leaves dramatically when unhappy. Don't say we didn't warn you.
 </div>
 
 ---

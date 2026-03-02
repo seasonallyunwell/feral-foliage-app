@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/calathea-crispy-edges-hero.png" alt="Calathea plant with crispy brown edges on leaves showing signs of humidity stress" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Calathea crispy edges are almost always caused by low humidity (the #1 culprit), tap water quality, or watering issues. Fix the cause and new growth will be healthy — damaged leaves won't heal but your plant will recover. Aim for 50-60% humidity minimum, use filtered/distilled water, and check our [watering guide](/blog/watering-guide/) for prevention.
 </div>
@@ -168,6 +170,8 @@ Both can cause crispy edges, but the rest of the plant tells you which one you'r
 - Possible root rot (mushy, brown roots)
 - Pot feels heavy constantly
 
+If you suspect root rot, check out our [root rot treatment guide](/blog/treat-root-rot/) for help saving your plant.
+
 **Underwatering signs:**
 - Soil dries out completely between waterings
 - Leaves drooping but perk up after watering
@@ -252,6 +256,8 @@ For watering-related crispy edges:
 1. **Check soil before watering** — Stick your finger 1-2 inches deep. Only water if dry.
 2. **Make sure drainage is good** — The pot needs holes. No exceptions.
 3. **Consider the pot size** — Too much soil holds too much water. Go up only when roots are circling the pot.
+
+Need help perfecting your watering technique? Our [watering guide](/blog/watering-guide/) has everything you need to master the finger. test and more
 
 ---
 

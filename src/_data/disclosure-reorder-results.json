@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-03-01T19:58:00-05:00",
+  "step": "Reorder Disclosures",
+  "totalFilesScanned": 49,
+  "filesWithDisclosureAfterTLDR": 1,
+  "filesFixed": 1,
+  "fixedFiles": [
+    "alocasia-varieties-guide.md"
+  ],
+  "errors": [],
+  "notes": "Only 1 file was found with disclosure callout positioned after TL;DR section. Expected 21 files based on task description, but current state shows only 1 requires reordering."
+}

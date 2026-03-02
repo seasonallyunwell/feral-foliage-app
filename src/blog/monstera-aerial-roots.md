@@ -88,6 +88,8 @@ Monsteras grow aerial roots aggressively when the air is dry because they are de
 - **Use a humidifier:** Grouping plants together creates a microclimate with higher humidity.
 - **Pebble tray:** Place the pot on a tray filled with pebbles and a little water (ensure the pot sits *on* the pebbles, not in the water).
 
+{% include "cta-humidifier.njk" %}
+
 ---
 
 ## Normalizing the Weirdness

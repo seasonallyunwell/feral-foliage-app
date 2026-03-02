@@ -38,6 +38,8 @@ Follow these steps in order. Don't skip ahead!
     *   **Bone Dry/Crumbling:** Likely Underwatering. **(Go to Step 3)**
     *   **Saturated/Muddy:** Definite Overwatering. **(Go to Step 2)**
 
+{% include "cta-moisture-meter.njk" %}
+
 ---
 
 ### Step 2: Signs You Are Overwatering

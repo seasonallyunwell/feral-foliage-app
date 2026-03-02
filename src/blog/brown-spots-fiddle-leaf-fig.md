@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/brown-spots-fiddle-leaf-fig-hero.png" alt="Fiddle Leaf Fig leaf with brown spots showing various stages of common issues including root rot, pests, and fungal infections for diagnosis" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Brown spots on Fiddle Leaf Figs usually mean root rot (overwatering), underwatering stress, pests, or fungal infection. Check the pattern: big black spots with yellow halos = root rot. Tiny pinholes = pests. Crispy brown edges = humidity/water issues. Match the treatment to the cause.
 </div>
@@ -61,6 +63,8 @@ Root rot happens when roots sit in water too long. Fiddle Leaf Figs like to dry 
 - Always check soil before watering—stick your finger in
 - Use a pot with drainage holes (terracotta is great)
 - In winter, water less frequently
+
+{% include "cta-moisture-meter.njk" %}
 
 <figure style="margin:16px 0;">
   <img src="/images/brown-spots-fiddle-leaf-fig-roots.png" alt="Comparison of healthy white fiddle leaf fig roots and rotted brown roots" style="width:100%;border-radius:10px;">
@@ -168,6 +172,8 @@ Fiddle Leaf Figs are hungry plants. Over time, they use up nutrients in the soil
 2. Feed every 2-4 weeks during growing season (spring/summer)
 3. Refresh top 2-3 inches of soil annually
 4. Repot every 18-24 months with fresh potting mix
+
+{% include "cta-fertilizer.njk" %}
 
 **Prevention:**
 - Fertilize regularly during growing season

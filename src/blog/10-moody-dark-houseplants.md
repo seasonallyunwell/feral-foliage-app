@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/10-moody-dark-houseplants-hero.png" alt="Dark moody room with Raven ZZ plant, black velvet alocasia, burgundy rubber plant on wooden stand" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Raven ZZ is the easiest dark plant—basically unkillable. Black Velvet Alocasia is gorgeous but dramatic. Burgundy Rubber Plant gives you the mood without the effort. Most dark plants tolerate low light but won't thrive in a dungeon.
 </div>
@@ -67,6 +69,8 @@ Look, I'm not going to pretend this plant is easy. It's not. But it's also one o
 **Light:** Bright indirect. These need more light than you'd think to maintain those dark colors. Too little light and they'll get leggy and sad. No direct sun, though—that'll crisp those beautiful leaves.
 
 **Water:** Keep it moist but not soggy. Alocasia are drama queens that hate both overwatering and underwatering. If the top inch of soil is dry, water. If it's still damp, wait. They're also humidity divas—mist regularly or use a humidifier.
+
+{% include "cta-humidifier.njk" %}
 
 **Why it works:** It's a statement piece. One Black Velvet on a side table and your room instantly has a mood. The texture is unreal—velvety to the touch.
 

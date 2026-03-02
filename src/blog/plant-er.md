@@ -67,6 +67,8 @@ Plants communicate through their leaves. The trick is knowing what they're sayin
 - Signs: Tips dry and crispy, edges brown
 - Fix: Increase humidity (pebble tray, humidifier, group plants).
 
+{% include "cta-humidifier.njk" %}
+
 **Fertilizer burn**
 - Signs: White crust on soil, brown tips, history of heavy fertilizing
 - Fix: Flush soil with plain water. Reduce fertilizer frequency.

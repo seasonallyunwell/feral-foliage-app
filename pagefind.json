@@ -1,0 +1,12 @@
+{
+  "site": "_site",
+  "output_path": "_pagefind",
+  "exclude_selectors": [
+    "nav",
+    "footer",
+    ".ad",
+    "#comments"
+  ],
+  "min_word_length": 3,
+  "verbose": false
+}

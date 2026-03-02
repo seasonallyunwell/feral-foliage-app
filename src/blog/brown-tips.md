@@ -53,6 +53,8 @@ Most tropical houseplants (Monstera, Pothos, Fiddle Leaf Fig) want 40-60% humidi
 *   **Pebble Tray:** Place the pot on a tray of rocks and water. As the water evaporates, humidity rises around the leaves.
 *   **Mist?:** Misting provides only temporary relief. It's better than nothing, but a humidifier is the real fix.
 
+{% include "cta-humidifier.njk" %}
+
 ---
 
 ### 3. Fertilizer Burn (Salts)

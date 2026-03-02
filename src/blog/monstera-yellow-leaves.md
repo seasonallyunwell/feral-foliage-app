@@ -67,6 +67,8 @@ Before you panic and repot everything, look closely at *how* the yellow is appea
 *   **Root Rot:** Often a result of overwatering. If the roots are brown and mushy, the leaves will reflect that decay.
 *   **Severe Underwatering:** Paradoxically, if a plant is severely dehydrated, it may yellow and drop leaves to conserve energy.
 
+{% include "cta-moisture-meter.njk" %}
+
 ---
 
 ### 5. Variegated Leaves Turning Yellow (Albo Variegata)

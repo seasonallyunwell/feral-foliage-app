@@ -1,0 +1,18 @@
+{# Search component - uses Pagefind UI #}
+<div id="search" class="search-container"></div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // Only load Pagefind on demand to improve initial load
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      translations: {
+        placeholder: "Search plants..."
+      }
+    });
+  });
+</script>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" defer></script>

@@ -83,6 +83,8 @@ Your pot MUST have drainage holes.
 
 **The solution:** Use a nursery pot inside a decorative cache pot. Remove from cache to water.
 
+{% include "cta-pots-planters.njk" %}
+
 ---
 
 ### Pot Material Comparison
@@ -116,6 +118,8 @@ Most houseplants want:
 | Orchids | Orchid bark + charcoal + sphagnum moss |
 | Ferns | Peat moss + perlite + compost |
 | Aroids (Monstera, Pothos) | Aroid mix: bark + perlite + coco coir |
+
+{% include "cta-soil.njk" %}
 
 ---
 

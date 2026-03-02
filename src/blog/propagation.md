@@ -114,6 +114,8 @@ Rooting hormone contains auxins that encourage root development. Not required, b
 
 <a href="https://www.amazon.com/dp/B00GZRSH5M?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow noopener">Garden Safe Rooting Hormone →</a>
 
+{% include "cta-soil.njk" %}
+
 ## Easiest Plants to Propagate
 
 ### Pothos

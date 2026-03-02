@@ -47,6 +47,8 @@ Root rot is primarily caused by:
 2.  **Poor Drainage:** Soil that stays waterlogged or pots without drainage holes.
 3.  **Compacted Soil:** Soil that has become too dense, suffocating the roots.
 
+One early sign of overwatering can be crispy leaf edges — if your plant is showing this symptom, check out our [calathea crispy edges guide](/blog/calathea-crispy-edges/) for humidity and watering adjustments that can help.
+
 ---
 
 ## How to Treat Root Rot
@@ -84,6 +86,8 @@ Place the plant on a paper towel or a dry surface in a cool, shaded area for **s
 
 Prepare a pot with **excellent drainage**. If you're reusing the old pot, clean it thoroughly with a bleach solution. Use fresh, well-draining soil—typically a mix of potting soil with perlite, orchid bark, or pumice to increase airflow.
 
+{% include "cta-soil.njk" %}
+
 Plant your specimen at the same soil level as before. Water sparingly.
 
 ---
@@ -100,9 +104,12 @@ Recovery depends on how much of the root system survived.
 
 ## Prevention
 
-*   **Water with purpose:** Only water when the top inch of soil is dry.
+*   **Water with purpose:** Only water when the top inch of soil is dry. Our [watering guide](/blog/watering-guide/) teaches you how to check soil moisture properly.
 *   **Feel the soil:** Don't just water on a schedule—stick your finger in to check.
 *   **Drainage is key:** Always ensure pots have holes in the bottom.
+
+{% include "cta-pots-planters.njk" %}
+
 *   **Refresh soil:** Repot plants every 18-24 months to prevent soil compaction.
 
 Root rot is a setback, but with quick action and a little patience, your plant can make a full recovery.

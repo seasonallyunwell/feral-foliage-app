@@ -140,7 +140,7 @@ Use it as a guide, not gospel. "Dry" on the meter + your finger says dry = defin
 - **Root rot** (pull out the plant: brown, mushy roots = dead roots)
 
 <div class="callout warning">
-<strong>Root rot is often fatal.</strong> Prevention is way easier than treatment. If you catch it early, remove dead roots, let the plant dry out, and repot in fresh soil. Sometimes it works. Sometimes you're buying a new plant.
+<strong>Root rot is often fatal.</strong> Prevention is way easier than treatment. If you catch it early, remove dead roots, let the plant dry out, and repot in fresh soil. Sometimes it works. Sometimes you're buying a new plant. Our [root rot treatment guide](/blog/treat-root-rot/) walks you through saving an affected plant.
 </div>
 
 ## Signs You're Underwatering
@@ -150,6 +150,8 @@ Use it as a guide, not gospel. "Dry" on the meter + your finger says dry = defin
 - **Curling leaves** (trying to reduce surface area)
 - **Soil shrinking away** from pot edges
 - **Very lightweight pot**
+
+One common symptom of underwatering is crispy edges on leaves — our [calathea crispy edges guide](/blog/calathea-crispy-edges/) covers this issue in detail and how to fix it.
 
 The good news: most underwatered plants bounce back within hours of a good drink. They're dramatic, not dying.
 

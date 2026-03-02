@@ -58,6 +58,8 @@ Plants are not air purifiers. They're:
 - **Humidifiers (slightly)** — they release moisture through transpiration
 - **Conversation pieces** — they're nice to look at and care for
 
+{% include "cta-humidifier.njk" %}
+
 If you want clean air, get a HEPA air purifier. If you want a plant, get a plant because you want a plant.
 
 ---

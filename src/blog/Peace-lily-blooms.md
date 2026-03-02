@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/peace-lily-blooms-hero.png" alt="Peace lily with white spathe flower blooming in light" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Store-bought peace lilies are chemically forced to bloom. At home, yours needs near-perfect conditions to flower. Expect 1-2 blooms per year, not the constant flowering you see at the garden center. Focus on bright indirect light, consistent moisture, phosphorus-heavy fertilizer, warmth, and slight root-bound conditions.
 </div>
@@ -78,6 +80,8 @@ Peace lilies are dramatic — they'll collapse dramatically if they dry out even
 - Water when the top inch of soil is dry
 - Don't let it dry out completely (the dramatic wilt stresses the plant)
 - Don't let it sit in water (root rot kills blooms dead)
+
+{% include "cta-watering-tools.njk" %}
 
 ### 3. Feed It Phosphorus-Rich Fertilizer
 

@@ -65,6 +65,8 @@ If your soil won't absorb water even after a soak, or if you want to prevent thi
 **Repot (The Fix):** If the soil is extremely compacted, has poor structure (just peat moss that has shrunk), or if the plant is root-bound, it's time to refresh the soil.
 *   **Mix:** Add perlite or orchid bark to your new soil to improve structure and prevent future hydrophobicity.
 
+{% include "cta-soil.njk" %}
+
 ---
 
 ## Prevention Tips

@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/spring-repotting-hero.png" alt="Person carefully repotting a monstera in a bright kitchen, with fresh soil and terracotta pots nearby" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Spring is prime repotting season because plants are waking up and can recover faster. Repot if you see roots escaping drainage holes, stunted growth, or water running straight through. Prioritize fast growers (pothos, monstera) over slow growers (snake plants, ZZ plants). Don't repot plants that are actively blooming or looking stressed.
 </div>
@@ -65,6 +67,8 @@ Plant looks healthy (no yellowing, no pests) but hasn't grown in months? It's pr
 
 ### 5. It's Been 12-18 Months Since Last Repot
 If you can't remember the last time you repotted, it's probably time. Soil degrades over time, losing structure and nutrients. Even if roots aren't escaping, the soil might be shot.
+
+{% include "cta-soil.njk" %}
 
 ### 6. Plant Tips Over Easily
 A plant that used to stand upright but now constantly tips over? The roots have taken up so much space that there's no soil left to anchor the plant. Weight distribution is off.

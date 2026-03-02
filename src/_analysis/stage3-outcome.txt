@@ -1,0 +1,1 @@
+Stage 3 complete: Reordered disclosure callouts. Fixed 1 file (alocasia-varieties-guide.md) where disclosure was positioned after TL;DR - moved it to before TL;DR. Note: Task expected 21 files but only 1 file had disclosure after TL;DR in current state.

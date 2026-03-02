@@ -62,6 +62,8 @@ Water flows through the soil. Without holes:
 
 **The solution:** Put a nursery pot inside a decorative cache pot. Remove from cache to water.
 
+{% include "cta-pots-planters.njk" %}
+
 ---
 
 ## Pot Materials Compared

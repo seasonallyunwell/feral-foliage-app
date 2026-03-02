@@ -130,6 +130,9 @@ Check under leaves, in leaf joints, and in soil. Most pests hide there.
 - [ ] **Water sparingly** — check soil before watering
 - [ ] **No fertilizer** — until spring growth resumes
 - [ ] **Increase humidity** — pebble trays, humidifier, or grouping
+
+{% include "cta-humidifier.njk" %}
+
 - [ ] **Keep away from drafts** — cold windows, heater vents
 - [ ] **Clean leaves** — dust reduces light capture in low-light months
 - [ ] **Rotate occasionally** — prevent uneven growth toward light

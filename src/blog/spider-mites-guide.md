@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/spider-mites-guide-hero.png" alt="Close-up macro shot of a leaf heavily infested with spider mites showing tiny red-orange dots and fine webbing" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Spider mites are microscopic arachnids that suck plant sap and reproduce at terrifying speed. Found them? Quarantine immediately, blast with water, treat with neem oil or insecticidal soap, and repeat every 5-7 days for 2-4 weeks. Prevention: keep humidity high, inspect regularly, quarantine new plants. Some plants are basically spider mite magnets — know which ones to watch.
 </div>
@@ -279,6 +281,8 @@ Your move:
 1. Go inspect every plant right now. We'll wait.
 2. If you found something, quarantine first, treat second.
 3. If you're clear, buy a humidifier and keep up the weekly inspections.
+
+{% include "cta-soil.njk" %}
 
 You got this. These tiny jerks are beatable.
 

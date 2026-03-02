@@ -74,9 +74,14 @@ If you see these signs, act fast:
 
 - [ ] **Sudden Leaf Drop:** If a plant drops multiple green, plump leaves overnight, check for **Root Rot**. The roots will smell rotten and be brown/mushy.
 - [ ] **Wilting + Yellowing:** Check the soil. If it's wet and the plant wilts, it's overwatered. If it's dry and the plant wilts, it's underwatered.
+
+{% include "cta-watering-tools.njk" %}
+
 - [ ] **Leaves with Bugs:** Check the undersides. Sticky residue? Webbing? Tiny moving dots? Isolate immediately.
 - [ ] **Brown Spots with Yellow Halos:** This is usually a fungal infection or sunburn. Cut off affected leaves with sterilized shears.
 - [ ] **Soft/Black Stems:** This is stem rot. Usually fatal. You may be able to propagate the healthy top section if the rot hasn't reached it.
+
+{% include "cta-moisture-meter.njk" %}
 
 ---
 

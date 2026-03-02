@@ -125,6 +125,9 @@ The four most common—Golden, Marble Queen, Neon, and Jade—are often confused
 
 1. **Watering:** Wait until the top 50-75% of the soil is dry. All four varieties hate sitting in wet soil.
 2. **Potting:** Use a well-draining potting mix. Adding perlite helps.
+
+{% include "cta-soil.njk" %}
+
 3. **Propagation:** All Pothos root incredibly easily in water. Simply cut a section with a node (the little bump on the stem) and place it in a jar of water.
 4. **Toxicity:** All Pothos are toxic to pets and humans if ingested. Keep them out of reach of curious cats and dogs.
 

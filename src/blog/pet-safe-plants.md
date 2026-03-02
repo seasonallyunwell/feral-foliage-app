@@ -206,6 +206,8 @@ You can absolutely have both pets and beautiful plants. It just takes some plann
 
 **Always avoid:** Pothos, philodendron, monsteras, lilies
 
+{% include "cta-soil.njk" %}
+
 ---
 
 *Need help with plant problems? Check our [Plant ER](/blog/plant-er/).*

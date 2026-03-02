@@ -116,6 +116,8 @@ No plant thrives in actual darkness. These survive:
 ### The Better Solution
 **Get a grow light.** LED grow lights are cheap ($15-30) and use pennies of electricity. A small grow light on a timer for 8 hours a day opens up way more plant options than "things that survive near-darkness."
 
+{% include "cta-grow-light.njk" %}
+
 ---
 
 ## South-Facing Windows (Brightest)

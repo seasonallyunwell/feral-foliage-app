@@ -198,6 +198,8 @@ Every pruning cut can become a new plant.
 | Rubbing alcohol | Sterilize between plants |
 | Gloves | Handle sap (some plants are toxic) |
 
+{% include "cta-pruning-shears.njk" %}
+
 ---
 
 ## What NOT to Do

@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/succulent-care-hero.png" alt="Bright windowsill with varied succulents in terracotta pots showing healthy colors" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Succulents need less water than you think (soak and dry method), tons of bright light (south-facing window or grow lights), and fast-draining soil. If your succulent is stretching or turning pink, it's begging for more light. Don't water on a schedule — water when the soil is completely dry and leaves get slightly wrinkly.
 </div>
@@ -58,6 +60,8 @@ When you water, water deeply. A light sprinkle just encourage weak surface roots
   <img src="/images/succulent-care-watering.png" alt="Succulent watering schedule infographic showing soak-and-dry timeline" style="width:100%;border-radius:10px;">
   <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Soak, wait until bone-dry, repeat. That's it. Screenshot it if you must.</figcaption>
 </figure>
+
+{% include "cta-watering-tools.njk" %}
 
 ### Signs You're Messing It Up
 

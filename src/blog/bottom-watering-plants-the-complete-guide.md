@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/bottom-watering-plants-the-complete-guide-hero.png" alt="Terracotta pots sitting in a tray of water, soil visibly absorbing water from bottom up" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Bottom watering works by capillary action. Great for fuzzy-leaved plants and fungus gnat prevention. Useless for large pots and quick watering. 15-30 minutes per plant session. Don't skip top watering entirely—salts will build up.
 </div>

@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/office-desk-plants-hero.png" alt="Modern office desk with snake plant, pothos, and succulents in minimalist pots" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> • Snake plants and ZZ plants survive dim offices and neglect <br>• Pothos are forgiving but need weekly checks <br>• Pet-friendly options include spider plant, haworthia, and calathea <br>• Match your plant to your actual desk conditions, not the Pinterest ideal
 </div>
@@ -42,6 +44,8 @@ Before you buy anything, assess your actual desk conditions. Not what you wish y
 - **Near window (bright):** Lucky you. Most plants will survive.
 - **Away from window (moderate):** Standard office fluorescent. Snake plant, ZZ plant, pothos will tolerate this.
 - **Corner dungeon (low light):** Only the survivors apply—snake plant, ZZ plant, cast iron plant.
+
+{% include "cta-watering-tools.njk" %}
 
 ### Space Constraints
 

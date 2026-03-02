@@ -92,6 +92,8 @@ author: "Feral Foliage"
 
 Buying plants online has never been easier, but choosing the right shop depends on what you're looking for. Whether you're hunting for rare collector items or just need a low-maintenance Snake Plant for your desk, these shops have you covered.
 
+{% include "cta-pots-planters.njk" %}
+
 ---
 
 **Related Articles:**

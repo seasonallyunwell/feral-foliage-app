@@ -75,6 +75,8 @@ description: Your plants aren't trying to kill you. Here are the lies the intern
 - Grouping plants (okay)
 - Bathroom showers (temporary)
 
+{% include "cta-humidifier.njk" %}
+
 **The Fix:** If you need humidity, get a humidifier. Misting is a waste of time.
 
 ---

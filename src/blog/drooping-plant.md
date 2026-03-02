@@ -129,6 +129,8 @@ description: Drooping isn't always death. Here's how to tell what's wrong and fi
 3. Avoid placing near heat vents
 4. Mist (limited help but won't hurt)
 
+{% include "cta-humidifier.njk" %}
+
 ---
 
 ## How to Check Soil Moisture
@@ -148,6 +150,8 @@ description: Drooping isn't always death. Here's how to tell what's wrong and fi
 1. Insert probe into soil
 2. Read moisture level
 3. Water according to plant needs
+
+{% include "cta-moisture-meter.njk" %}
 
 ---
 

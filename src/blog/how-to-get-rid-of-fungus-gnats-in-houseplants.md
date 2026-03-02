@@ -15,6 +15,8 @@ author: "Rue"
 
 <img src="/images/how-to-get-rid-of-fungus-gnats-in-houseplants-hero.png" alt="Close-up of a houseplant pot with yellow sticky traps catching tiny flying fungus gnats" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> To get rid of fungus gnats, you need to attack from two angles: kill adults with sticky traps to stop egg-laying, and kill larvae in soil with hydrogen peroxide (1:4 ratio) or mosquito bits. Full eradication takes 2-3 weeks because you have to break the life cycle—adults live about a week, but eggs hatch every 3 days.
 </div>
@@ -201,6 +203,8 @@ For plants that genuinely need consistently moist soil (ferns, some tropicals), 
 ### Potting Mix Inspection
 
 When potting or repotting, inspect the mix before use. If it smells overly damp or has a fungusy odor, it might already have gnat eggs. Let overly moist mix dry out before using it, or bake it in the oven at 200°F for 30 minutes to kill any eggs or larvae.
+
+{% include "cta-soil.njk" %}
 
 ### Seasonal Prevention (Bringing Plants Inside)
 

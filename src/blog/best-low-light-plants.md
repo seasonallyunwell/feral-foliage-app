@@ -176,6 +176,8 @@ If you're trying to grow plants in a room with NO natural light (just overhead f
 - Consider grow lights. LED grow lights are cheap ($15-30) and use minimal electricity.
 - A small grow light on a timer for 8-12 hours a day will let you grow much more than these three survivors.
 
+{% include "cta-grow-light.njk" %}
+
 ---
 
 ## The Bottom Line

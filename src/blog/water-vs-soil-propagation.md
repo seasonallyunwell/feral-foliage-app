@@ -108,6 +108,8 @@ Plant a cutting directly into soil. Roots grow in the soil from day one.
 - Succulents
 - Most houseplants
 
+{% include "cta-soil.njk" %}
+
 ### Step-by-Step
 
 **What you need:**

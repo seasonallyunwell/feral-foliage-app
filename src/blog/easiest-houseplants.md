@@ -157,6 +157,8 @@ Here's what actually separates plant killers from plant keepers:
 
 **The number one killer of houseplants is not forgetting to water.** It's overwatering. Seriously. Most houseplants die from too much water, not too little.
 
+{% include "cta-watering-tools.njk" %}
+
 ---
 
 ## Start With One

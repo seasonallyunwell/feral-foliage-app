@@ -15,6 +15,8 @@ author: Tacitatoons
 
 <img src="/images/alocasia-dying-hero.png" alt="Drooping Alocasia plant with yellowing leaves against dark background" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Most dying Alocasias can be saved. The usual suspects: overwatering, low humidity, root rot, or wrong lighting. Identify the cause, fix fast, and be patient—recovery takes weeks to months.
 </div>
@@ -89,6 +91,8 @@ Here's where many plant parents struggle: **Alocasias need 60-80% humidity minim
 - Consider a terrarium or glass cabinet for severe cases
 
 Need more details? Our [humidity guide](/blog/humidity/) has everything you need.
+
+{% include "cta-humidifier.njk" %}
 
 <figure style="margin:16px 0;">
   <img src="/images/alocasia-humidity.png" alt="Alocasia next to humidifier, grouped plants, and pebble tray" style="width:100%;border-radius:10px;">
@@ -315,6 +319,8 @@ Yes! Use a well-draining potting mix. Regular potting soil stays too wet. Mix in
 Alocasias are dramatic but resilient. With attention to their specific needs and quick action when problems arise, you can bring even a seriously struggling plant back to its full, stunning glory.
 
 These tropical divas demand a bit more attention than your average pothos—but when they're happy? Absolutely worth it.
+
+{% include "cta-humidity-bundle.njk" %}
 
 ---
 

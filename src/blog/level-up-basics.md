@@ -73,6 +73,8 @@ A simple **digital hygrometer** tells you exactly what the air is doing. Most in
 
 *Recommendation:* The **Govee Bluetooth Hygrometer** is fantastic. It syncs with an app so you can monitor trends over days and weeks. It takes the guesswork out of misting—because honestly, misting does almost nothing; a humidifier is the real solution.
 
+{% include "cta-humidity-bundle.njk" %}
+
 ---
 
 ## The Takeaway

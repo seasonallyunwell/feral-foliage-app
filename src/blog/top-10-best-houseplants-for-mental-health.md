@@ -15,6 +15,8 @@ author: "Feral Foliage Team"
 
 <img src="/images/top-10-best-houseplants-for-mental-health-hero.png" alt="Top 10 houseplants for mental health" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Start with 2-3 low-maintenance plants (pothos, snake plant, ZZ plant) to reduce cortisol and blood pressure. Turn watering into mindfulness—caring for plants forces you to slow down and stay present.
 </div>
@@ -280,6 +282,8 @@ Larger plants increase the "dose" of green your brain receives. Check our [plant
 
 Bathrooms support humidity-loving plants. Pair them with baths or skincare routines for calming rituals.
 
+{% include "cta-humidifier.njk" %}
+
 ## Beginner-Friendly Plants: Low-Maintenance Options for Plant Newbies
 
 ### Effort Level Ratings for Each Plant
@@ -356,6 +360,8 @@ Start with a snake plant or pothos. Put it somewhere you'll see it daily. Water 
 That's it. You're already doing better.
 
 For more plant care guidance tailored to beginners, check out our full library of [air-purifying plants for healthier homes](/blog/houseplants-clean-air) and care tips that actually work.
+
+{% include "cta-pots-planters.njk" %}
 
 Now go get yourself a plant. Your brain will thank you.
 

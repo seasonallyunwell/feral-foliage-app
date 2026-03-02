@@ -88,6 +88,8 @@ The moss pole has become the gold standard for serious Monstera enthusiasts. It 
 
 **Best For:** Serious collectors, anyone wanting maximum leaf size and fenestration, and those willing to commit to the maintenance routine.
 
+{% include "cta-pots-planters.njk" %}
+
 ---
 
 ## Comparison Table
@@ -133,6 +135,8 @@ Yes, but it's easier to start with the moss pole when the plant is young. If swi
 
 **Do I really need to mist the moss pole?**
 It's highly recommended. Aerial roots are attracted to moisture. A dry moss pole will be ignored in favor of the air or adjacent walls.
+
+{% include "cta-humidifier.njk" %}
 
 **Will my Monstera die if it doesn't climb?**
 No, but it will grow differently. Trailing Monsteras can live long, happy lives as hanging plants—they simply won't produce the massive, highly fenestrated leaves that climbing Monsteras do.

@@ -189,6 +189,8 @@ description: Don't make these mistakes at the plant store. Here's how to choose 
 4. **Quarantine new plants** — protects your collection
 5. **Don't rush** — take time choosing a healthy plant
 
+{% include "cta-pots-planters.njk" %}
+
 ---
 
 *Ready to care for your new plant? Check our [Care Guides](/blog/) for specific plant instructions.*

@@ -118,6 +118,8 @@ Here's the honest breakdown:
 
 <a href="[AFFILIATE_LINK_MOISTURE_METER]" class="product-link">Get a Moisture Meter</a>
 
+{% include "cta-tds-meter.njk" %}
+
 For the low-light folks: if your space doesn't get much natural light, a rubber plant or Alii ficus will tolerate it better than the others. No Ficus is truly low-light, but these two are the most forgiving.
 
 <a href="[AFFILIATE_LINK_GROW_LIGHT]" class="product-link">Shop Grow Lights</a>

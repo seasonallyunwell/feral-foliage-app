@@ -15,6 +15,8 @@ author: "Feral Foliage"
 
 <img src="/images/winter-houseplant-care-checklist-hero.png" alt="Cozy indoor scene with thriving houseplants near a frosty window in winter" style="width:100%;border-radius:10px;margin:16px 0">
 
+<div class="callout"><strong>Disclosure:</strong> Some links on this page are affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.</div>
+
 <div class="callout">
 <strong>TL;DR:</strong> Winter means less water, no fertilizer, and actual humidity solutions (not misting, which does absolutely nothing useful). Your plants aren't dying—they're napping through a tough season. Check this list monthly, don't panic, and for the love of all things green, keep them away from heat vents. Most winter "emergencies" are just normal dormancy behavior that requires zero intervention.
 
@@ -80,6 +82,8 @@ Welcome to the desert season. Your furnace is running, the air is drier than a p
   <img src="/images/winter-houseplant-humidity-solutions.png" alt="Humidifier and pebble trays set up near houseplants in winter" style="width:100%;border-radius:10px;">
   <figcaption style="color:#a7a7a7;font-size:0.9rem;text-align:center;margin-top:8px;">Heating dries the air fast—humidifiers and pebble trays keep your plants from crisping.</figcaption>
 </figure>
+
+{% include "cta-humidifier.njk" %}
 
 ---
 
