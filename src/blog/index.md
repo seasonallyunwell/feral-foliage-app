@@ -59,6 +59,7 @@ permalink: /blog/
     <a href="/">Tools</a>
     <a href="/blog/" class="primary">Blog</a>
     <a href="/blog/starter-kit/">Starter Kit</a>
+    <a href="/pages/about/">About</a>
   </div>
 </div>
 
