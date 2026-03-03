@@ -428,6 +428,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-care-for-your-philodendron/">How to Care for Your Philodendron</a></h2>
+    <div class="meta">Plant Spotlights • philodendron • care guide</div>
+    <p>Everything you need to keep your philodendron thriving — from watering disasters to humidity hacks. Vining vs self-heading varieties explained.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/2026-the-year-of-the-ficus-fiddle-leaf-fig-alternatives/">2026 The 'Year of the Ficus' (Fiddle Leaf Fig Alternatives)</a></h2>
     <div class="meta">Plant Spotlights • fiddle leaf fig • alternatives • rubber plant</div>
     <p>Discover the best fiddle leaf fig alternatives for 2026. Compare rubber plants, Ficus Audrey, and more—plus care tips to keep them alive.</p>
