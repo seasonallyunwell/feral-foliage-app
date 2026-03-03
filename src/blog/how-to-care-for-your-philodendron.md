@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: How to Care for Your Philodendron — Complete Guide
-description: Learn philodendron care essentials: watering, light, humidity needs. Fix yellow leaves, brown tips. Vining & self-heading variety guide.
+description: "Learn philodendron care essentials: watering, light, humidity needs. Fix yellow leaves, brown tips. Vining & self-heading variety guide."
 slug: how-to-care-for-your-philodendron
 date: 2026-03-03
 author: "Feral Foliage"
