@@ -408,6 +408,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Pothos Hub</h2>
 
   <div class="card">
+    <h2><a href="/blog/pothos-leaves-troubleshooting/">Pothos Brown/Yellow Leaves Troubleshooting</a></h2>
+    <div class="meta">Troubleshooting • pothos • diagnosis</div>
+    <p>Discover why your Pothos leaves are turning yellow or brown. Quick diagnosis guide with proven fixes to save your plant.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pothos-complete-care-guide/">Pothos Complete Care Guide</a></h2>
     <div class="meta">Pothos • care guide</div>
     <p>The only Pothos care guide you need—light, water, soil, pruning, propagation, and troubleshooting all in one place.</p>
