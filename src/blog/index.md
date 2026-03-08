@@ -434,6 +434,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/snake-plant-care-guide/">Snake Plant: Complete Care Guide</a></h2>
+    <div class="meta">Plant Spotlights • snake plant • care guide</div>
+    <p>Learn how to care for snake plants with our complete guide. Watering, light, soil, and troubleshooting tips for healthy plants.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-care-for-your-philodendron/">How to Care for Your Philodendron</a></h2>
     <div class="meta">Plant Spotlights • philodendron • care guide</div>
     <p>Everything you need to keep your philodendron thriving — from watering disasters to humidity hacks. Vining vs self-heading varieties explained.</p>
