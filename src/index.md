@@ -171,6 +171,35 @@ permalink: /
     </div>
   </div>
 
+  <h2 class="section-title">🍃 Pothos Hub</h2>
+  <div class="tools-grid">
+    <div class="tool-card">
+      <h3>Complete Care Guide</h3>
+      <p>Everything you need to grow healthy pothos: watering, light, soil, and propagation.</p>
+      <div class="btn-row"><a href="/blog/pothos-complete-care-guide/" class="btn">Read Guide</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Yellow &amp; Brown Leaves</h3>
+      <p>Diagnose why your pothos leaves are turning yellow or brown and how to fix it fast.</p>
+      <div class="btn-row"><a href="/blog/pothos-leaves-troubleshooting/" class="btn">Troubleshoot</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Varieties Compared</h3>
+      <p>Golden vs Marble Queen vs Neon vs Jade — pick the right one for your space.</p>
+      <div class="btn-row"><a href="/blog/pothos-varieties/" class="btn">Compare Varieties</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Propagation Guide</h3>
+      <p>Water, soil, and division methods for multiplying your pothos collection.</p>
+      <div class="btn-row"><a href="/blog/pothos-propagation-guide/" class="btn">Propagate</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Why Is It Not Trailing?</h3>
+      <p>Leggy, stubby, or just not vining? Here's why and how to get those long trailing stems.</p>
+      <div class="btn-row"><a href="/blog/pothos-not-trailing/" class="btn">Fix It</a></div>
+    </div>
+  </div>
+
   <h2 class="section-title">Browse by Category</h2>
   <div class="category-grid"><div class="category-card">
       <h3>🛒 Gear Guides</h3>

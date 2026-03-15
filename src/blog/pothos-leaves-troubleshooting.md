@@ -257,7 +257,7 @@ An ounce of prevention, right? Here's how to keep yellow leaves from coming back
 4. **Fertize sparingly** — Once a month during spring/summer is plenty
 5. **Check your plant weekly** — Catching problems early is way easier than fixing advanced issues
 
-For more on watering, see our <a href="/blog/how-often-water/">complete watering guide</a> and check out the <a href="/blog/plant-er/">Plant ER hub</a> for troubleshooting other common issues.
+For more on watering, see our <a href="/blog/watering-guide/">complete watering guide</a> and check out the <a href="/blog/plant-er/">Plant ER hub</a> for troubleshooting other common issues.
 
 ---
 

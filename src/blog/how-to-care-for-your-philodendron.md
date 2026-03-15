@@ -54,7 +54,7 @@ Here's the thing most guides skip: not all philodendrons are created equal, and 
 
 Knowing which type you have changes how you water, how you pot them, and whether you need a moss pole. Keep this in mind — we'll come back to it.
 
-<a href="https://www.amazon.com/dp/B08XYZ1234" class="product-link" target="_blank" rel="nofollow">Support Your Vining Philodendron →</a>
+<a href="https://www.amazon.com/dp/B08XYZ1234?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Support Your Vining Philodendron →</a>
 
 <figure style="margin:24px 0">
 <img src="/images/philodendron-varieties-comparison-flatlay.jpg" alt="Flatlay comparison of philodendron varieties including Heartleaf, Brasil, Birkin, and Selloum leaves showing diverse leaf shapes and variegation" style="width:100%;border-radius:10px">
@@ -80,7 +80,7 @@ Signs your light is wrong:
 
 Low light ≠ no light. A bathroom with no windows is not "low light" — it's dark. Your philodendron will slowly die there. They are not ZZ plants.
 
-Check out our [lighting guide](/blog/lighting-guide/) for more on bright indirect light explained.
+Check out our [lighting guide](/blog/light-guide/) for more on bright indirect light explained.
 
 ---
 
@@ -112,7 +112,7 @@ Winter = slower growth = less water. Your plant is basically napping. Cut back t
 
 Also: if your philodendron is near a heat vent or in a dry room, it'll drink faster. Check the soil, not the calendar.
 
-<a href="https://www.amazon.com/dp/B00X4OXFPC" class="product-link" target="_blank" rel="nofollow">Check Soil Moisture →</a>
+<a href="https://www.amazon.com/dp/B00X4OXFPC?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Check Soil Moisture →</a>
 
 ---
 
@@ -142,7 +142,7 @@ Brown tips from low humidity are different from brown tips from salt buildup (mi
 <figcaption>Brown tips? Your humidity is likely too low. Here's what to do about it.</figcaption>
 </figure>
 
-<a href="https://www.amazon.com/dp/B087TWTG9M" class="product-link" target="_blank" rel="nofollow">Boost Humidity →</a>
+<a href="https://www.amazon.com/dp/B087TWTG9M?tag=feralfoliage-20" class="product-link" target="_blank" rel="nofollow">Boost Humidity →</a>
 
 ---
 
@@ -272,10 +272,10 @@ For seasonal adjustments, check out our Seasonal Care Calendar.
 
 These are the tools we actually use for philodendron care:
 
-- <a href="https://www.amazon.com/dp/B00X4OXFPC" target="_blank" rel="nofollow">Digital Moisture Meter</a> — Takes the guesswork out of watering
-- <a href="https://www.amazon.com/dp/B087TWTG9M" target="_blank" rel="nofollow">Levoit Humidifier</a> — Quiet, effective, and the plants agree
-- <a href="https://www.amazon.com/dp/B00M0RMQ8M" target="_blank" rel="nofollow">Fox Farm Potting Mix</a> — The chunky, well-draining mix your philodendron deserves
-- <a href="https://www.amazon.com/dp/B08XYZ1234" target="_blank" rel="nofollow">Moss Pole for Climbing Plants</a> — Give your vining philodendron something to cling to
+- <a href="https://www.amazon.com/dp/B00X4OXFPC?tag=feralfoliage-20" target="_blank" rel="nofollow">Digital Moisture Meter</a> — Takes the guesswork out of watering
+- <a href="https://www.amazon.com/dp/B087TWTG9M?tag=feralfoliage-20" target="_blank" rel="nofollow">Levoit Humidifier</a> — Quiet, effective, and the plants agree
+- <a href="https://www.amazon.com/dp/B00M0RMQ8M?tag=feralfoliage-20" target="_blank" rel="nofollow">Fox Farm Potting Mix</a> — The chunky, well-draining mix your philodendron deserves
+- <a href="https://www.amazon.com/dp/B08XYZ1234?tag=feralfoliage-20" target="_blank" rel="nofollow">Moss Pole for Climbing Plants</a> — Give your vining philodendron something to cling to
 
 ---
 
