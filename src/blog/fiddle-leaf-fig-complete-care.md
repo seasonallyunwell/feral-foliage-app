@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Fiddle Leaf Fig Care Guide: Complete Tutorial for 2026
-description: Master fiddle leaf fig care with our practical guide. Learn watering, light, soil mix, troubleshooting yellow leaves, brown spots, and more.
+title: "Fiddle Leaf Fig Care Guide: Complete Tutorial for 2026"
+description: "Master fiddle leaf fig care with our practical guide. Learn watering, light, soil mix, troubleshooting yellow leaves, brown spots, and more."
 slug: fiddle-leaf-fig-complete-care
 date: 2026-03-17
 author: "Feral Foliage"
