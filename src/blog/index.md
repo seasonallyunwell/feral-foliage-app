@@ -69,6 +69,11 @@ permalink: /blog/
     <h2>🛒 Gear Guides</h2>
     <div class="pinned-grid">
       <div class="pinned-card">
+        <h3><a href="/blog/best-budget-grow-lights-for-indoor-plants/">Best Budget Grow Lights for Indoor Plants</a></h3>
+        <div class="meta">Gear guide • grow lights • affiliate links</div>
+        <p>Find the best affordable grow lights for houseplants. Our top picks under $50, plus beginner tips on placement and usage.</p>
+      </div>
+      <div class="pinned-card">
         <h3><a href="/blog/starter-kit/">Starter Kit: Budget Edition</a></h3>
         <div class="meta">11 items • all under $20</div>
         <p>The essentials to prevent the most common plant disasters.</p>
