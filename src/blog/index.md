@@ -191,6 +191,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/best-nutrients-for-hydroponic-houseplants/">Best Nutrients for Hydroponic Houseplants</a></h2>
+    <div class="meta">Guide • hydroponics • nutrients • affiliate links</div>
+    <p>Find the best hydroponic nutrients for indoor plants. Beginner-friendly picks, feeding schedules, and tips for houseplant parents growing without soil.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/light-guide/">Light Guide: Stop Killing Plants in Dark Corners</a></h2>
     <div class="meta">Guide • grow lights • affiliate links</div>
     <p>Everything about houseplant lighting: window placement, measuring light, signs of stress, and grow light recommendations.</p>
