@@ -434,6 +434,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/fiddle-leaf-fig-complete-care/">Fiddle Leaf Fig: Complete Care Guide</a></h2>
+    <div class="meta">Plant Spotlights • fiddle leaf fig • care guide</div>
+    <p>Master fiddle leaf fig care with our practical guide. Learn watering, light, soil mix, troubleshooting yellow leaves, brown spots, and more.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/snake-plant-care-guide/">Snake Plant: Complete Care Guide</a></h2>
     <div class="meta">Plant Spotlights • snake plant • care guide</div>
     <p>Learn how to care for snake plants with our complete guide. Watering, light, soil, and troubleshooting tips for healthy plants.</p>
