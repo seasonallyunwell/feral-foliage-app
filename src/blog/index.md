@@ -191,6 +191,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/houseplant-light-levels-by-window-direction/">Houseplant Light by Window Direction — Find Your Perfect Spot</a></h2>
+    <div class="meta">Guide • light • window direction</div>
+    <p>Stop guessing where to put your plants. Here's the honest breakdown of what each window direction actually delivers — north, south, east, west.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/best-nutrients-for-hydroponic-houseplants/">Best Nutrients for Hydroponic Houseplants</a></h2>
     <div class="meta">Guide • hydroponics • nutrients • affiliate links</div>
     <p>Find the best hydroponic nutrients for indoor plants. Beginner-friendly picks, feeding schedules, and tips for houseplant parents growing without soil.</p>
