@@ -425,6 +425,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Pothos Hub</h2>
 
   <div class="card">
+    <h2><a href="/blog/best-pothos-for-low-light/">Best Pothos for Low Light</a></h2>
+    <div class="meta">Pothos • low light • houseplants</div>
+    <p>Discover the best pothos varieties for low light. Our ranking shows which thrive in dim spaces—from Jade to Marble Queen—with room-by-room recommendations.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pothos-leaves-troubleshooting/">Pothos Brown/Yellow Leaves Troubleshooting</a></h2>
     <div class="meta">Troubleshooting • pothos • diagnosis</div>
     <p>Discover why your Pothos leaves are turning yellow or brown. Quick diagnosis guide with proven fixes to save your plant.</p>
