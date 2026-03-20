@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: How to Propagate Snake Plant: Leaf Cuttings, Division & Water
+title: "How to Propagate Snake Plant: Leaf Cuttings, Division & Water"
 description: Learn the best snake plant propagation methods! Step-by-step guide covering leaf cuttings, division, and water propagation with week-by-week timeline.
 slug: snake-plant-propagation
 date: 2026-03-20
