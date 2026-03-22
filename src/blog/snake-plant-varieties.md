@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Snake Plant Varieties Compared: Moonshine, Whale Fin & Cylindrica
+title: "Snake Plant Varieties Compared: Moonshine, Whale Fin & Cylindrica"
 description: Compare Moonshine, Whale Fin, and Cylindrica snake plants side-by-side. Learn care needs, best uses, and which variety is right for your space.
 slug: snake-plant-varieties-compared
 date: 2026-03-21
