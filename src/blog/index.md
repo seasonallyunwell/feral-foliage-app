@@ -457,6 +457,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/snake-plant-varieties/">Snake Plant Varieties Compared (Moonshine, Whale Fin, Cylindrica)</a></h2>
+    <div class="meta">Plant Spotlights • snake plant • varieties</div>
+    <p>Compare Moonshine, Whale Fin, and Cylindrica snake plants side-by-side. Learn care needs, best uses, and which variety is right for your space.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/snake-plant-propagation/">Snake Plant Propagation (leaf cuttings, division)</a></h2>
     <div class="meta">Plant Spotlights • propagation • snake plant</div>
     <p>Learn the best snake plant propagation methods! Step-by-step guide covering leaf cuttings, division, and water propagation with week-by-week timeline.</p>
