@@ -457,6 +457,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/calathea-curling-leaves-causes-fixes/">Calathea Curling Leaves Causes & Fixes</a></h2>
+    <div class="meta">Plant Spotlights • calathea • troubleshooting</div>
+    <p>Why are your Calathea leaves curling? Discover the exact causes—in underwatering, humidity, root rot—and how to fix them with our visual diagnosis guide.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/calathea-care-guide/">Calathea Complete Care Guide</a></h2>
     <div class="meta">Plant Spotlights • calathea • care guide</div>
     <p>Learn how to care for Calathea plants with our complete guide. Fix brown leaves, curling, humidity needs, and watering secrets.</p>
