@@ -457,6 +457,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/calathea-care-guide/">Calathea Complete Care Guide</a></h2>
+    <div class="meta">Plant Spotlights • calathea • care guide</div>
+    <p>Learn how to care for Calathea plants with our complete guide. Fix brown leaves, curling, humidity needs, and watering secrets.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/snake-plant-varieties/">Snake Plant Varieties Compared (Moonshine, Whale Fin, Cylindrica)</a></h2>
     <div class="meta">Plant Spotlights • snake plant • varieties</div>
     <p>Compare Moonshine, Whale Fin, and Cylindrica snake plants side-by-side. Learn care needs, best uses, and which variety is right for your space.</p>
