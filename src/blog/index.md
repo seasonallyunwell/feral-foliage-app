@@ -343,6 +343,12 @@ permalink: /blog/
   <h2 class="section-title">🩺 Troubleshooting</h2>
 
   <div class="card">
+    <h2><a href="/blog/fiddle-leaf-fig-dropping-leaves/">Fiddle Leaf Fig Dropping Leaves Troubleshooting</a></h2>
+    <div class="meta">Troubleshooting • fiddle leaf fig • diagnosis</div>
+    <p>Your fiddle leaf fig is dropping leaves? Learn the 6 causes, how to identify them, and step-by-step fixes to save your plant.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/plant-er/">Plant ER: Troubleshooting Guide</a></h2>
     <div class="meta">Diagnosis • troubleshooting • affiliate links</div>
     <p>Yellow leaves? Brown tips? Drooping? Diagnose the problem before it's too late with this symptom checker.</p>
