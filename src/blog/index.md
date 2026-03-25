@@ -457,6 +457,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/calathea-best-varieties-for-beginners/">Calathea Best Varieties for Beginners</a></h2>
+    <div class="meta">Plant Spotlights • calathea • beginner guide</div>
+    <p>Not sure which calathea to start with? Our beginner-friendly guide ranks the easiest calathea varieties with difficulty ratings, care tips, and exactly which ones to avoid.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/calathea-curling-leaves-causes-fixes/">Calathea Curling Leaves Causes & Fixes</a></h2>
     <div class="meta">Plant Spotlights • calathea • troubleshooting</div>
     <p>Why are your Calathea leaves curling? Discover the exact causes—in underwatering, humidity, root rot—and how to fix them with our visual diagnosis guide.</p>
