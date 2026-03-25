@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Calathea Best Varieties for Beginners: Your Start-Here Guide
+title: "Calathea Best Varieties for Beginners: Your Start-Here Guide"
 description: Not sure which calathea to start with? Our beginner-friendly guide ranks the easiest calathea varieties with difficulty ratings, care tips, and exactly which ones to avoid.
 slug: calathea-best-varieties-for-beginners
 date: 2026-03-23
