@@ -463,6 +463,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/peace-lily-complete-care-guide/">Peace Lily Complete Care Guide</a></h2>
+    <div class="meta">Plant Spotlights • peace lily • care guide</div>
+    <p>Master peace lily care: watering, light, humidity, and troubleshooting brown tips, yellow leaves, and no blooms. Visual diagnosis guide included.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/alocasia-dormancy-winter-care/">Alocasia Dormancy & Winter Care</a></h2>
     <div class="meta">Alocasia • dormancy • seasonal care</div>
     <p>Learn exactly how to care for your Alocasia in winter. Covering dormancy signs, dead vs dormant identification, and common mistakes to avoid.</p>
