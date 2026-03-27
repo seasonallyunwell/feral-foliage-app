@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Alocasia Dormancy Guide: Winter Care & How to Tell If It's Dead
-description: Learn exactly how to care for your Alocasia in winter. Covering dormancy signs, dead vs dormant identification, and common mistakes to avoid.
+title: "Alocasia Dormancy Guide: Winter Care & How to Tell If It's Dead"
+description: "Learn exactly how to care for your Alocasia in winter. Covering dormancy signs, dead vs dormant identification, and common mistakes to avoid."
 slug: alocasia-dormancy-winter-care
 date: 2026-03-25
 author: "Feral Foliage"
