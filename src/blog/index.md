@@ -463,6 +463,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/alocasia-dormancy-winter-care/">Alocasia Dormancy & Winter Care</a></h2>
+    <div class="meta">Alocasia • dormancy • seasonal care</div>
+    <p>Learn exactly how to care for your Alocasia in winter. Covering dormancy signs, dead vs dormant identification, and common mistakes to avoid.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/calathea-best-varieties-for-beginners/">Calathea Best Varieties for Beginners</a></h2>
     <div class="meta">Plant Spotlights • calathea • beginner guide</div>
     <p>Not sure which calathea to start with? Our beginner-friendly guide ranks the easiest calathea varieties with difficulty ratings, care tips, and exactly which ones to avoid.</p>
