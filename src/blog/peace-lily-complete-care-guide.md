@@ -1,9 +1,9 @@
 ---
 layout: base.njk
-title: Peace Lily Care Guide: Complete Beginner to Expert [2026]
-description: Master peace lily care: watering, light, humidity, and troubleshooting brown tips, yellow leaves, and no blooms. Visual diagnosis guide included.
-slug: peace-lily-care-guide-complete
-date: 2026-03-27
+title: "Peace Lily Care Guide: Complete Beginner to Expert [2026]"
+description: "Master peace lily care: watering, light, humidity, and troubleshooting brown tips, yellow leaves, and no blooms. Visual diagnosis guide included."
+slug: "peace-lily-care-guide-complete"
+date: "2026-03-27"
 author: "Feral Foliage"
 ---
 
