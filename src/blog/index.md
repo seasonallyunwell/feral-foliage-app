@@ -463,6 +463,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/peace-lily-brown-tips-drooping/">Peace Lily Brown Tips & Drooping Fixes</a></h2>
+    <div class="meta">Plant Spotlights • peace lily • troubleshooting • diagnosis</div>
+    <p>Is your peace lily drooping or getting brown tips? Discover the 6 main causes, quick fixes, and recovery timelines in this practical troubleshooting guide.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/peace-lily-complete-care-guide/">Peace Lily Complete Care Guide</a></h2>
     <div class="meta">Plant Spotlights • peace lily • care guide</div>
     <p>Master peace lily care: watering, light, humidity, and troubleshooting brown tips, yellow leaves, and no blooms. Visual diagnosis guide included.</p>
