@@ -129,6 +129,12 @@ permalink: /blog/
   <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
+    <h2><a href="/blog/best-bedroom-plants-for-sleep-air-quality/">Best Bedroom Plants for Sleep & Clean Air — Top Picks for Your Sanctuary</a></h2>
+    <div class="meta">Room guide • bedroom • sleep • air quality</div>
+    <p>Transform your bedroom into a sanctuary with plants that purify air and boost sleep. Expert picks, care guides, and beginner tips.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/best-plants-for-bathroom-high-humidity/">Best Plants for Your Bathroom — High Humidity Picks That Actually Thrive</a></h2>
     <div class="meta">Room guide • bathroom • high humidity</div>
     <p>Transform your bathroom with plants that actually love humidity. Discover the best high-humidity houseplants for steamy bathrooms, plus placement tips.</p>
