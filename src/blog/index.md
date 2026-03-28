@@ -481,6 +481,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/bird-of-paradise-plant-care-indoor-flowering/">Bird of Paradise Care Guide — How to Get Those Epic Orange Flowers</a></h2>
+    <div class="meta">Plant Spotlights • bird of paradise • blooming • care guide</div>
+    <p>Learn the exact bloom trigger protocol for indoor bird of paradise plants. Get those iconic orange flowers with specific light, water, and pot-bound strategies.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/hoya-plant-care-guide-wax-plant-indoor/">Hoya Care Guide — Wax Plants, Blooms & Why Collectors Can't Stop Buying Them</a></h2>
     <div class="meta">Plant Spotlights • hoya • wax plant • care guide</div>
     <p>Complete hoya plant care guide for beginners & collectors. Learn light, water, soil needs, how to get your wax plant blooming, and top varieties.</p>
