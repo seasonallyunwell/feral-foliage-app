@@ -323,6 +323,12 @@ permalink: /blog/
   <h2 class="section-title">🐛 Pest Control</h2>
 
   <div class="card">
+    <h2><a href="/blog/houseplant-pest-prevention-routine-monthly-checklist/">Houseplant Pest Prevention Routine — A Monthly Checklist to Stay Bug-Free</a></h2>
+    <div class="meta">Pest control • prevention • routine</div>
+    <p>A simple monthly pest prevention routine for houseplants. Check inspections, quarantine new plants, and spot early signs before infestations start.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/pest-id/">Pest ID Guide: What's Eating Your Plant</a></h2>
     <div class="meta">Pest control • affiliate links</div>
     <p>Identify fungus gnats, spider mites, mealybugs, aphids, scale, and thrips. Treatment ladders from free to nuclear options.</p>
