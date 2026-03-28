@@ -475,6 +475,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/hoya-plant-care-guide-wax-plant-indoor/">Hoya Care Guide — Wax Plants, Blooms & Why Collectors Can't Stop Buying Them</a></h2>
+    <div class="meta">Plant Spotlights • hoya • wax plant • care guide</div>
+    <p>Complete hoya plant care guide for beginners & collectors. Learn light, water, soil needs, how to get your wax plant blooming, and top varieties.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/aloe-vera-plant-care-indoor-growing/">Aloe Vera Care Guide — Growing Healing Succulents Indoors</a></h2>
     <div class="meta">Plant Spotlights • aloe vera • succulents • care guide</div>
     <p>Learn how to care for aloe vera plants indoors with our easy guide. Discover watering schedules, light needs, soil tips, and how to harvest healing gel.</p>
