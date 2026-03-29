@@ -203,6 +203,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/dark-foliage-houseplants-care-guide-black-burgundy-indoor-plants/">Dark Foliage Houseplants Care Guide — Black Velvet, Burgundy & Chocolate Plants</a></h2>
+    <div class="meta">Plant Care Essentials • dark foliage • humidity • soil mix</div>
+    <p>The plants that make your plant shelf look like it belongs in a witch's study. Here's how to keep them that way.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/houseplant-light-levels-by-window-direction/">Houseplant Light by Window Direction — Find Your Perfect Spot</a></h2>
     <div class="meta">Guide • light • window direction</div>
     <p>Stop guessing where to put your plants. Here's the honest breakdown of what each window direction actually delivers — north, south, east, west.</p>
