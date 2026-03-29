@@ -487,6 +487,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/english-ivy-care-guide-indoor-hanging-plant/">English Ivy Care Guide — The Classic Hanging Indoor Plant</a></h2>
+    <div class="meta">Plant Spotlights • english ivy • pruning • spider mites</div>
+    <p>Your complete guide to growing English Ivy indoors. Spider mite prevention, watering schedule, pruning tips, pet safety, and the best varieties to try.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/bird-of-paradise-plant-care-indoor-flowering/">Bird of Paradise Care Guide — How to Get Those Epic Orange Flowers</a></h2>
     <div class="meta">Plant Spotlights • bird of paradise • blooming • care guide</div>
     <p>Learn the exact bloom trigger protocol for indoor bird of paradise plants. Get those iconic orange flowers with specific light, water, and pot-bound strategies.</p>
