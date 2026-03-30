@@ -213,7 +213,7 @@ permalink: /
       <a href="/blog/" class="browse-btn">Browse Troubleshooting</a>
     </div><div class="category-card">
       <h3>🌿 Monstera Guides</h3>
-      <div class="count">7 guides</div>
+      <div class="count">8 guides</div>
       <p>Everything Monstera: aerial roots, fenestrations, propagation, support structures, variegation types, and yellow leaves.</p>
       <a href="/blog/" class="browse-btn">Browse Monstera Guides</a>
     </div><div class="category-card">
@@ -224,7 +224,7 @@ permalink: /
     </div></div>
 
   <div style="text-align:center;margin:40px 0">
-    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 100 Guides →</a>
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 101 Guides →</a>
   </div>
 </div>
 

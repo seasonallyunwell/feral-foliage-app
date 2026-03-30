@@ -417,6 +417,12 @@ permalink: /blog/
   <h2 class="section-title">🌿 Monstera Hub</h2>
 
   <div class="card">
+    <h2><a href="/blog/thai-constellation-monstera-care-guide/">Thai Constellation Monstera Care: The Stable Variegated Variety Worth the Price</a></h2>
+    <div class="meta">Monstera Hub • Thai Constellation • variegated plants • care guide</div>
+    <p>Master Thai Constellation Monstera care with this complete guide. Learn why its stable variegation makes it worth the price compared to Albo — watering, humidity, light & more.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-save-a-dying-monstera-from-root-rot/">How to Save a Dying Monstera from Root Rot (Emergency Guide)</a></h2>
     <div class="meta">Monstera • troubleshooting • emergency care</div>
     <p>Act fast to save your Monstera! This step-by-step guide shows exactly how to diagnose, treat, and recover root rot in Monsteras.</p>
