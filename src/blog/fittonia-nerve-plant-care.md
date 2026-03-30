@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Fittonia Care Guide: How to Keep Your Drama Queen Nerve Plant Happy
+title: "Fittonia Care Guide: How to Keep Your Drama Queen Nerve Plant Happy"
 description: Complete fittonia care guide for the dramatic nerve plant that faints when thirsty. Learn watering frequency, humidity needs, terrarium setups & revival tips.
 slug: fittonia-nerve-plant-care
 date: 2026-03-29

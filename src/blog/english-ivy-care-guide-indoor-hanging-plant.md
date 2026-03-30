@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: English Ivy Care Guide: Everything You Need to Know
+title: "English Ivy Care Guide: Everything You Need to Know"
 description: Your complete guide to growing English Ivy indoors. Spider mite prevention, watering schedule, pruning tips, pet safety, and the best varieties to try.
 slug: english-ivy-care-guide-indoor-hanging-plant
 date: 2026-03-29
