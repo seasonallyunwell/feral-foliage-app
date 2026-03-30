@@ -487,6 +487,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/fittonia-nerve-plant-care/">Fittonia Care Guide — The Drama Queen Nerve Plant That Faints When Thirsty</a></h2>
+    <div class="meta">Plant Spotlights • fittonia • nerve plant • humidity • terrarium</div>
+    <p>Complete fittonia care guide for the dramatic nerve plant that faints when thirsty. Learn watering frequency, humidity needs, terrarium setups & revival tips.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/english-ivy-care-guide-indoor-hanging-plant/">English Ivy Care Guide — The Classic Hanging Indoor Plant</a></h2>
     <div class="meta">Plant Spotlights • english ivy • pruning • spider mites</div>
     <p>Your complete guide to growing English Ivy indoors. Spider mite prevention, watering schedule, pruning tips, pet safety, and the best varieties to try.</p>
