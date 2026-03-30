@@ -203,6 +203,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/too-many-houseplants-how-to-manage-large-plant-collection/">Houseplant Hoarding Intervention — When to Stop Buying & Start Caring</a></h2>
+    <div class="meta">Plant Care Essentials • collection management • buying freeze</div>
+    <p>Overwhelmed by your plant collection? Use this step-by-step intervention to stop impulse buying, triage your plants, and build a care routine that actually works.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/dark-foliage-houseplants-care-guide-black-burgundy-indoor-plants/">Dark Foliage Houseplants Care Guide — Black Velvet, Burgundy & Chocolate Plants</a></h2>
     <div class="meta">Plant Care Essentials • dark foliage • humidity • soil mix</div>
     <p>The plants that make your plant shelf look like it belongs in a witch's study. Here's how to keep them that way.</p>
