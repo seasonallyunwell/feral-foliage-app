@@ -203,6 +203,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-move-plants-safely-relocation-guide/">Moving with Plants: Complete Relocation Guide for Plant Parents</a></h2>
+    <div class="meta">Plant Care Essentials • moving • transport • relocation</div>
+    <p>The stress of leaving your green family behind doesn't have to kill them. Learn how to pack, transport, and settle your plants in your new home—without the panic.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/too-many-houseplants-how-to-manage-large-plant-collection/">Houseplant Hoarding Intervention — When to Stop Buying & Start Caring</a></h2>
     <div class="meta">Plant Care Essentials • collection management • buying freeze</div>
     <p>Overwhelmed by your plant collection? Use this step-by-step intervention to stop impulse buying, triage your plants, and build a care routine that actually works.</p>
