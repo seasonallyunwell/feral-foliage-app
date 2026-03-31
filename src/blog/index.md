@@ -289,6 +289,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/diy-potting-mix-recipe-homemade-soil-indoor-plants/">DIY Potting Mix Recipes — Custom Soil for Every Plant Type</a></h2>
+    <div class="meta">Watering & Soil • DIY • soil mix • repotting</div>
+    <p>Learn to make the best potting mix for every plant. 5 proven recipes for tropical, succulent, and all-purpose soil. Save money and give plants the drainage they need.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/watering-guide/">Watering Guide: Stop Drowning Your Plants</a></h2>
     <div class="meta">Guide • affiliate links</div>
     <p>When and how to water based on soil moisture, not a schedule. Plus signs of over/underwatering and tools that help.</p>
