@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: DIY Potting Mix Recipes: Custom Soil for Every Plant Type
-description: Learn to make the best potting mix for every plant. 5 proven recipes for tropical, succulent, and all-purpose soil. Save money and give plants the drainage they need.
+title: "DIY Potting Mix Recipes: Custom Soil for Every Plant Type"
+description: "Learn to make the best potting mix for every plant. 5 proven recipes for tropical, succulent, and all-purpose soil. Save money and give plants the drainage they need."
 slug: diy-potting-mix-recipes-custom-soil-every-plant-type
 date: 2026-03-31
 author: "Feral Foliage"
