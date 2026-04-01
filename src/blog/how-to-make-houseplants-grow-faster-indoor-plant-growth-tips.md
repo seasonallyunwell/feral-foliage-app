@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: How to Make Houseplants Grow Faster: 10 Tips That Work
+title: "How to Make Houseplants Grow Faster: 10 Tips That Work"
 description: Accelerate your indoor plant growth with science-backed tips. Learn what actually works — light, fertilizer, watering precision, and more.
 slug: how-to-make-houseplants-grow-faster-indoor-plant-growth-tips
 date: 2026-03-31
@@ -35,7 +35,6 @@ Growth means two things: **new leaves** and **bigger leaves**. If your plant has
 
 **How long does it take for houseplants to grow?** Most tropical houseplants push 1-3 new leaves per month during spring and summer. In winter? You might get nothing. That's not a problem — that's dormancy. Don't panic. Don't overcorrect.
 
-{% include "image-placeholder.njk" %}
 <figure>
 <img src="/images/seasonal-growth-expectations-chart.jpg" alt="Simple infographic showing houseplant growth rates across spring, summer, fall, and winter with leaf icons and percentage bars" style="width:100%;border-radius:10px;margin:16px 0">
 <figcaption>Realistic growth expectations: spring and summer are peak seasons. Don't expect miracles in December.</figcaption>
@@ -93,7 +92,6 @@ Succulents and cacti couldn't care less about humidity. Snake Plants are basical
 
 No special equipment needed. These five tips take under an hour total and measurably boost growth.
 
-{% include "image-placeholder.njk" %}
 <figure>
 <img src="/images/plant-growth-quick-wins-checklist.jpg" alt="Flat lay of 5 plant care items representing quick-win tips: fertilizer bottle, moisture meter, plant mister, spray cloth, and a small pothos cutting" style="width:100%;border-radius:10px;margin:16px 0">
 <figcaption>Five quick wins you can tackle this weekend — no special equipment needed.</figcaption>
@@ -145,7 +143,6 @@ Pruning sounds counterintuitive — you're cutting off plant to get more plant? 
 
 The key: **cut just above a node** (the point where a leaf meets the stem). That's where the new growth will emerge.
 
-{% include "image-placeholder.njk" %}
 <figure>
 <img src="/images/pruning-above-node-demonstration.jpg" alt="Close-up of pruning shears cutting a pothos stem just above a node, with a visible leaf node and new tiny growth point" style="width:100%;border-radius:10px;margin:16px 0">
 <figcaption>Cut just above a node — that's where the new growth will emerge.</figcaption>
@@ -161,7 +158,6 @@ Here's the counterintuitive tip nobody explains properly: **slightly root-bound 
 
 Why? When roots hit the edges of a pot, the plant shifts its energy from "filling the pot with roots" to "pushing new leaves." It's responding to a space constraint by prioritizing above-ground growth. For some plants — especially fast-growing tropicals like Pothos and Monstera — this can actually accelerate leaf production.
 
-{% include "image-placeholder.njk" %}
 <figure>
 <img src="/images/root-bound-vs-properly-potted-comparison.jpg" alt="Comparison of a monstera in a slightly root-bound state vs the same plant in an oversized pot with soggy soil" style="width:100%;border-radius:10px;margin:16px 0">
 <figcaption>Slightly root-bound (left) can trigger faster growth. Overpotted (right) invites root rot.</figcaption>
@@ -182,7 +178,6 @@ Monstera, Pothos, Philodendron, and Scindapsus are climbing plants. In the wild,
 
 When given a structure to climb, these plants activate their latent aerial root systems and redirect energy into producing larger, more deeply fenestrated leaves. A Monstera on a 4-foot moss pole will produce dramatically bigger leaves than the same Monstera trailing on a shelf.
 
-{% include "image-placeholder.njk" %}
 <figure>
 <img src="/images/moss-pole-monstera-growth.jpg" alt="Monstera growing up a moss pole with visible aerial roots anchored into the coir, showing large fenestrated leaves at the top" style="width:100%;border-radius:10px;margin:16px 0">
 <figcaption>A moss pole gives climbing plants like this Monstera something to anchor into — and the leaves size up as a reward.</figcaption>
