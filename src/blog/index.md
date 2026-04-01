@@ -203,6 +203,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-make-houseplants-grow-faster-indoor-plant-growth-tips/">How to Make Your Houseplants Grow Faster — Proven Tips That Actually Work</a></h2>
+    <div class="meta">Plant Care Essentials • growth tips • light • fertilizer • pruning</div>
+    <p>Accelerate your indoor plant growth with science-backed tips. Learn what actually speeds up growth — light, fertilizer, watering precision, and more.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-move-plants-safely-relocation-guide/">Moving with Plants: Complete Relocation Guide for Plant Parents</a></h2>
     <div class="meta">Plant Care Essentials • moving • transport • relocation</div>
     <p>The stress of leaving your green family behind doesn't have to kill them. Learn how to pack, transport, and settle your plants in your new home—without the panic.</p>
