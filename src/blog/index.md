@@ -129,6 +129,12 @@ permalink: /blog/
   <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
+    <h2><a href="/blog/indestructible-houseplants-hardest-plants-survive-neglect/">Indestructible Plants — The Hardest Houseplants That Survive Everything</a></h2>
+    <div class="meta">Beginner guide • indestructible • beginner picks</div>
+    <p>These 12 houseplants survive neglect, low light, and forgetful owners. Snake plant, ZZ plant, pothos, and more — pet-safe options included.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/best-bedroom-plants-for-sleep-air-quality/">Best Bedroom Plants for Sleep & Clean Air — Top Picks for Your Sanctuary</a></h2>
     <div class="meta">Room guide • bedroom • sleep • air quality</div>
     <p>Transform your bedroom into a sanctuary with plants that purify air and boost sleep. Expert picks, care guides, and beginner tips.</p>
