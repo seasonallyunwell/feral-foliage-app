@@ -523,6 +523,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/air-plants-tillandsia-care-guide-indoor/">Air Plants (Tillandsia) Complete Care Guide — No Soil Required</a></h2>
+    <div class="meta">Plant Spotlights • air plants • tillandsia • watering • display</div>
+    <p>Everything you need to know about air plant care — watering, light, fertilizer, display ideas, and troubleshooting. Tillandsia thrive without soil.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/fittonia-nerve-plant-care/">Fittonia Care Guide — The Drama Queen Nerve Plant That Faints When Thirsty</a></h2>
     <div class="meta">Plant Spotlights • fittonia • nerve plant • humidity • terrarium</div>
     <p>Complete fittonia care guide for the dramatic nerve plant that faints when thirsty. Learn watering frequency, humidity needs, terrarium setups & revival tips.</p>
