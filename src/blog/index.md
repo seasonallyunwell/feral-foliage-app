@@ -209,6 +209,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-clean-houseplant-leaves-dust-indoor-plants/">How to Clean Houseplant Leaves — Why It Matters More Than You Think</a></h2>
+    <div class="meta">Plant Care Essentials • leaf cleaning • maintenance • pest inspection</div>
+    <p>Dusty houseplant leaves block light and invite pests. Learn 5 methods for cleaning indoor plant leaves, which to use for each plant type, and what NOT to put on them.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-make-houseplants-grow-faster-indoor-plant-growth-tips/">How to Make Your Houseplants Grow Faster — Proven Tips That Actually Work</a></h2>
     <div class="meta">Plant Care Essentials • growth tips • light • fertilizer • pruning</div>
     <p>Accelerate your indoor plant growth with science-backed tips. Learn what actually speeds up growth — light, fertilizer, watering precision, and more.</p>
