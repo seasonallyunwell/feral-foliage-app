@@ -365,6 +365,12 @@ permalink: /blog/
   <h2 class="section-title">🐛 Pest Control</h2>
 
   <div class="card">
+    <h2><a href="/blog/thrips-on-houseplants/">Thrips on Houseplants — How to Identify, Treat & Prevent Them for Good</a></h2>
+    <div class="meta">Pest control • treatment guide • thrips • identification</div>
+    <p>Stop thrips in their tracks: the 4-week lifecycle-based protocol for identifying, treating, and preventing thrips on houseplants — what actually works.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/houseplant-pest-prevention-routine-monthly-checklist/">Houseplant Pest Prevention Routine — A Monthly Checklist to Stay Bug-Free</a></h2>
     <div class="meta">Pest control • prevention • routine</div>
     <p>A simple monthly pest prevention routine for houseplants. Check inspections, quarantine new plants, and spot early signs before infestations start.</p>
