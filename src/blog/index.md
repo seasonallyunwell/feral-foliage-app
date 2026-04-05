@@ -535,6 +535,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/rubber-plant-care-ficus-elastica/">Rubber Plant Care & Varieties — Burgundy, Tineke, Ruby and More</a></h2>
+    <div class="meta">Plant Spotlights • rubber plant • ficus elastica • varieties • care guide</div>
+    <p>Learn rubber plant care for Burgundy, Tineke, Ruby and more. Includes variety ID guide, watering tips, pruning advice, and problem diagnosis.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/air-plants-tillandsia-care-guide-indoor/">Air Plants (Tillandsia) Complete Care Guide — No Soil Required</a></h2>
     <div class="meta">Plant Spotlights • air plants • tillandsia • watering • display</div>
     <p>Everything you need to know about air plant care — watering, light, fertilizer, display ideas, and troubleshooting. Tillandsia thrive without soil.</p>
