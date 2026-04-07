@@ -307,6 +307,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/best-water-for-houseplants/">Best Water for Houseplants — Tap vs Filtered vs Distilled (What Actually Matters)</a></h2>
+    <div class="meta">Watering & Soil • water quality • TDS • filtering</div>
+    <p>Confused about what water to use for your houseplants? Here's what actually matters about tap, filtered, and distilled water — and how to choose the right one for your plants.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/diy-potting-mix-recipe-homemade-soil-indoor-plants/">DIY Potting Mix Recipes — Custom Soil for Every Plant Type</a></h2>
     <div class="meta">Watering & Soil • DIY • soil mix • repotting</div>
     <p>Learn to make the best potting mix for every plant. 5 proven recipes for tropical, succulent, and all-purpose soil. Save money and give plants the drainage they need.</p>
