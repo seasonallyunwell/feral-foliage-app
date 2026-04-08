@@ -307,6 +307,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/coco-coir-houseplant-soil-amendment-how-to-use/">Coco Coir for Houseplants — The Modern Soil Amendment Replacing Peat Moss</a></h2>
+    <div class="meta">Watering & Soil • coco coir • soil amendment • cal-mag • peat moss alternative</div>
+    <p>Learn how to use coco coir for houseplants. Covers rehydration, cal-mag buffering, mix recipes by plant type, and coco coir vs peat moss.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/best-water-for-houseplants/">Best Water for Houseplants — Tap vs Filtered vs Distilled (What Actually Matters)</a></h2>
     <div class="meta">Watering & Soil • water quality • TDS • filtering</div>
     <p>Confused about what water to use for your houseplants? Here's what actually matters about tap, filtered, and distilled water — and how to choose the right one for your plants.</p>
