@@ -547,6 +547,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-care-for-zz-plant-zamioculcas-indoors/">ZZ Plant Complete Care Guide — Light, Water, Propagation & Troubleshooting</a></h2>
+    <div class="meta">Plant Spotlights • ZZ plant • care guide • watering • propagation • troubleshooting</div>
+    <p>Complete ZZ plant care guide — light needs, watering schedule, propagation (3 methods), and troubleshooting. Decision tree for yellow leaves and root rot.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/rubber-plant-care-ficus-elastica/">Rubber Plant Care & Varieties — Burgundy, Tineke, Ruby and More</a></h2>
     <div class="meta">Plant Spotlights • rubber plant • ficus elastica • varieties • care guide</div>
     <p>Learn rubber plant care for Burgundy, Tineke, Ruby and more. Includes variety ID guide, watering tips, pruning advice, and problem diagnosis.</p>
