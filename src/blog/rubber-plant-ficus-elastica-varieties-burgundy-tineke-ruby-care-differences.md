@@ -2,7 +2,7 @@
 layout: base.njk
 title: Rubber Plant Varieties Compared: Burgundy vs Tineke vs Ruby
 description: Compare Burgundy, Tineke & Ruby rubber plant varieties — light needs, care difficulty, price & looks. Find which one's right for your space.
-slug: rubber-plant-varieties-compared-burgundy-tineke-ruby
+slug: rubber-plant-ficus-elastica-varieties-burgundy-tineke-ruby-care-differences
 date: 2026-04-12
 author: "Feral Foliage"
 ---
