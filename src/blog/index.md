@@ -547,6 +547,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/rubber-plant-ficus-elastica-varieties-burgundy-tineke-ruby-care-differences/">Rubber Plant Varieties Compared — Burgundy vs Tineke vs Ruby (Care & Differences)</a></h2>
+    <div class="meta">Plant Spotlights • rubber plant • ficus elastica • varieties • comparison</div>
+    <p>Compare Burgundy, Tineke & Ruby rubber plant varieties — light needs, care difficulty, price & looks. Find which one's right for your space.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-care-for-zz-plant-zamioculcas-indoors/">ZZ Plant Complete Care Guide — Light, Water, Propagation & Troubleshooting</a></h2>
     <div class="meta">Plant Spotlights • ZZ plant • care guide • watering • propagation • troubleshooting</div>
     <p>Complete ZZ plant care guide — light needs, watering schedule, propagation (3 methods), and troubleshooting. Decision tree for yellow leaves and root rot.</p>
