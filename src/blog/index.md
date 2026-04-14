@@ -547,6 +547,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-care-for-prayer-plant-maranta-crispy-leaves-fix/">Prayer Plant Care Guide: Fix Crispy Leaves on Maranta</a></h2>
+    <div class="meta">Plant Spotlights • prayer plant • maranta • troubleshooting • humidity</div>
+    <p>Discover why your prayer plant has crispy leaves and how to fix it. Complete Maranta care guide with humidity tips, watering schedule, and prevention strategies.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/rubber-plant-ficus-elastica-varieties-burgundy-tineke-ruby-care-differences/">Rubber Plant Varieties Compared — Burgundy vs Tineke vs Ruby (Care & Differences)</a></h2>
     <div class="meta">Plant Spotlights • rubber plant • ficus elastica • varieties • comparison</div>
     <p>Compare Burgundy, Tineke & Ruby rubber plant varieties — light needs, care difficulty, price & looks. Find which one's right for your space.</p>
