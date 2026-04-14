@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Prayer Plant Care Guide: Fix Crispy Leaves on Maranta
-description: Discover why your prayer plant has crispy leaves and how to fix it. Complete Maranta care guide with humidity tips, watering schedule, and prevention strategies.
+title: "Prayer Plant Care Guide: Fix Crispy Leaves on Maranta"
+description: "Discover why your prayer plant has crispy leaves and how to fix it. Complete Maranta care guide with humidity tips, watering schedule, and prevention strategies."
 slug: how-to-care-for-prayer-plant-maranta-crispy-leaves-fix
 date: 2026-04-13
 author: "Feral Foliage"
