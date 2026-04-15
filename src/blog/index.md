@@ -547,6 +547,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-care-for-chinese-evergreen-aglaonema-indoors-complete-guide/">Chinese Evergreen Care Guide — How to Grow Aglaonema Indoors</a></h2>
+    <div class="meta">Plant Spotlights • aglaonema • low light • watering • care guide</div>
+    <p>Complete Aglaonema care guide: watering schedule, light needs, soil mix, and troubleshooting yellow leaves and drooping. Low-maintenance and dark-room tolerant.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-care-for-prayer-plant-maranta-crispy-leaves-fix/">Prayer Plant Care Guide: Fix Crispy Leaves on Maranta</a></h2>
     <div class="meta">Plant Spotlights • prayer plant • maranta • troubleshooting • humidity</div>
     <p>Discover why your prayer plant has crispy leaves and how to fix it. Complete Maranta care guide with humidity tips, watering schedule, and prevention strategies.</p>
