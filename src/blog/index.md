@@ -129,6 +129,12 @@ permalink: /blog/
   <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-build-a-terrarium-closed-ecosystem-indoor-plants/">How to Build a Terrarium — Closed Ecosystem Guide for Indoor Plants</a></h2>
+    <div class="meta">Getting Started • terrarium • closed ecosystem • DIY • beginner</div>
+    <p>Learn how to build a self-sustaining closed terrarium — ecosystem science, best plants, proper layering, and troubleshooting all covered.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/indestructible-houseplants-hardest-plants-survive-neglect/">Indestructible Plants — The Hardest Houseplants That Survive Everything</a></h2>
     <div class="meta">Beginner guide • indestructible • beginner picks</div>
     <p>These 12 houseplants survive neglect, low light, and forgetful owners. Snake plant, ZZ plant, pothos, and more — pet-safe options included.</p>
