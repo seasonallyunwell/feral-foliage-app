@@ -383,6 +383,12 @@ permalink: /blog/
   <h2 class="section-title">🐛 Pest Control</h2>
 
   <div class="card">
+    <h2><a href="/blog/scale-insects-on-houseplants-identification-treatment/">Scale Insects on Houseplants — Identification & Treatment Guide</a></h2>
+    <div class="meta">Pest Control • identification • treatment guide • scale • crawlers</div>
+    <p>Learn to identify scale insects on houseplants and eliminate them for good. Covers soft vs armored scale, crawler timing, treatment schedules, and stop criteria.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/thrips-on-houseplants/">Thrips on Houseplants — How to Identify, Treat & Prevent Them for Good</a></h2>
     <div class="meta">Pest control • treatment guide • thrips • identification</div>
     <p>Stop thrips in their tracks: the 4-week lifecycle-based protocol for identifying, treating, and preventing thrips on houseplants — what actually works.</p>
