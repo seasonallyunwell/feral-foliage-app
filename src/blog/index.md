@@ -477,6 +477,12 @@ permalink: /blog/
   <h2 class="section-title">🌿 Monstera Hub</h2>
 
   <div class="card">
+    <h2><a href="/blog/monstera-adansonii-vs-obliqua-difference-care/">Monstera Adansonii vs Obliqua — How to Tell the Difference (& Which to Buy)</a></h2>
+    <div class="meta">Monstera Hub • identification • buying guide • care comparison</div>
+    <p>Confused about Monstera Adansonii vs Obliqua? This guide covers 7 unmistakable differences, honest buying tips, and a clear 'which to buy' decision framework.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/thai-constellation-monstera-care-guide/">Thai Constellation Monstera Care: The Stable Variegated Variety Worth the Price</a></h2>
     <div class="meta">Monstera Hub • Thai Constellation • variegated plants • care guide</div>
     <p>Master Thai Constellation Monstera care with this complete guide. Learn why its stable variegation makes it worth the price compared to Albo — watering, humidity, light & more.</p>
