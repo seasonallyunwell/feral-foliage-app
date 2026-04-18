@@ -565,6 +565,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/string-of-hearts-care-guide-variegated/">String of Hearts Care: Variegated Ceropegia Woodii Guide</a></h2>
+    <div class="meta">Plant Spotlights • variegated plants • string of hearts • care guide</div>
+    <p>The trailing vine that'll make you feel like you have your life together, even when you just forgot to water it for three weeks. Learn how to keep the pink variegation vibrant.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-care-for-chinese-evergreen-aglaonema-indoors-complete-guide/">Chinese Evergreen Care Guide — How to Grow Aglaonema Indoors</a></h2>
     <div class="meta">Plant Spotlights • aglaonema • low light • watering • care guide</div>
     <p>Complete Aglaonema care guide: watering schedule, light needs, soil mix, and troubleshooting yellow leaves and drooping. Low-maintenance and dark-room tolerant.</p>
