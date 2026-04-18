@@ -433,6 +433,12 @@ permalink: /blog/
   <h2 class="section-title">🩺 Troubleshooting</h2>
 
   <div class="card">
+    <h2><a href="/blog/common-houseplant-mistakes-beginner-errors-kill-plants/">Common Houseplant Mistakes That Kill Plants — Beginner Errors to Avoid</a></h2>
+    <div class="meta">Troubleshooting • beginner mistakes • overwatering • drainage • watering schedule • pot size</div>
+    <p>Killing houseplants is normal — but preventable. Learn the 7 beginner mistakes that kill plants, why they actually die, and how to rescue yours.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/fiddle-leaf-fig-dropping-leaves/">Fiddle Leaf Fig Dropping Leaves Troubleshooting</a></h2>
     <div class="meta">Troubleshooting • fiddle leaf fig • diagnosis</div>
     <p>Your fiddle leaf fig is dropping leaves? Learn the 6 causes, how to identify them, and step-by-step fixes to save your plant.</p>
