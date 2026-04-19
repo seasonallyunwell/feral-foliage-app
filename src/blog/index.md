@@ -577,6 +577,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/spider-plant-care-guide-chlorophytum-comosum-varieties-vittatum-bonnie/">Spider Plant Care Guide — The Easy, Air-Purifying Classic That Produces Babies</a></h2>
+    <div class="meta">Plant Spotlights • spider plant • air-purifying • propagation • beginner • pet-safe</div>
+    <p>Learn spider plant care — NASA's top air purifier that's pet-safe and produces babies. Covers watering, light, propagation, varieties Vittatum vs Bonnie, and troubleshooting brown tips.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/string-of-hearts-care-guide-variegated/">String of Hearts Care: Variegated Ceropegia Woodii Guide</a></h2>
     <div class="meta">Plant Spotlights • variegated plants • string of hearts • care guide</div>
     <p>The trailing vine that'll make you feel like you have your life together, even when you just forgot to water it for three weeks. Learn how to keep the pink variegation vibrant.</p>
