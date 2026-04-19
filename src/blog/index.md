@@ -129,6 +129,12 @@ permalink: /blog/
   <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
+    <h2><a href="/blog/feng-shui-plants-for-home-positive-energy-good-luck/">Best Feng Shui Houseplants — Plants That Attract Positive Energy to Every Room</a></h2>
+    <div class="meta">Getting Started • feng shui • room guide • plant selection • beginner</div>
+    <p>The best feng shui houseplants for positive energy, good luck and prosperity — with a room-by-room placement guide, bagua map tips and care advice.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-build-a-terrarium-closed-ecosystem-indoor-plants/">How to Build a Terrarium — Closed Ecosystem Guide for Indoor Plants</a></h2>
     <div class="meta">Getting Started • terrarium • closed ecosystem • DIY • beginner</div>
     <p>Learn how to build a self-sustaining closed terrarium — ecosystem science, best plants, proper layering, and troubleshooting all covered.</p>
