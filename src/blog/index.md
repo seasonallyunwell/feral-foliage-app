@@ -313,6 +313,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/perlite-vs-vermiculite-vs-pumice-houseplant-soil-amendment/">Perlite vs Vermiculite vs Pumice — Which Soil Amendment Does Your Plant Need?</a></h2>
+    <div class="meta">💧 Watering & Soil • perlite • vermiculite • pumice • soil amendment • drainage</div>
+    <p>Not sure which soil amendment to use? Compare perlite, vermiculite, and pumice for drainage, moisture retention, and aeration. Find the perfect match for your houseplants.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/coco-coir-houseplant-soil-amendment-how-to-use/">Coco Coir for Houseplants — The Modern Soil Amendment Replacing Peat Moss</a></h2>
     <div class="meta">Watering & Soil • coco coir • soil amendment • cal-mag • peat moss alternative</div>
     <p>Learn how to use coco coir for houseplants. Covers rehydration, cal-mag buffering, mix recipes by plant type, and coco coir vs peat moss.</p>
