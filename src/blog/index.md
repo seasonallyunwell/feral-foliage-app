@@ -158,7 +158,7 @@ permalink: /blog/
     <p>Transform your bathroom with plants that actually love humidity. Discover the best high-humidity houseplants for steamy bathrooms, plus placement tips.</p>
   </div>
   <div class="card">
-    <h2><a href="/blog/best-humidifier-for-houseplants/">Best Humidifiers for Houseplants: Stop Misting, Start Thriving</a></h2>
+    <h2><a href="/blog/best-humidifier-for-houseplants-indoor-plants/">Best Humidifiers for Houseplants: Stop Misting, Start Thriving</a></h2>
     <div class="meta">Getting Started • humidifier • humidity • affiliate links</div>
     <p>Misting doesn't work. Here's the science behind why — and the humidifiers that actually help your houseplants thrive.</p>
   </div>
