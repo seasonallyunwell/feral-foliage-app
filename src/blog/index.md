@@ -402,6 +402,12 @@ permalink: /blog/
   <h2 class="section-title">🐛 Pest Control</h2>
 
   <div class="card">
+    <h2><a href="/blog/aphids-on-houseplants-identification-treatment-prevention/">Aphids on Houseplants — How to Spot, Kill & Prevent Them</a></h2>
+    <div class="meta">Pest Control • identification • treatment guide • aphid • prevention</div>
+    <p>Complete guide to identifying and eliminating aphids on houseplants. Step-by-step treatment ladder, natural remedies, and prevention tips.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/scale-insects-on-houseplants-identification-treatment/">Scale Insects on Houseplants — Identification & Treatment Guide</a></h2>
     <div class="meta">Pest Control • identification • treatment guide • scale • crawlers</div>
     <p>Learn to identify scale insects on houseplants and eliminate them for good. Covers soft vs armored scale, crawler timing, treatment schedules, and stop criteria.</p>
