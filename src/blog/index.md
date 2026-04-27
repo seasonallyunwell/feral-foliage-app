@@ -602,6 +602,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/dracaena-care-guide-dragon-tree-indoor-plant/">Dracaena Care Guide — Complete Guide to Growing Dragon Trees Indoors</a></h2>
+    <div class="meta">🌸 Plant Spotlights • dracaena • watering • propagation • troubleshooting • pet toxic</div>
+    <p>The dragon tree is low-maintenance, striking, and almost impossible to kill — if you nail watering. Here's the full guide.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/spider-plant-care-guide-chlorophytum-comosum-varieties-vittatum-bonnie/">Spider Plant Care Guide — The Easy, Air-Purifying Classic That Produces Babies</a></h2>
     <div class="meta">Plant Spotlights • spider plant • air-purifying • propagation • beginner • pet-safe</div>
     <p>Learn spider plant care — NASA's top air purifier that's pet-safe and produces babies. Covers watering, light, propagation, varieties Vittatum vs Bonnie, and troubleshooting brown tips.</p>
