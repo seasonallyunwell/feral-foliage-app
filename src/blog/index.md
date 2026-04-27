@@ -602,6 +602,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/anthurium-care-indoor-plant-flamingo-flower/">Anthurium Care Guide — How to Keep Flamingo Flowers Thriving</a></h2>
+    <div class="meta">🌸 Plant Spotlights • anthurium • flamingo flower • watering • humidity • soil mix • troubleshooting • pet toxic</div>
+    <p>Complete anthurium care guide: watering (epiphyte logic), bright indirect light, 60-80% humidity, chunky soil mix, and troubleshooting yellow leaves, brown tips, and root rot.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/dracaena-care-guide-dragon-tree-indoor-plant/">Dracaena Care Guide — Complete Guide to Growing Dragon Trees Indoors</a></h2>
     <div class="meta">🌸 Plant Spotlights • dracaena • watering • propagation • troubleshooting • pet toxic</div>
     <p>The dragon tree is low-maintenance, striking, and almost impossible to kill — if you nail watering. Here's the full guide.</p>
