@@ -402,6 +402,12 @@ permalink: /blog/
   <h2 class="section-title">🐛 Pest Control</h2>
 
   <div class="card">
+    <h2><a href="/blog/whiteflies-on-houseplants-how-to-get-rid-of-treatment/">Whiteflies on Houseplants — Identification, Treatment & Prevention Guide</a></h2>
+    <div class="meta">Pest Control • whitefly • identification • treatment guide • prevention</div>
+    <p>Identify, treat, and prevent whiteflies on your houseplants with this complete guide. Includes DIY spray recipes, treatment ladder, and quarantine tips.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/aphids-on-houseplants-identification-treatment-prevention/">Aphids on Houseplants — How to Spot, Kill & Prevent Them</a></h2>
     <div class="meta">Pest Control • identification • treatment guide • aphid • prevention</div>
     <p>Complete guide to identifying and eliminating aphids on houseplants. Step-by-step treatment ladder, natural remedies, and prevention tips.</p>
