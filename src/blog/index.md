@@ -614,6 +614,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/spider-plant-care-guide-indoor-chlorophytum/">Spider Plant Complete Care — The Ultimate Guide to Chlorophytum</a></h2>
+    <div class="meta">🌸 Plant Spotlights • spider plant • care guide • propagation • pet-safe • beginner</div>
+    <p>The starter plant that never stops giving — and how to keep it alive without trying too hard. Covers watering, light, soil, and propagation.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/spider-plant-care-guide-chlorophytum-comosum-varieties-vittatum-bonnie/">Spider Plant Care Guide — The Easy, Air-Purifying Classic That Produces Babies</a></h2>
     <div class="meta">Plant Spotlights • spider plant • air-purifying • propagation • beginner • pet-safe</div>
     <p>Learn spider plant care — NASA's top air purifier that's pet-safe and produces babies. Covers watering, light, propagation, varieties Vittatum vs Bonnie, and troubleshooting brown tips.</p>
