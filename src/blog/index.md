@@ -602,6 +602,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/peperomia-care-guide-indoor-plant-varieties/">Peperomia Care Guide — Perfect Small Plants for Any Space</a></h2>
+    <div class="meta">🌸 Plant Spotlights • peperomia • care guide • watering • propagation • beginner • pet-safe</div>
+    <p>Learn to grow peperomia indoors — variety selector by space & light, semi-succulent watering, troubleshooting & propagation. Pet-safe & beginner-friendly.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/anthurium-care-indoor-plant-flamingo-flower/">Anthurium Care Guide — How to Keep Flamingo Flowers Thriving</a></h2>
     <div class="meta">🌸 Plant Spotlights • anthurium • flamingo flower • watering • humidity • soil mix • troubleshooting • pet toxic</div>
     <p>Complete anthurium care guide: watering (epiphyte logic), bright indirect light, 60-80% humidity, chunky soil mix, and troubleshooting yellow leaves, brown tips, and root rot.</p>
