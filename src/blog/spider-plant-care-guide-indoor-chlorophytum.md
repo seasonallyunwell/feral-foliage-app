@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Spider Plant Care Guide: Everything You Need to Grow Chlorophytum
-description: The ultimate spider plant care guide — watering, light, soil, propagation, and troubleshooting. Turn one plant into dozens with FF's step-by-step.
+title: "Spider Plant Care Guide: Everything You Need to Grow Chlorophytum"
+description: "The ultimate spider plant care guide — watering, light, soil, propagation, and troubleshooting. Turn one plant into dozens with FF's step-by-step."
 slug: spider-plant-complete-care-guide
 date: 2026-04-29
 author: "Feral Foliage"
