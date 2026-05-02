@@ -602,6 +602,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/orchid-care-beginner-guide-phalaenopsis-indoor/">Orchid Care for Beginners — Phalaenopsis Made Easy</a></h2>
+    <div class="meta">🌸 Plant Spotlights • orchid • phalaenopsis • beginner • watering • reblooming</div>
+    <p>The moth orchid sitting on your counter isn't fragile. You're just loving it to death. Learn the Phalaenopsis myth-busting guide that actually works — no guilt, just results.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/peperomia-care-guide-indoor-plant-varieties/">Peperomia Care Guide — Perfect Small Plants for Any Space</a></h2>
     <div class="meta">🌸 Plant Spotlights • peperomia • care guide • watering • propagation • beginner • pet-safe</div>
     <p>Learn to grow peperomia indoors — variety selector by space & light, semi-succulent watering, troubleshooting & propagation. Pet-safe & beginner-friendly.</p>

@@ -208,7 +208,7 @@ permalink: /
       <a href="/blog/" class="browse-btn">Browse Gear Guides</a>
     </div><div class="category-card">
       <h3>🔧 Troubleshooting</h3>
-      <div class="count">15+ guides</div>
+      <div class="count">16+ guides</div>
       <p>Yellow leaves, brown tips, drooping, root rot, pests — diagnose what's wrong and fix it before it's too late.</p>
       <a href="/blog/" class="browse-btn">Browse Troubleshooting</a>
     </div><div class="category-card">
@@ -224,7 +224,7 @@ permalink: /
     </div></div>
 
   <div style="text-align:center;margin:40px 0">
-    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 134 Guides →</a>
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 135 Guides →</a>
   </div>
 </div>
 
