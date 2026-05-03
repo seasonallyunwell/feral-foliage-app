@@ -379,6 +379,12 @@ permalink: /blog/
     <p>Figure out what pot size you need and what soil mix to use. Interactive calculator plus recipes for different plant types.</p>
   </div>
 
+  <div class="card">
+    <h2><a href="/blog/leca-semi-hydro-houseplants-beginner-guide/">LECA & Semi-Hydro for Houseplants: The Complete Beginner's Guide</a></h2>
+    <div class="meta">💧 Watering & Soil • LECA • semi-hydro • watering methods • hydroponics • beginner</div>
+    <p>Ditch the soil, simplify watering, and grow happier roots — without the overwhelm. This guide walks beginners through LECA step-by-step.</p>
+  </div>
+
   <h2 class="section-title">🔬 Propagation</h2>
 
   <div class="card">
