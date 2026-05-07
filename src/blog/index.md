@@ -326,6 +326,12 @@ permalink: /blog/
   <h2 class="section-title">💧 Watering & Soil</h2>
 
   <div class="card">
+    <h2><a href="/blog/white-mold-on-houseplant-soil-how-to-fix/">White Mold on Houseplant Soil — What It Is and How to Fix It</a></h2>
+    <div class="meta">💧 Watering & Soil • mold • soil issues • overwatering • prevention</div>
+    <p>White mold on houseplant soil is usually harmless — but it signals overwatering. Learn to identify it vs. mineral deposits, treat it, and stop it coming back.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/perlite-vs-vermiculite-vs-pumice-houseplant-soil-amendment/">Perlite vs Vermiculite vs Pumice — Which Soil Amendment Does Your Plant Need?</a></h2>
     <div class="meta">💧 Watering & Soil • perlite • vermiculite • pumice • soil amendment • drainage</div>
     <p>Not sure which soil amendment to use? Compare perlite, vermiculite, and pumice for drainage, moisture retention, and aeration. Find the perfect match for your houseplants.</p>
