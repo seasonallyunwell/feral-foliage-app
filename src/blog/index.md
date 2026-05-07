@@ -614,6 +614,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/syngonium-arrowhead-plant-care-indoor/">Syngonium Care Guide — Arrowhead Vines for Every Style</a></h2>
+    <div class="meta">🌸 Plant Spotlights • syngonium • beginner • care guide • propagation</div>
+    <p>Arrowhead vines are the low-fuss aroid you'll want in every room. Here's how to keep them alive — and looking good. Covers light, water, soil, pruning, and propagation.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/orchid-care-beginner-guide-phalaenopsis-indoor/">Orchid Care for Beginners — Phalaenopsis Made Easy</a></h2>
     <div class="meta">🌸 Plant Spotlights • orchid • phalaenopsis • beginner • watering • reblooming</div>
     <p>The moth orchid sitting on your counter isn't fragile. You're just loving it to death. Learn the Phalaenopsis myth-busting guide that actually works — no guilt, just results.</p>
