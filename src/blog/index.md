@@ -614,6 +614,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/ficus-benjamina-weeping-fig-care-indoor/">Weeping Fig Care Guide — Why Your Ficus benjamina Keeps Dropping Leaves</a></h2>
+    <div class="meta">🌸 Plant Spotlights • ficus benjamina • leaf drop • troubleshooting • care guide</div>
+    <p>Ficus benjamina drops leaves at the slightest change. This guide covers every cause of leaf drop, fixes for each, and a care routine that keeps your Weeping Fig stable year-round.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/syngonium-arrowhead-plant-care-indoor/">Syngonium Care Guide — Arrowhead Vines for Every Style</a></h2>
     <div class="meta">🌸 Plant Spotlights • syngonium • beginner • care guide • propagation</div>
     <p>Arrowhead vines are the low-fuss aroid you'll want in every room. Here's how to keep them alive — and looking good. Covers light, water, soil, pruning, and propagation.</p>
