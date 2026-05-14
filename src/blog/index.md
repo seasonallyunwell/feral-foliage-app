@@ -613,6 +613,11 @@ permalink: /blog/
 
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
+    <h2><a href="/blog/tradescantia-wandering-jew-plant-care-indoor/">Tradescantia Care Guide — Wandering Jew Plants for Cascading Color</a></h2>
+    <div class="meta">🌸 Plant Spotlights • tradescantia • pruning • propagation • care guide</div>
+    <p>The fast-growing trailing plant that'll fill your home with color in weeks — plus how to keep it full, bushy, and vibrantly striped.</p>
+  </div>
+
   <div class="card">
     <h2><a href="/blog/ficus-benjamina-weeping-fig-care-indoor/">Weeping Fig Care Guide — Why Your Ficus benjamina Keeps Dropping Leaves</a></h2>
     <div class="meta">🌸 Plant Spotlights • ficus benjamina • leaf drop • troubleshooting • care guide</div>
