@@ -613,6 +613,13 @@ permalink: /blog/
 
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
+  <div class="card">
+    <h2><a href="/blog/schefflera-umbrella-plant-care-indoor/">Schefflera Care Guide — Umbrella Plants That Don't Die</a></h2>
+    <div class="meta">Plant Spotlights • schefflera • umbrella plant • care guide • watering • pruning</div>
+    <p>The umbrella plant earns its name from glossy, hand-shaped leaf clusters — and it's forgiving enough for beginners. With one caveat: stop moving it around. This guide covers watering, light, pruning, pest ID, and pet toxicity.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/tradescantia-wandering-jew-plant-care-indoor/">Tradescantia Care Guide — Wandering Jew Plants for Cascading Color</a></h2>
     <div class="meta">🌸 Plant Spotlights • tradescantia • pruning • propagation • care guide</div>
     <p>The fast-growing trailing plant that'll fill your home with color in weeks — plus how to keep it full, bushy, and vibrantly striped.</p>
