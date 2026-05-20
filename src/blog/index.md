@@ -614,6 +614,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/caladium-plant-care-indoor-shade/">Caladium Care Guide — Heart-Shaped Leaves for Shade Gardens</a></h2>
+    <div class="meta">🌸 Plant Spotlights • caladium • dormancy • shade plants • care guide</div>
+    <p>Complete caladium care guide for indoor growers. Learn watering, light, soil mix, dormancy, and troubleshooting heart-shaped caladium leaves.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/schefflera-umbrella-plant-care-indoor/">Schefflera Care Guide — Umbrella Plants That Don't Die</a></h2>
     <div class="meta">Plant Spotlights • schefflera • umbrella plant • care guide • watering • pruning</div>
     <p>The umbrella plant earns its name from glossy, hand-shaped leaf clusters — and it's forgiving enough for beginners. With one caveat: stop moving it around. This guide covers watering, light, pruning, pest ID, and pet toxicity.</p>
