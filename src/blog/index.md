@@ -614,6 +614,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/philodendron-moonlight-care-guide-indoor-chartreuse-plant/">Philodendron Moonlight Care Guide — The Bright Chartreuse Foliage Plant</a></h2>
+    <div class="meta">🌸 Plant Spotlights • philodendron • chartreuse • care guide • pruning • propagation</div>
+    <p>Complete guide to Philodendron Moonlight — the self-heading clumper with chartreuse new growth. Covers watering, aroid soil mix, light, pruning for bushier growth, and troubleshooting yellow leaves.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/caladium-plant-care-indoor-shade/">Caladium Care Guide — Heart-Shaped Leaves for Shade Gardens</a></h2>
     <div class="meta">🌸 Plant Spotlights • caladium • dormancy • shade plants • care guide</div>
     <p>Complete caladium care guide for indoor growers. Learn watering, light, soil mix, dormancy, and troubleshooting heart-shaped caladium leaves.</p>
