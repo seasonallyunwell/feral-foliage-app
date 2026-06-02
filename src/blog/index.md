@@ -386,6 +386,12 @@ permalink: /blog/
   </div>
 
   <div class="card">
+    <h2><a href="/blog/root-bound-plant-signs-what-to-do/">Is Your Plant Root Bound? Signs to Check & What to Actually Do About It</a></h2>
+    <div class="meta">💧 Watering & Soil • diagnosis • repotting • troubleshooting • beginner</div>
+    <p>The symptoms look like under-watering or overwatering — but the fix is completely different. Here's how to diagnose root bound and what to do about it.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/leca-semi-hydro-houseplants-beginner-guide/">LECA & Semi-Hydro for Houseplants: The Complete Beginner's Guide</a></h2>
     <div class="meta">💧 Watering & Soil • LECA • semi-hydro • watering methods • hydroponics • beginner</div>
     <p>Ditch the soil, simplify watering, and grow happier roots — without the overwhelm. This guide walks beginners through LECA step-by-step.</p>
