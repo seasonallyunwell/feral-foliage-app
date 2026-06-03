@@ -620,6 +620,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/stromanthe-triostar-care-guide/">Stromanthe Triostar Care Guide — The Most Dramatic Prayer Plant You'll Ever Own</a></h2>
+    <div class="meta">🌸 Plant Spotlights • prayer plant • humidity • filtered water • troubleshooting • propagation</div>
+    <p>Filtered water, 60%+ humidity, and bright indirect light — the three things that make or break a Stromanthe Triostar. This guide covers care, troubleshooting, propagation, and how to keep those pink leaves.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/philodendron-moonlight-care-guide-indoor-chartreuse-plant/">Philodendron Moonlight Care Guide — The Bright Chartreuse Foliage Plant</a></h2>
     <div class="meta">🌸 Plant Spotlights • philodendron • chartreuse • care guide • pruning • propagation</div>
     <p>Complete guide to Philodendron Moonlight — the self-heading clumper with chartreuse new growth. Covers watering, aroid soil mix, light, pruning for bushier growth, and troubleshooting yellow leaves.</p>
