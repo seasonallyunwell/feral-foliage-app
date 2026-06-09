@@ -228,6 +228,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/plant-shelf-ideas-styling-indoor-plants/">How to Style a Plant Shelf — Shelfie Ideas That Actually Look Good</a></h2>
+    <div class="meta">Plant Care Essentials • shelf styling • arrangement • IKEA Kallax • pot colors</div>
+    <p>Your plant shelf doesn't have to look chaotic or sterile. Learn how to style a plant shelf with plant health in mind — the rules, fixes, and shelfie ideas that work.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-clean-houseplant-leaves-dust-indoor-plants/">How to Clean Houseplant Leaves — Why It Matters More Than You Think</a></h2>
     <div class="meta">Plant Care Essentials • leaf cleaning • maintenance • pest inspection</div>
     <p>Dusty houseplant leaves block light and invite pests. Learn 5 methods for cleaning indoor plant leaves, which to use for each plant type, and what NOT to put on them.</p>
