@@ -488,6 +488,12 @@ permalink: /blog/
   <h2 class="section-title">🩺 Troubleshooting</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-care-for-mail-order-plants-after-shipping/">Mail-Order Plant Unboxing: How to Save Sad Shipping Survivors</a></h2>
+    <div class="meta">Troubleshooting • shipping stress • recovery • diagnosis • beginner</div>
+    <p>Your plant arrived looking rough. Here's exactly what to do. Step-by-step recovery guide for stressed mail-order plants — wilted, drooping, or yellowing leaves.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/common-houseplant-mistakes-beginner-errors-kill-plants/">Common Houseplant Mistakes That Kill Plants — Beginner Errors to Avoid</a></h2>
     <div class="meta">Troubleshooting • beginner mistakes • overwatering • drainage • watering schedule • pot size</div>
     <p>Killing houseplants is normal — but preventable. Learn the 7 beginner mistakes that kill plants, why they actually die, and how to rescue yours.</p>
