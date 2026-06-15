@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Syngonium Care Guide — Arrowhead Vines for Every Style
-description: Your complete syngonium care guide — light, water, soil, pruning, and propagation for beginners. Plus: pick the right arrowhead plant variety for your aesthetic.
+description: "Your complete syngonium care guide — light, water, soil, pruning, and propagation for beginners. Plus: pick the right arrowhead plant variety for your aesthetic."
 slug: syngonium-arrowhead-plant-care-indoor
 date: 2026-05-07
 author: "Feral Foliage"

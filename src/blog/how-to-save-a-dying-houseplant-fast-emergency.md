@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Plant Emergency First Aid: Save a Dying Plant in 48 Hours
+title: "Plant Emergency First Aid: Save a Dying Plant in 48 Hours"
 description: Your plant is crying for help. This 48-hour emergency protocol tells you exactly what to check first, what to do next, and when to give up. Start now.
 slug: how-to-save-a-dying-houseplant-fast-emergency
 date: 2026-06-12

@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Schefflera Care Guide — Umbrella Plants That Don't Die
-description: Schefflera care: watering schedules, bright indirect light, why umbrella plants drop leaves when moved, pest ID, pruning, and pet toxicity.
+description: "Schefflera care: watering schedules, bright indirect light, why umbrella plants drop leaves when moved, pest ID, pruning, and pet toxicity."
 slug: schefflera-umbrella-plant-care-indoor
 date: 2026-05-14
 author: "Feral Foliage"

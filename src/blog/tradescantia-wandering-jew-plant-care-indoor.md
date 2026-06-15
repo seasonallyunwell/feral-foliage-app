@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Tradescantia Care Guide: How to Grow, Propagate & Keep Those Stripes
+title: "Tradescantia Care Guide: How to Grow, Propagate & Keep Those Stripes"
 description: Complete tradescantia care guide covering watering, light, pruning for fullness, propagation, and why your plant is losing its stripes.
 slug: tradescantia-care-guide
 date: 2026-05-13
