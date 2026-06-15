@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Caladium Care Guide: Heart-Shaped Leaves for Shade Gardens
+title: "Caladium Care Guide: Heart-Shaped Leaves for Shade Gardens"
 description: Complete caladium care guide for indoor growers. Learn watering, light, soil mix, dormancy, and troubleshooting heart-shaped caladium leaves.
 slug: caladium-plant-care-indoor-shade
 date: 2026-05-19

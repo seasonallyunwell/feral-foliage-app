@@ -488,6 +488,12 @@ permalink: /blog/
   <h2 class="section-title">🩺 Troubleshooting</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-save-a-dying-houseplant-fast-emergency/">Plant Emergency First Aid — Save a Dying Plant in 48 Hours</a></h2>
+    <div class="meta">Troubleshooting • emergency care • root rot • diagnosis • recovery</div>
+    <p>Your plant is crying for help. This 48-hour emergency protocol tells you exactly what to check first, what to do next, and when to give up.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/how-to-care-for-mail-order-plants-after-shipping/">Mail-Order Plant Unboxing: How to Save Sad Shipping Survivors</a></h2>
     <div class="meta">Troubleshooting • shipping stress • recovery • diagnosis • beginner</div>
     <p>Your plant arrived looking rough. Here's exactly what to do. Step-by-step recovery guide for stressed mail-order plants — wilted, drooping, or yellowing leaves.</p>
