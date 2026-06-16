@@ -129,6 +129,12 @@ permalink: /blog/
   <h2 class="section-title">🌱 Getting Started</h2>
 
   <div class="card">
+    <h2><a href="/blog/identify-houseplant-by-picture-leaves-no-name/">I Don't Know What Plant This Is — Identify Your Mystery Houseplant</a></h2>
+    <div class="meta">Getting Started • plant ID • leaf shape • beginner</div>
+    <p>Got a plant with no label? Learn how to identify any houseplant using leaf shape, growth habit, and vein patterns — free guide with printable ID worksheet.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/feng-shui-plants-for-home-positive-energy-good-luck/">Best Feng Shui Houseplants — Plants That Attract Positive Energy to Every Room</a></h2>
     <div class="meta">Getting Started • feng shui • room guide • plant selection • beginner</div>
     <p>The best feng shui houseplants for positive energy, good luck and prosperity — with a room-by-room placement guide, bagua map tips and care advice.</p>
