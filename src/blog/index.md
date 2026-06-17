@@ -644,6 +644,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/rare-philodendron-varieties-pink-princess-spiritus-sancti-comparison/">Rare Philodendron Varieties Compared: Pink Princess vs Spiritus Sancti</a></h2>
+    <div class="meta">🌸 Plant Spotlights • philodendron • Pink Princess • Spiritus Sancti • comparison • care difficulty • pricing</div>
+    <p>Once $10,000 plants, now under $50. Compare Pink Princess vs Spiritus Sancti care, cost, difficulty, and looks — the only guide you need in 2026.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/stromanthe-triostar-care-guide/">Stromanthe Triostar Care Guide — The Most Dramatic Prayer Plant You'll Ever Own</a></h2>
     <div class="meta">🌸 Plant Spotlights • prayer plant • humidity • filtered water • troubleshooting • propagation</div>
     <p>Filtered water, 60%+ humidity, and bright indirect light — the three things that make or break a Stromanthe Triostar. This guide covers care, troubleshooting, propagation, and how to keep those pink leaves.</p>
