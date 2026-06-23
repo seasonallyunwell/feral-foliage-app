@@ -234,6 +234,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/humidity-solutions-for-apartments-houseplants-dry-climate/">Humidity Solutions for Apartments: Small-Space Plant Care in Dry Climates</a></h2>
+    <div class="meta">Plant Care Essentials • humidity • dry climate • apartment • renter-friendly • humidifier</div>
+    <p>From free hacks to the right humidifier — practical humidity solutions for apartment plant parents in dry climates. A ranked solutions ladder for every budget.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/plant-shelf-ideas-styling-indoor-plants/">How to Style a Plant Shelf — Shelfie Ideas That Actually Look Good</a></h2>
     <div class="meta">Plant Care Essentials • shelf styling • arrangement • IKEA Kallax • pot colors</div>
     <p>Your plant shelf doesn't have to look chaotic or sterile. Learn how to style a plant shelf with plant health in mind — the rules, fixes, and shelfie ideas that work.</p>
