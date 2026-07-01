@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: ZZ Plant Care Guide: The Indestructible Favorite
+title: "ZZ Plant Care Guide: The Indestructible Favorite"
 description: The only ZZ plant guide that explains the 'why' behind every care rule. Covers watering, light, soil, propagation, toxicity, varieties, and troubleshooting.
 slug: zz-plant-care-guide
 date: 2026-06-23
