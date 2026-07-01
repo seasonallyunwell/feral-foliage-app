@@ -650,6 +650,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/zz-plant-care-guide/">ZZ Plant Care Guide: The Indestructible Favorite</a></h2>
+    <div class="meta">🌸 Plant Spotlights • ZZ plant • care guide • watering • propagation • troubleshooting • varieties</div>
+    <p>The only ZZ plant guide that explains the 'why' behind every care rule. Covers watering, light, soil, propagation, toxicity, varieties, and troubleshooting.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/rare-philodendron-varieties-pink-princess-spiritus-sancti-comparison/">Rare Philodendron Varieties Compared: Pink Princess vs Spiritus Sancti</a></h2>
     <div class="meta">🌸 Plant Spotlights • philodendron • Pink Princess • Spiritus Sancti • comparison • care difficulty • pricing</div>
     <p>Once $10,000 plants, now under $50. Compare Pink Princess vs Spiritus Sancti care, cost, difficulty, and looks — the only guide you need in 2026.</p>
