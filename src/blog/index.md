@@ -650,6 +650,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/string-of-pearls-care-guide/">String of Pearls Care: Complete Senecio Rowleyanus Guide</a></h2>
+    <div class="meta">🌸 Plant Spotlights • string of pearls • succulent • watering • propagation • troubleshooting • pet toxic</div>
+    <p>Master String of Pearls care with pearl-reading diagnostics, soak-and-dry watering, propagation steps, and rescue tips. Keep your SOP alive.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/zz-plant-care-guide/">ZZ Plant Care Guide: The Indestructible Favorite</a></h2>
     <div class="meta">🌸 Plant Spotlights • ZZ plant • care guide • watering • propagation • troubleshooting • varieties</div>
     <p>The only ZZ plant guide that explains the 'why' behind every care rule. Covers watering, light, soil, propagation, toxicity, varieties, and troubleshooting.</p>
