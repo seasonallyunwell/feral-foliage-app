@@ -650,6 +650,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/rubber-plant-care-guide-ficus-elastica/">Rubber Plant Care: Ficus Elastica Varieties & Growing Guide</a></h2>
+    <div class="meta">🌸 Plant Spotlights • rubber plant • ficus elastica • varieties • care guide • pruning • propagation</div>
+    <p>Complete Ficus elastica care guide covering rubber plant varieties (Tineke, Ruby, Burgundy), watering, pruning, propagation, and troubleshooting common problems.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/string-of-pearls-care-guide/">String of Pearls Care: Complete Senecio Rowleyanus Guide</a></h2>
     <div class="meta">🌸 Plant Spotlights • string of pearls • succulent • watering • propagation • troubleshooting • pet toxic</div>
     <p>Master String of Pearls care with pearl-reading diagnostics, soak-and-dry watering, propagation steps, and rescue tips. Keep your SOP alive.</p>
