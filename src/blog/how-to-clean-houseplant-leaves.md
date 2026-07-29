@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: How to Clean Houseplant Leaves: The Right Way
+title: "How to Clean Houseplant Leaves: The Right Way"
 description: Learn the right way to clean houseplant leaves — 5 methods for every leaf type, a plant-type decision tree, and DIY natural solutions that actually work.
 slug: how-to-clean-houseplant-leaves
 date: 2026-07-24

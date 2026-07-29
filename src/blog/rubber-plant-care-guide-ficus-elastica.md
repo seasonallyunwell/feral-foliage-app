@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Rubber Plant Care: Ficus Elastica Varieties & Growing Guide
+title: "Rubber Plant Care: Ficus Elastica Varieties & Growing Guide"
 description: Complete Ficus elastica care guide covering rubber plant varieties (Tineke, Ruby, Burgundy), watering, pruning, propagation, and troubleshooting common problems.
 slug: rubber-plant-care-ficus-elastica
 date: 2026-07-07
