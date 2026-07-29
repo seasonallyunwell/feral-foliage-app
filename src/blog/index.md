@@ -234,6 +234,12 @@ permalink: /blog/
   <h2 class="section-title">🪴 Plant Care Essentials</h2>
 
   <div class="card">
+    <h2><a href="/blog/how-to-clean-houseplant-leaves/">How to Clean Houseplant Leaves: The Right Way</a></h2>
+    <div class="meta">Plant Care Essentials • leaf cleaning • maintenance • pest inspection</div>
+    <p>Learn the right way to clean houseplant leaves — 5 methods for every leaf type, a plant-type decision tree, and DIY natural solutions that actually work.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/humidity-solutions-for-apartments-houseplants-dry-climate/">Humidity Solutions for Apartments: Small-Space Plant Care in Dry Climates</a></h2>
     <div class="meta">Plant Care Essentials • humidity • dry climate • apartment • renter-friendly • humidifier</div>
     <p>From free hacks to the right humidifier — practical humidity solutions for apartment plant parents in dry climates. A ranked solutions ladder for every budget.</p>
