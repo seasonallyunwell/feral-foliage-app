@@ -656,6 +656,12 @@ permalink: /blog/
   <h2 class="section-title">🌸 Plant Spotlights</h2>
 
   <div class="card">
+    <h2><a href="/blog/calathea-ornata-care-pin-stripe/">Calathea Ornata Care: Pin Stripe Plant Complete Guide</a></h2>
+    <div class="meta">🌸 Plant Spotlights • calathea • pin stripe • tropical plant • troubleshooting</div>
+    <p>Complete Calathea Ornata care guide for the Pin Stripe Plant. Watering, humidity, soil mix, troubleshooting brown tips, pest control, and propagation.</p>
+  </div>
+
+  <div class="card">
     <h2><a href="/blog/rubber-plant-care-guide-ficus-elastica/">Rubber Plant Care: Ficus Elastica Varieties & Growing Guide</a></h2>
     <div class="meta">🌸 Plant Spotlights • rubber plant • ficus elastica • varieties • care guide • pruning • propagation</div>
     <p>Complete Ficus elastica care guide covering rubber plant varieties (Tineke, Ruby, Burgundy), watering, pruning, propagation, and troubleshooting common problems.</p>

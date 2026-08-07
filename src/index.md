@@ -224,14 +224,14 @@ permalink: /
     </div></div>
 
   <div style="text-align:center;margin:40px 0">
-    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 154 Guides →</a>
+    <a href="/blog/" style="display:inline-block;background:#2d5a30;color:#fff;padding:14px 28px;border-radius:8px;font-weight:600;font-size:1.1em">View All 155 Guides →</a>
   </div>
 </div>
 
 <div class="footer">
   <p>🌿 Feral Foliage — unapologetically practical plant care</p>
   <p><a href="/disclosure/">Affiliate Disclosure</a></p>
-  <p style="margin-top:12px;color:#444">v2.0.0 · Last updated: 2026-02-08</p>
+  <p style="margin-top:12px;color:#444">v2.0.0 · Last updated: 2026-08-07</p>
 </div>
 
 <script>
